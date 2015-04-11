@@ -16,7 +16,7 @@ keywords: program, transparence, svobodný software, demokracie
 
 ### Stát 21.století
 
-- Masivní použití IT tehchnologií.
+- Masivní použití IT 
 - Vše musí být možné vyřídit přes internet!
 - Preferování [svobodného software](http://cs.wikipedia.org/wiki/Svobodn%C3%BD_software) a hardware.
 
