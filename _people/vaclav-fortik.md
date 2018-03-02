@@ -2,7 +2,7 @@
 uid: vaclav.fortik
 name:                           Václav Fořtík  	# běžně používáné jméno
 fullname: 			Václav Fořtík  # jméno s tituly etc.
-category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
+category:       p6, cl              # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 img: 		people/vaclav-fortik.jpg    # 165 x 220
 description: 			garant programového bodu školství             	        			# kratký popis, max 160 znaků
