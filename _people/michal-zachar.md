@@ -2,7 +2,7 @@
 uid: michal.zachar
 name:                           Michal Zacahar  	# běžně používáné jméno
 fullname: 			Michal Zacahar  # jméno s tituly etc.
-category:                       # kategorie: p6
+category:            p6, cl           # kategorie: p6
 - praha6
 - mp
 - carousel
