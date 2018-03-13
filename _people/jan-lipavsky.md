@@ -3,7 +3,7 @@ uid: jan.lipavsky
 name:     Jan Lipavský  	# běžně používáné jméno
 fullname: Jan Lipavský  	# jméno s tituly etc.
 category: 
-- p6
+- praha6
 - mp      
 - rv
 - psp
