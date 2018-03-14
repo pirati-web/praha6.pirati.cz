@@ -17,7 +17,7 @@ Je to politika "as usual", dobrý nápad je znetvořen, aby na něm soukromá sk
 Ale už je špatně, že:
 
 1. Praha má mít ve firmě menšinový podíl, takže nebude o ničem rozhodovat ani poskytovat informace zastupitelům, 
-2. Nebylo to projednáno v Zastupitelstvu (očekávám, že tam půjdou až když budou chtít ručení za půjčky – stejně jako u tramvají) a smluvní dokumentace výběrového řízení byla dokonce zastupitelům odepřena,
+2. Nebylo to projednáno na Zastupitelstvu (očekávám, že tam půjdou až když budou chtít ručení za půjčky – stejně jako u tramvají) a smluvní dokumentace výběrového řízení byla dokonce zastupitelům odepřena,
 3. máme do společné firmy vkládat pozemky za nejasných podmínek.
 
 Hrozí tak, že Praha do společného podniku vloží ornou půdu, následně z pozemků společného podniku ta samá Praha udělá změnou územního plánu stavební parcely pro výstavbu mrakodrapů, společný podnik je prodá a developeři shrábnou 75 % zisku, Praha pouze 25 % zisku. Ano, to odpovídá podnikatelské zručnosti Prahy. Tyto námitky jsem již minulý rok osobně předal řediteli DPP panu Gillarovi.
