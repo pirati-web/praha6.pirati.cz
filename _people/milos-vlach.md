@@ -1,13 +1,13 @@
 ---
 uid: milos.vlach
-name:                           Miloš Vlach  	# běžně používáné jméno
-fullname: 			Miloš Vlach   # jméno s tituly etc.
-category:                       # kategorie: p6, cl
+name:                   Miloš Vlach  	# běžně používáné jméno
+fullname: 			    Miloš Vlach   # jméno s tituly etc.
+category:               # kategorie: p6, cl
 - praha6
 - clen
 - carousel
-img: 		people/milos-vlach.jpg    # 165 x 220
-description: 			Podnikatel a vývojář uživatelské přívětivosti, expert na krypto-měny, kandidát do zastupitelstva MČ Praha 6.           	        			# kratký popis, max 160 znaků
+img: 		            people/milos-vlach.jpg    # 165 x 220
+description: 			Podnikatel a vývojář uživatelské přívětivosti, expert na krypto-měny. # kratký popis, max 160 znaků
 mail:
 - milos.vlach@pirati.cz
 mob: 				
@@ -20,7 +20,7 @@ ordcar: 3
 carousel:
   img: milos-vlach.jpg
   text: |
-    <p>Podnikatel a vývojář uživatelské přívětivosti, expert na krypto-měny, kandidát do zastupitelstva MČ Praha 6</p>
+    <p>Podnikatel a vývojář uživatelské přívětivosti, expert na krypto-měny.</p>
 ---
 
 Co mne baví?

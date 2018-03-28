@@ -1,13 +1,13 @@
 ---
-uid: 	vaclav.fortik
-name:          Václav Fořtík
-fullname: 			Václav Fořtík  # jméno s tituly etc.
+uid: 	        vaclav.fortik
+name:           Václav Fořtík
+fullname: 		Václav Fořtík  # jméno s tituly etc.
 category:       
-- p6
-- cl              # kategorie: rp, praha, vary, hradec, jmk, senat
+- praha6
+- clen          # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
-img: 		people/vaclav-fortik.jpg    # 165 x 220
-description: 			garant programového bodu školství             	        			# kratký popis, max 160 znaků
+img: 		    people/vaclav-fortik.jpg    # 165 x 220
+description: 	Garant programového bodu školství Pirátů. # kratký popis, max 160 znaků
 mail:
 - vaclav.fortik@pirati.cz
 mob: 				
