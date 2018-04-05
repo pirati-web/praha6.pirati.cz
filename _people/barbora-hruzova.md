@@ -7,7 +7,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/barbora-hruzova.jpg    # 165 x 220
-description:        description:        Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6. # kratký popis, max 160 znaků. # kratký popis, max 160 znaků
+description:        Pracuje v Archeologickém ústavu Akademie Věd jako dokumentátorka. Moje ideály jsou svoboda a soukromí, přátelství a tolerance. # kratký popis, max 160 znaků. # kratký popis, max 160 znaků
 mail:
 - barbora.hruzova@pirati.cz
 mob: 				
@@ -20,6 +20,6 @@ ordcar: 3
 carousel:
   img: barbora-hruzova.jpg
   text: |
-    <p>description:        Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6.</p>
+    <p>Pracuje v Archeologickém ústavu Akademie Věd jako dokumentátorka. Moje ideály jsou svoboda a soukromí, přátelství a tolerance. # kratký popis, max 160 znaků.</p>
 ---
 Narodila jsem se 31. března 1962 v Brně, kde jsem vystudovala střední knihovnickou školu. Od roku 1982 se čtyřletou přestávkou žiju na Praze 6. Členkou Pirátů jsem od roku 2013 a Piráti mě zaujali především tím, že nejsou klasická politická strana a jejich ideály jsou naprosto v souladu s mými. Od roku 1996 pracuji v Archeologickém ústavu Akademie Věd jako dokumentátorka. Moje ideály jsou svoboda a soukromí, přátelství a tolerance. 

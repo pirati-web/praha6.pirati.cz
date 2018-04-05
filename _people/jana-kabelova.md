@@ -1,10 +1,10 @@
 ---
 uid:                jana.kabelova
 name:               Jana Kabelová  	# běžně používáné jméno
-fullname: 			Ing. Jana Kabelová   # jméno s tituly etc.
+fullname: 			Jana Kabelová   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha6
-- podporovatel
+- clen
 - carousel
 img: 		        people/jana-kabelova.jpg    # 165 x 220
 description:        Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6. # kratký popis, max 160 znaků
