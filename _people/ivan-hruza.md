@@ -4,7 +4,7 @@ name:               Ivan Hrůza  	# běžně používáné jméno
 fullname: 			Ivan Hrůza   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha6
-- clen
+- mp
 - carousel
 img: 		        people/ivan-hruza.jpg    # 165 x 220
 description:        Věnuje se především Českému červenému kříži, kde působí již od roku 2001, zejména jako lektor kurzů první pomoci pro širokou veřejnost. # kratký popis, max 160 znaků
