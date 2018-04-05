@@ -9,10 +9,10 @@ category:                       # kategorie: p6, cl
 img: 		people/ondrej-chrast.jpg    # 165 x 220
 description: 			Projektový manažer v oblasti kultury a vzdělávání. Občan a patriot Prahy 6.            	        			# kratký popis, max 160 znaků
 mail:
-- ondrej.chrast@pirati.cz
+- ondrej.chrast@gmail.com
 mob: 				
 profiles:
-  facebook: 
+  facebook: https://www.facebook.com/ondrej.chrast
   twitter: 
   flickr: 
 ordpraha: 4
