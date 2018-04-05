@@ -7,7 +7,7 @@ category:                       # kategorie: p6, cl
 - clen
 - carousel
 img: 		        people/jana-kabelova.jpg    # 165 x 220
-description:        Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6. # kratký popis, max 160 znaků
+description:        Projektantka a rozpočtářka, specialistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6. # kratký popis, max 160 znaků
 mail:
 - jana.kabelova@pirati.cz
 mob: 				
