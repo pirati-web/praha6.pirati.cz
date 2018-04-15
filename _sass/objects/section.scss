@@ -218,16 +218,19 @@ $section-ns: '';
 
 .#{$section-ns}o-section .#{$section-ns}o-section-header {
   position: relative;
-  color: #f3c289;
-  border-bottom: 5px solid #f3c289;
+  color: #343434;
+  border-bottom: 1px solid #f3c289;
   margin-top: 6px;
   padding-bottom: 2px;
-  margin-bottom: -2px;
+  padding-top: 2px;
+  margin-bottom: 2rem;
+  //background: #343434;
 }
 
 .#{$section-ns}o-section .#{$section-ns}o-section__heading {
   font-size: 1.8rem;
-  color: #f3c289;
+  color: #343434;
+  text-align: center;
 
   &.#{$section-ns}o-section__heading--small {
     font-size: 1.5rem;

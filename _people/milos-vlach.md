@@ -7,7 +7,7 @@ category:               # kategorie: p6, cl
 - clen
 - carousel
 img: 		            people/milos-vlach.jpg    # 165 x 220
-description: 			Podnikatel a vývojář uživatelské přívětivosti, expert na krypto-měny. # kratký popis, max 160 znaků
+description: 			Podnikatel a vývojář uživatelské přívětivosti # kratký popis, max 160 znaků
 mail:
 - milos.vlach@pirati.cz
 mob: 				
@@ -20,7 +20,7 @@ ordcar: 3
 carousel:
   img: milos-vlach.jpg
   text: |
-    <p>Podnikatel a vývojář uživatelské přívětivosti, expert na krypto-měny.</p>
+    <p>Podnikatel a vývojář uživatelské přívětivosti</p>
 ---
 
 Co mne baví?
