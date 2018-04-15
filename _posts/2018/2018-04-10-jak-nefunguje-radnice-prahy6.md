@@ -32,6 +32,6 @@ Odvozovat délku koncese v tomto konkrétním případě od jiných zařízení 
 
 Pro občany Prahy 6 je ale ještě horší zpráva, že radnice si v budoucím Integrovaném centru pro seniory Šolínova rezervovala pro své občany pouhých 30 lůžek. Zbytek kapacity domova důchodců budou moci využít samoplátci, protože koncesionář bude zařízení provozovat komerčně.
 
-Apelujeme na vedení radnice Prahy 6, ať soutěž na koncesionáře neprodleně zastaví. Objekty je potřeba zrekonstruovat a celou kapacitu ponechat k využití jako domov pro seniory z Prahy 6.
+Apelujeme na vedení radnice Prahy 6, ať soutěž na koncesionáře neprodleně zastaví. Objekty je potřeba zrekonstruovat a celou kapacitu ponechat k využití pro seniory z Prahy 6.
 
 
