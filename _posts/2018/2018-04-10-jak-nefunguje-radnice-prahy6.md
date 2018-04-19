@@ -34,4 +34,6 @@ Pro občany Prahy 6 je ale ještě horší zpráva, že radnice si v budoucím I
 
 Apelujeme na vedení radnice Prahy 6, ať soutěž na koncesionáře neprodleně zastaví. Objekty je potřeba zrekonstruovat a celou kapacitu ponechat k využití pro seniory z Prahy 6.
 
+[Petiční arch ke stažení](/assets/PeticeSolinova.pdf)
+
 
