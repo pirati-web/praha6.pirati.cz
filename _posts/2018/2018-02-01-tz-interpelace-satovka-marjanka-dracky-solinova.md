@@ -3,7 +3,7 @@ date:         2018-04-22
 category:     blog
 tags:         praha-6, tz
 layout:       post
-title:        "TZ: Interpelace - Marjanka, Šatovka, Dračky, Šolínova a další kauzy" 
+title:        "TZ: Interpelace - Marjánka, Šatovka, Dračky, Šolínova a další kauzy" 
 image:        interpelace-194.jpg
 author:       Ondřej Chrást, Barbora Hrůzová
 ---
