@@ -4,7 +4,7 @@ name:               Eva Tichá  	# běžně používáné jméno
 fullname: 			Ing. Eva Tichá   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha6
-- podporovatel
+- clen
 - carousel
 img: 		        people/eva-ticha.jpg    # 165 x 220
 description:        Příznivkyně Pirátů od roku 2013, obchodní manažerka, kandidátka do zastupitelstva MČ Praha 6. # kratký popis, max 160 znaků

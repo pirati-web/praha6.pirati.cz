@@ -4,7 +4,7 @@ name:                           Ondřej Chrást  	# běžně používáné jmén
 fullname: 			Mgr. Ondřej Chrást   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha6
-- podporovatel
+- clen
 - carousel
 img: 		people/ondrej-chrast.jpg    # 165 x 220
 description: 			Projektový manažer v oblasti kultury a vzdělávání. Občan a patriot Prahy 6.            	        			# kratký popis, max 160 znaků
