@@ -9,6 +9,7 @@ category:                       # kategorie: p6, cl
 img: 		        people/antonin-stogr.jpg    # 165 x 220
 description:        Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí # kratký popis, max 160 znaků
 mail:
+-
 mob: 				
 profiles:
   facebook: 
