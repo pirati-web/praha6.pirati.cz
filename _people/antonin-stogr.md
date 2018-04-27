@@ -9,7 +9,6 @@ category:                       # kategorie: p6, cl
 img: 		        people/antonin-stogr.jpg    # 165 x 220
 description:        Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí # kratký popis, max 160 znaků
 mail:
-- eva.ticha@pirati.cz
 mob: 				
 profiles:
   facebook: 
@@ -18,7 +17,7 @@ profiles:
 ordpraha: 4
 ordcar: 3
 carousel:
-  img: antonin-strogl.jpg
+  img: antonin-stogr.jpg
   text: |
     <p>Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí</p>
 ---
