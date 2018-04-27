@@ -1,12 +1,12 @@
 ---
-uid:                antonin.strogl
-name:               Antonín Štrogl  	# běžně používáné jméno
-fullname: 			Antonín Štrogl   # jméno s tituly etc.
+uid:                antonin.stogr
+name:               Antonín Štogr  	# běžně používáné jméno
+fullname: 			Antonín Štogr   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha6
 - podporovatel
 - carousel
-img: 		        people/antonin-strogl.jpg    # 165 x 220
+img: 		        people/antonin-stogr.jpg    # 165 x 220
 description:        Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí # kratký popis, max 160 znaků
 mail:
 - eva.ticha@pirati.cz
