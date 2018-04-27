@@ -6,10 +6,10 @@ category:                       # kategorie: p6, cl
 - praha6
 - clen
 - carousel
-img: 		        people/petr-syrovy.jpg    # 165 x 220
-description:        Dlouholetý příznivce a člen Pirátské strany. # kratký popis, max 160 znaků
+img: 		        people/jana-kabelova.jpg    # 165 x 220
+description:        Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6. # kratký popis, max 160 znaků
 mail:
-- 
+- jana.kabelova@pirati.cz
 mob: 				
 profiles:
   facebook: 
@@ -18,10 +18,8 @@ profiles:
 ordpraha: 4
 ordcar: 3
 carousel:
-  img: petr-syrovy.jpg
+  img: jana-kabelova.jpg
   text: |
-    <p>Dlouholetý příznivce a člen Pirátské strany.</p>
+    <p>Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6.</p>
 ---
-Petr Syrový, narozen 24. 9. 1977 v Praze. Dlouholetý příznivce a člen Pirátské strany. Po dokončení základní školy absolvoval Střední soukromé odborné učiliště stravování a cestovního ruchu. Po závěrečných zkouškách na této škole pokračoval v tříletém nástavbovém studiu při zaměstnání.
-
-Prošel několika firmami, kde se věnoval vystudovanému oboru, ale také firmami mimo tento obor se zaměřením na logistiku a skladování. V současnosti pracuje jako komparzista. Angažuje se v aktivitách souvisejících s Prahou 6, převážně problematikou bezpečné a logické dopravy na Praze 6, zachování odpočinkových zón a výsadbou zeleně. Spolupracuje s místními sdruženími a je jejich častým petičním spolupracovníkem. Působí také jak dobrovolník. Ambasador Vladimíra Franze při jeho kandidatuře na prezidenta republiky.
+Narodila jsem se 9.4.1959 ve Zlíně 9.4.1959. Vystudovala jsem SPŠ stavební v Brně. Pracovala jsem jako projektantka a rozpočtářka. Veřejné dění mě vždycky zajímalo, i když jsem celý život byla nestraník. Před časem jsem vstoupila do České pirátské strany, oslovil mě způsob jejich činnosti a programové nastavení.  V Praze bydlím od roku 1983. V současné době vnímám velký problém v bytové, zdravotní a sociální politice.  
