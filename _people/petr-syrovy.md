@@ -9,7 +9,7 @@ category:                       # kategorie: p6, cl
 img: 		        people/petr-syrovy.jpg    # 165 x 220
 description:        Dlouholetý příznivce a člen Pirátské strany # kratký popis, max 160 znaků
 mail:
-- jana.kabelova@pirati.cz
+- petr.syrovy@pirati.cz
 mob: 				
 profiles:
   facebook: 
