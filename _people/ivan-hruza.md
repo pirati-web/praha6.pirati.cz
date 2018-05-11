@@ -7,7 +7,7 @@ category:                       # kategorie: p6, cl
 - mp
 - carousel
 img: 		        people/ivan-hruza.jpg    # 165 x 220
-description:        Věnuje se především Českému červenému kříži, kde působí již od roku 2001, zejména jako lektor kurzů první pomoci pro širokou veřejnost. # kratký popis, max 160 znaků
+description:         Původně vystudoval Střední zdravotnickou a dodnes se tedy věnuje především sociální a zdravotní problematice. Nyní pracuje v oblasti IT bezpečnosti u významné české společnosti. # kratký popis, max 160 znaků
 mail:
 - ivan.hruza@pirati.cz
 mob: 				
