@@ -18,7 +18,7 @@ profiles:
 ordpraha: 5
 ordcar: 3
 carousel:
-  img: tomas-sidlo.jpg
+  img: vladimir-sraier.jpg
   text: |
     <p>Zastupitel Prahy 6, finanční expert, podnikatel. Myšlenkový otec a zakladatel veletrhu Holiday World.</p>
 ---
