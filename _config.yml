@@ -10,6 +10,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-maps
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -53,6 +54,10 @@ defaults:   # defaults values for collection scope
 calendar:
 fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
 tw: piratipraha
+
+maps:
+  google:
+    api_key: AIzaSyBk7Xg7HasMuCdSVKK1t7mvUiK_YwfUzWk
 
 title-page:
   big:

@@ -6,6 +6,10 @@ layout:       post
 title:        "TZ: Zastaveného koncesního řízení na provoz domu pro seniory v Šolínově ulici" 
 image:        solinova.jpg
 author:       Viktor Mahrik
+location:
+        latitude: 50.100864
+        longitude: 14.391884
+marker_icon: https://maps.google.com/mapfiles/kml/shapes/parking_lot_maps.png
 ---
 
 Piráti již měsíce poukazují na špatně vypsané výběrové řízení k rekonstrukci a provozování komerčního domova pro seniory v Šolínově ulici v Praze 6. To vypsala Městská část Prahy 6 ovládaná koalicí TOP 09, ANO, STAN a KDU-ČSL. Účastníci výběrového řízení zřejmě dali Pirátům za pravdu - do 30.dubna, kdy chtěla radnice výběrové řízení uzavřít, žádný zájemce  závaznou nabídku nepodal. Piráti dlouhodobě prosazují, aby domov pro seniory namísto komerční firmy začala provozovat Městská část jako sociální službu za cenu přijatelnou pro všechny občany Prahy 6.
