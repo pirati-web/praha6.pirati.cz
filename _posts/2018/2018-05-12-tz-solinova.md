@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Zastaveného koncesního řízení na provoz domu pro seniory v Šolínově ulici
+title: Piráti Prahy 6 zastavili nevýhodný 30 pronájem domova důchodců soukromé firmě
 date: 2018-05-12T00:00:00.000Z
 author: Viktor Mahrik
 image: solinova.jpg
