@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: >-
-  Piráti Prahy 6 zastavili nevýhodný 30 letý pronájem domova důchodců soukromé
+  Piráti Prahy 6 zastavili nevýhodný 30letý pronájem domova důchodců soukromé
   firmě
 date: 2018-05-12T00:00:00.000Z
 author: Viktor Mahrik
