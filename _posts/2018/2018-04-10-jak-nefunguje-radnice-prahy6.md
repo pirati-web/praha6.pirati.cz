@@ -1,11 +1,11 @@
 ---
-date:         2018-04-10
-category:     blog
-tags:         praha-6
-layout:       post
-title:        "Jak nefunguje radnice Prahy 6: jde jim o cihly, ne o lidi" 
-image:        solinova.jpg
-author:       Jana Kabelová
+layout: post
+category: blog
+title: 'Jak nefunguje radnice Prahy 6: jde jim o cihly, ne o lidi'
+date: 2018-04-10T00:00:00.000Z
+author: Jana Kabelová
+image: /assets/img/posts/solinova.jpg
+tags: praha-6
 ---
 
 Co mají společného Poliklinika Pod Marjánkou a seniorské centrum Šolínova? Oba objekty má ve správě městská část Prahy 6. Polikliniku Pod Marjánkou v minulosti pronajala na 30 let do soukromých rukou. V roce 2016 MČ Prahy 6 od smlouvy pro její nevýhodnost pro městskou část odstoupila a za to nájemci vyplatila téměř 40 milionů korun. Poliklinika je dnes v zoufalém až havarijním stavu. Navzdory této zkušenosti chce radnice zasmluvnit ještě před volbami další třicetiletou koncesi. Jedná se o tzv. „trojdomí“ Šolínova. V domech dříve fungoval domov důchodců.
