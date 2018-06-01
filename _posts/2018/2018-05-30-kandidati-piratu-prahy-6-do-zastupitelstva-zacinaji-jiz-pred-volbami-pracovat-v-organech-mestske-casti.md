@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: CLANKY
+layout: post
+category: blog
 title: >-
   Kandidáti Pirátů Prahy 6 do zastupitelstva začínají již před volbami pracovat
   v orgánech městské části
