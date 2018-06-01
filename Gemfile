@@ -7,7 +7,7 @@ gem "jekyll-sitemap", "1.0.0"
 gem "jekyll-feed", "0.9.1"
 
 #gem 'jekyll-admin', group: :jekyll_plugins
-gem 'jekyll-maps', group: :jekyll_plugins
+#gem 'jekyll-maps', group: :jekyll_plugins
 
 group :development, :test do
   gem "html-proofer"
