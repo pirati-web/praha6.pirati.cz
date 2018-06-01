@@ -6,7 +6,7 @@ title: >-
   firmě
 date: 2018-05-12T00:00:00.000Z
 author: Viktor Mahrik
-image: solinova.jpg
+image: /assets/img/posts/solinova.jpg
 tags: |
   praha 6
 ---
