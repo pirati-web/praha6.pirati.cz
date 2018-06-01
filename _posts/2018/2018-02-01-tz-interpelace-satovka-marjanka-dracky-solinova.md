@@ -1,11 +1,11 @@
 ---
-date:         2018-04-22
-category:     blog
-tags:         praha-6, tz
-layout:       post
-title:        "TZ: Interpelace - Marjánka, Šatovka, Dračky, Šolínova a další kauzy" 
-image:        interpelace-194.jpg
-author:       Ondřej Chrást,<br/>Barbora Hrůzová
+layout: post
+category: blog
+title: 'TZ: Interpelace - Marjánka, Šatovka, Dračky, Šolínova a další kauzy'
+date: 2018-04-22T00:00:00.000Z
+author: 'Ondřej Chrást,<br/>Barbora Hrůzová'
+image: /assets/img/posts/interpelace-194.jpg
+tags: 'praha-6, tz'
 ---
 *Piráti z Prahy 6 se zúčastnili zasedání místního zastupitelstva s několika interpelacemi a jedním návrhem na změnu jednacího řádu. Na žádnou z interpelací nedostali uspokojivou odpověď a změna jednacího řádu také nebyla schválena. Závažným kauzám na „šestce“ se budou věnovat i nadále, dokud nedostanou vysvětlení a nedosáhnu nápravy všech pochybení Rady MČ i jejího starosty Koláře.*
 ----
