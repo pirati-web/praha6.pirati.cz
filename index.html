@@ -21,7 +21,7 @@ rbar: people
                 <a href="{{article.url | relative_url}}">
                   <img src="{{ article.image | prepend: '/assets/img/posts/' | relative_url }}" alt="{{article.title}}">
                 </a>
-                <meta itemprop="url" content="{{ article.img | prepend: '/assets/img/posts/' | relative_url }}">
+                <meta itemprop="url" content="{{ article.img | relative_url }}">
                 <meta itemprop="width" content="">
                 <meta itemprop="height" content=""> </div>
             </div>
