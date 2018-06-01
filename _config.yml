@@ -10,7 +10,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-maps
+#  - jekyll-maps
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
