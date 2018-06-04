@@ -11,7 +11,9 @@ Místní sdružení České Pirátské strany Praha 6 srdečně zve občany na v
 
 Místo konání: JAMMCLUB, Pod Kaštany 183/3, Praha 6 (v blízkosti stanice metra Hradčanská) - VSTUP FREE
 
-Vzhledem k zájmu o toto setkání prosíme všechny, kdo se chtějí účastnit o registraci ZDE: <Https://goo.gl/forms/W9qLMpucW9cwH2Lj1>
+Vzhledem k zájmu o toto setkání prosíme všechny, kdo se chtějí účastnit o registraci ZDE: 
+
+<Https://goo.gl/forms/W9qLMpucW9cwH2Lj1>
 
 Po naplnění počtu 80 osob bude registrace uzavřena.
 
