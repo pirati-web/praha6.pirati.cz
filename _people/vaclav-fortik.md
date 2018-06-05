@@ -4,10 +4,10 @@ name:           Václav Fořtík
 fullname: 		Václav Fořtík  # jméno s tituly etc.
 category:       
 - praha6
-- clen          # kategorie: rp, praha, vary, hradec, jmk, senat
+- mp          # kategorie: rp, praha, vary, hradec, jmk, senat
 - ga
 img: 		    people/vaclav-fortik.jpg    # 165 x 220
-description: 	Garant programového bodu školství Pirátů. # kratký popis, max 160 znaků
+description: 	3. místopředseda místního sdružení a garant programového bodu školství Pirátů. # kratký popis, max 160 znaků
 mail:
 - vaclav.fortik@pirati.cz
 mob: 				
