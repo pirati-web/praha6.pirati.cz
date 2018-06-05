@@ -15,7 +15,7 @@ profiles:
   facebook: https://www.facebook.com/milos.vlach
   twitter: 
   flickr: 
-ordpraha: 4
+ordpraha: 2
 ordcar: 3
 carousel:
   img: milos-vlach.jpg
