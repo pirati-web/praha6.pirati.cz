@@ -4,7 +4,7 @@ name:               Ivan Hrůza  	# běžně používáné jméno
 fullname: 			Ivan Hrůza   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha6
-- mp
+- clen
 - carousel
 img: 		        people/ivan-hruza.jpg    # 165 x 220
 description:         Původně vystudoval Střední zdravotnickou a dodnes se tedy věnuje především sociální a zdravotní problematice. Nyní pracuje v oblasti IT bezpečnosti u významné české společnosti. # kratký popis, max 160 znaků
