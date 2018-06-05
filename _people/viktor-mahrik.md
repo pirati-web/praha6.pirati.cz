@@ -7,7 +7,7 @@ category:                       # kategorie: p6, mp
 - mp
 - carousel
 img: 		people/viktor-mahrik.jpg    # 165 x 220
-description: 			Zastupitel Pirátů se specializací na oblast dopravy v zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
+description: 			3. místopředseda místního sdružení a zastupitel Pirátů se specializací na oblast dopravy v zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
 mail:
 - viktor.mahrik@pirati.cz
 mob: 				+420 602 767 298
@@ -15,7 +15,7 @@ profiles:
   facebook: https://www.facebook.com/viktor.mahrik
   twitter: https://twitter.com/_ViM
   flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
-ordpraha: 1
+ordpraha: 5
 ordcar: 3
 carousel:
   img: viktor-mahrik.jpg
