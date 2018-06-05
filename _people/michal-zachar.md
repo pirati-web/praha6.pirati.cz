@@ -4,10 +4,10 @@ name:               Michal Zachar  	            # běžně používáné jméno
 fullname: 			Michal Zachar               # jméno s tituly etc.
 category:          
 - praha6
-- clen
+- p
 - carousel
 img: 		        people/michal-zachar.jpg    # 165 x 220
-description: 		Mág sociálních sítí.        # kratký popis, max 160 znaků
+description: 		Předseda místního sdružení a mág sociálních sítí.        # kratký popis, max 160 znaků
 mail:
 -   michal.zachar@pirati.cz
 profiles:
