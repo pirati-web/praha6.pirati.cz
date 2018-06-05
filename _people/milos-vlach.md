@@ -4,10 +4,10 @@ name:                   Miloš Vlach  	# běžně používáné jméno
 fullname: 			    Miloš Vlach   # jméno s tituly etc.
 category:               # kategorie: p6, cl
 - praha6
-- clen
+- mp
 - carousel
 img: 		            people/milos-vlach.jpg    # 165 x 220
-description: 			Podnikatel a vývojář uživatelské přívětivosti # kratký popis, max 160 znaků
+description: 			1. místopředseda místního sdružení, podnikatel a vývojář uživatelské přívětivosti # kratký popis, max 160 znaků
 mail:
 - milos.vlach@pirati.cz
 mob: 				
