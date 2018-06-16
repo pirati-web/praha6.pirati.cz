@@ -18,7 +18,7 @@ profiles:
 ordpraha: 4
 ordcar: 3
 carousel:
-  img:petr-syrovy.jpg
+  img: petr-syrovy.jpg
   text: |
     <p>Dlouholetý příznivce a člen Pirátské strany</p>
 ---
