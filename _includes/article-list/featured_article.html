@@ -4,8 +4,10 @@
     <div class="c-BlogPosting-photoBox">
       <!-- BlogPosting image -->
       <div itemprop="image" itemtype="http://schema.org/ImageObject" class="c-BlogPosting__image" itemscope="">
-        <img src="{{article.image | prepend: '/assets/img/posts/' | relative_url }}" alt="{{article.title}}">
-        <meta itemprop="url" content="{{article.image | prepend: '/assets/img/posts/' | relative_url }}">
+        <a href="{{article.url | relative_url}}">
+          <img src="{{ article.image | relative_url }}" alt="{{article.title}}">
+        </a>
+        <meta itemprop="url" content="{{article.image | relative_url }}">
         <meta itemprop="width" content="">
         <meta itemprop="height" content=""> </div>
     </div>
@@ -29,7 +31,7 @@
       </h1>
       <!-- BlogPosting description-->
       <div itemprop="description" class="c-BlogPosting-content">
-        <p>{{ article.excerpt | truncatewords: 45 }}</p>
+        <p>{{ article.excerpt | strip_html | truncatewords: 45 }}</p>
       </div>
       <a href="{{article.url | relative_url}}" class="c-BlogPosting-excerpt-readMore">Přečíst celý článek &rsaquo;</a>
     </div>
