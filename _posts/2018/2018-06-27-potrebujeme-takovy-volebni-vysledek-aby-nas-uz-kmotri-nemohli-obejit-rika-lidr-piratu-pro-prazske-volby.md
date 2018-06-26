@@ -8,8 +8,8 @@ date: '2018-07-10 12:04am'
 author: Ivan Břešták
 image: /assets/img/posts/pirati-praha-hrib.jpg
 tags: >-
-  Hrib Praha Magistrat Zivotni prostredi Doprava Bydleni trafiky Korupce Verejny
-  prostor vzdelavani Digitalizace Verejna sprava
+  Hrib Praha Magistrat Zivotni prostredi Doprava Bydleni Trafiky Korupce Verejny
+  prostor Vzdelavani Digitalizace Verejna sprava
 ---
 _**Zdeňku, jste vystudovaný lékař. Co Vás přivedlo ke kandidatuře na pražského primátora a do politiky obecně**?_\
 Když jsem šel na medicínu, zdravotnictví na tom nebylo nejlíp. Věřil jsem, že než dostuduji, někdo situaci napraví. Ta je ale stále stejná. Přijde mi, že řada politiků vlastně ani nemá reálný zájem na nějaké změně také proto, že jsou ve střetu zájmů a potřebují uživit svůj byznys navázaný na veřejný sektor. Například jeden člen správní rady VZP je spolumajitelem holdingu nemocnic a posílá tedy VZP faktury. Lidem to už ale přijde normální. Zkrátka si zvykli. Podle mě jsou ale střety zájmů a klientelismus důvodem, proč přešlapujeme na místě. Současní politici nemají zájem posunout nás někam dál a zlepšit situaci běžných obyvatel, protože oni necítí jejich problémy a naopak umí stávající systém využít pro své osobní potřeby. Ukázalo se, že není jiná možnost, než na té změně osobně pracovat. Proto kandiduji. Přece jen jde o velmi náročnou a odpovědnou funkci. 
