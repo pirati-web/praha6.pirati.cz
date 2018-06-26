@@ -4,11 +4,11 @@ name:               Antonín Štogr  	# běžně používáné jméno
 fullname: 			Antonín Štogr   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha6
-- podporovatel
+- clen
 - carousel
 img: 		        people/antonin-stogr.jpg    # 165 x 220
 description:        Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí # kratký popis, max 160 znaků
-mail:
+mail: antonin.stogr@pirati.cz
 -
 mob: 				
 profiles:
@@ -22,7 +22,7 @@ carousel:
   text: |
     <p>Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí</p>
 ---
-Antonín Štogr (* 8. června 1985) je registrovaný příznivec Pirátské strany. Narodil do disidentské rodiny žijící na Praze 6 u “Kulaťáku”, v jehož okolí vyrůstal a žije celý život. Dřív než na základní školu nastoupil do skautského oddílu u Hradčanské. Tyto dvě skutečnosti ho formovaly ve vztahu nejen k přírodě, ale také ke společnosti a svobodě. V roce 2018 se začal aktivně scházet s místním sdružením.
+Antonín Štogr (* 8. června 1985) je člen Pirátské strany. Narodil do disidentské rodiny žijící na Praze 6 u “Kulaťáku”, v jehož okolí vyrůstal a žije celý život. Dřív než na základní školu nastoupil do skautského oddílu u Hradčanské. Tyto dvě skutečnosti ho formovaly ve vztahu nejen k přírodě, ale také ke společnosti a svobodě.
 
 Pracuje na Břevnově jako specialista na produkty firmy Apple, kterými se začal zabývat ještě v době „před-iPhonové“. Uživatelská přívětivost a designová čistota těchto produktů ho zaujala natolik, že u tohoto řemesla zůstává i po víc jak deseti letech. V práci technika se snoubí dvě věci, které mu přijdou zásadní. Může rozebírat přístroje, opravovat je, a tím jim dávat možnost být použitelné dlouhou dobu a opravou zároveň potěšit člověka, který s problémem přišel. Jako obchodník zase musí umět naslouchat potřebám jiných.
 
