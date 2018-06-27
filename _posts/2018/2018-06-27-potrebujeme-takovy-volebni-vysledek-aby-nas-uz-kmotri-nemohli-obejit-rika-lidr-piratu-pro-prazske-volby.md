@@ -2,8 +2,8 @@
 layout: post
 category: blog
 title: >-
-  POTŘEBUJEME TAKOVÝ VOLEBNÍ VÝSLEDEK, ABY NÁS UŽ KMOTŘI NEMOHLI OBEJÍT – ŘÍKÁ
-  LÍDR PIRÁTŮ PRO PRAŽSKÉ VOLBY
+  Potřebujeme takový volební výsledek, aby nás už kmotři nemohli obejít – říká
+  lídr Pirátů pro pražské komunální volby
 date: '2018-07-10 12:04am'
 author: Ivan Břešták
 image: /assets/img/posts/pirati-praha-hrib.jpg
