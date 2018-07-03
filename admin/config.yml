@@ -36,3 +36,13 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: ""}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
     card: {type: "image", image: "image", text: "title", required: true}
+  - name: "program" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Program" # Used in the UI, ie.: "New Post"
+    folder: "_program"
+    slug: "{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Category", name: "category", widget: "text", default: ""}
+      - {label: "Pořadí", name: "order", widget: "text", default: ""}
+      - {label: "Jméno", name: "name", widget: "string", tagname: "h1", required: true}
+      - {label: "Obsah", name: "body", widget: "markdown", required: true}
