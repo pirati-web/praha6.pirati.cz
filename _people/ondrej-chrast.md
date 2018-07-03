@@ -6,7 +6,7 @@ category:                       # kategorie: p6, cl
 - praha6
 - mp
 - carousel
-img: 		people/ondrej-chrast.jpg    # 165 x 220
+img: 		people/ondrej.chrast.letni.jpg    # 165 x 220
 description: 			2. místo předseda místního sdružení a projektový manažer v oblasti kultury a vzdělávání. Občan a patriot Prahy 6.            	        			# kratký popis, max 160 znaků
 mail:
 - ondrej.chrast@gmail.com
