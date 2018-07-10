@@ -23,6 +23,6 @@ Piráti proto požádali radnici, aby jejich zástupce začal pracovat v Komisi 
 
 Piráti Prahy 6 v posledních týdnech zasáhli do praktické politiky radnice již několikrát, aniž by na radnici měli zastoupení. Prosazovali, aby městská část ustoupila od pronájmu velkého domova důchodců v Šolínově ulici soukromé firmě na 30 let, a zařízení provozovala vlastními silami. Na základě jejich tlaku byl výběr soukromého provozovatele zastaven.  Projednávali také se starostou městské části svojí vizi aktivní bytové politiky, která by znamenala konec nevýhodným prodejům souborů stavebních parcel na různých místech Prahy 6 skupině Penta.
 
-Profily kandidátů: [ing. Miloš Vlach](/lide/milos-vlach/), [Mgr. Tomáš Šídlo](/lide/tomas_sidlo), [Ing. Vladimír Šraier](/lide/vladimir_srajer)
+Profily kandidátů: [ing. Miloš Vlach](/lide/milos-vlach/), [Mgr. Tomáš Šídlo](/lide/tomas-sidlo), [Ing. Vladimír Šraier](/lide/vladimir-sraier)
 
 Kontakt pro media: Mgr. Ondřej Chrást, 606 914 916; ondrej.chrast@pirati.cz
