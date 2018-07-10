@@ -15,5 +15,4 @@ Musí to být aktivní a moderní politici, kteří dokážou vždy vysvětlit a
 
 **Ing. Dana Balcarová**,
 
-Poslankyně PSP\
-Specializuje se na životní prostředí
+Poslankyně PSP / Specializuje se na životní prostředí
