@@ -9,7 +9,7 @@ category:                       # kategorie: p6, cl
 img: 		        people/jiri-hoskovec.jpg    # 165 x 220
 description:        Je vystudovaný jaderný inženýr, finanční zločin a energetika jsou témata, o která se zajímá v Pirátské straně. # kratký popis, max 160 znaků
 mail:
-- jana.kabelova@pirati.cz
+- jiri.hoskovec@pirati.cz
 mob: 				
 profiles:
   facebook: 
