@@ -6,7 +6,7 @@ title: >-
   lídr Pirátů pro pražské komunální volby
 date: '2018-07-13 12:20am'
 author: Ivan Břešták
-image: /assets/img/pirati-praha6-hrib-magistrat.jpg
+image: /assets/img/pirati-praha6-magistrat-kandidat-hrib-bartos.jpg
 tags: >-
   Hrib Praha Magistrat Zivotni prostredi Doprava Bydleni Trafiky Korupce Verejny
   prostor Vzdelavani Digitalizace Verejna sprava
