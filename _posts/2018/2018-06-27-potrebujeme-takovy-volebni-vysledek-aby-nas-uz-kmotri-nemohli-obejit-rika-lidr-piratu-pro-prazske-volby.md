@@ -4,7 +4,7 @@ category: blog
 title: >-
   Potřebujeme takový volební výsledek, aby nás už kmotři nemohli obejít – říká
   lídr Pirátů pro pražské komunální volby
-date: '2018-07-13 12:04am'
+date: '2018-07-13 12:20am'
 author: Ivan Břešták
 image: /assets/img/posts/pirati-praha-hrib.jpg
 tags: >-
