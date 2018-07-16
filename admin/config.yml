@@ -31,8 +31,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "UID", name: "uid", widget: "string", required: true}
       - {label: "Name", name: "name", widget: "string", tagname: "h1", required: true}
       - {label: "Fullname", name: "fullname", widget: "string", required: true}
-      - {label: "Mobil", name: "mob", widget: "string", required: true}
-      - {label: "Mail", name: "mail", widget: "string", required: true}
+      - {label: "Mobil", name: "mob", widget: "string"}
+      - {label: "Mail", name: "mail", widget: "string"}
       - {label: "Category", name: "category", widget: "text", default: ""}
       - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: ""}
       - {label: "Description", name: "description", widget: "text", default: ""}
@@ -42,7 +42,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Twitter", name: "twitter", widget: "string"}
       - {label: "Instagram", name: "instagram", widget: "string"}
       - {label: "Flicker", name: "flicker", widget: "string"}
-      - {label: "Obsah", name: "body", widget: "markdown", required: true}
+      - {label: "Obsah", name: "body", widget: "markdown"}
     card: {type: "image", image: "image", text: "title", required: true}
   - name: "program" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Program" # Used in the UI, ie.: "New Post"
