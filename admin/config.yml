@@ -28,12 +28,20 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Category", name: "category", widget: "text", default: ""}
+      - {label: "UID", name: "uid", widget: "string", required: true}
       - {label: "Name", name: "name", widget: "string", tagname: "h1", required: true}
       - {label: "Fullname", name: "fullname", widget: "string", required: true}
-      - {label: "Mob", name: "mob", widget: "string", required: true}
-      - {label: "mail", name: "mail", widget: "text", required: true}
+      - {label: "Mobil", name: "mob", widget: "string", required: true}
+      - {label: "Mail", name: "mail", widget: "string", required: true}
+      - {label: "Category", name: "category", widget: "text", default: ""}
       - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: ""}
+      - {label: "Description", name: "description", widget: "text", default: ""}
+      - {label: "Order person", name: "ordpraha", widget: "number"}
+      - {label: "Order candidate", name: "ordcan", widget: "number"}
+      - {label: "Facebook", name: "facebook", widget: "string"}
+      - {label: "Twitter", name: "twitter", widget: "string"}
+      - {label: "Instagram", name: "instagram", widget: "string"}
+      - {label: "Flicker", name: "flicker", widget: "string"}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
     card: {type: "image", image: "image", text: "title", required: true}
   - name: "program" # Used in routes, ie.: /admin/collections/:slug/edit
