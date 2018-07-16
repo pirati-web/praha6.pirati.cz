@@ -2,13 +2,10 @@
 uid:                antonin.stogr
 name:               Antonín Štogr  	# běžně používáné jméno
 fullname: 			Antonín Štogr   # jméno s tituly etc.
-category:                       # kategorie: p6, cl
-- praha6
-- clen
+category: clen
 img: 		        people/antonin-stogr.jpg    # 165 x 220
 description:        Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí # kratký popis, max 160 znaků
-mail: 
-- antonin.stogr@pirati.cz
+mail: antonin.stogr@pirati.cz
 mob: 				
 profiles:
   facebook: 
