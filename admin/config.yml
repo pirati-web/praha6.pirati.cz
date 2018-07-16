@@ -34,7 +34,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Mobil", name: "mob", widget: "string", required: false}
       - {label: "Mail", name: "mail", widget: "string", required: false}
       - {label: "Category", name: "category", widget: "text", default: "", required: false}
-      - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: "", required: false}
+      - {label: "Obrázek", name: "img", widget: "image", tagname: "", required: false}
       - {label: "Description", name: "description", widget: "text", default: "", required: false}
       - {label: "Order person", name: "ordpraha", widget: "number", required: false}
       - {label: "Order candidate", name: "ordcan", widget: "number", required: false}
