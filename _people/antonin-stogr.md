@@ -5,7 +5,6 @@ fullname: 			Antonín Štogr   # jméno s tituly etc.
 category:                       # kategorie: p6, cl
 - praha6
 - clen
-- carousel
 img: 		        people/antonin-stogr.jpg    # 165 x 220
 description:        Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí # kratký popis, max 160 znaků
 mail: 
@@ -16,11 +15,7 @@ profiles:
   twitter: 
   flickr: 
 ordpraha: 4
-ordcar: 3
-carousel:
-  img: antonin-stogr.jpg
-  text: |
-    <p>Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí</p>
+ordcan: 3
 ---
 Antonín Štogr (* 8. června 1985) je člen Pirátské strany. Narodil do disidentské rodiny žijící na Praze 6 u “Kulaťáku”, v jehož okolí vyrůstal a žije celý život. Dřív než na základní školu nastoupil do skautského oddílu u Hradčanské. Tyto dvě skutečnosti ho formovaly ve vztahu nejen k přírodě, ale také ke společnosti a svobodě.
 
