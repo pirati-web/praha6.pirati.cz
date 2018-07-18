@@ -1,26 +1,13 @@
 ---
-uid:                tomas.sidlo
-name:               Tomáš Šídlo  	# běžně používáné jméno
-fullname: 			Tomáš Šídlo   # jméno s tituly etc.
-category:                       # kategorie: p6, cl
-- praha6
-- podporovatel
-- carousel
-img: 		        people/tomas-sidlo.jpg    # 165 x 220
-description:        Dobrovolně od roku 2012 působí v čestných funkcích ve správní radě Skautské nadace Jaroslava Foglara # kratký popis, max 160 znaků
-mail:
--
-mob: 				
-profiles:
-  facebook: 
-  twitter: 
-  flickr: 
+uid: tomas.sidlo
+name: Tomáš Šídlo
+fullname: Tomáš Šídlo
+mail: 
+category: podporovatel
+img: people/tomas-sidlo.jpg
+description: 'Dobrovolně od roku 2012 působí v čestných funkcích ve správní radě Skautské nadace Jaroslava Foglara.'
 ordpraha: 3
-ordcar: 3
-carousel:
-  img: tomas-sidlo.jpg
-  text: |
-    <p>Dobrovolně od roku 2012 působí v čestných funkcích ve správní radě Skautské nadace Jaroslava Foglara</p>
+ordcan: 7
 ---
 Tomáš Šídlo se narodil v Praze v srpnu 1968.
 
@@ -34,4 +21,5 @@ K lokální politice se dostal, když si radnice Prahy 6 v roce 2012 usmyslela p
 
 Má rád, když se svět sune k lepšímu, zejména na Praze 6, kterou miluje a většinu života v ní žije. Piráti to mají podle všeho nastavené tak, aby se jejich přispěním svět k lepšímu sunul, takže po mnoha letech přesvědčování od XChaosse je začal podporovat a přemýšlí o účasti na jejich kandidátce pro komunální volby na Praze 6.
 
-Nemá rád plané filozofování. Planost filozofování by měl umět kvalifikovaně určit, má na to akademický titul  :-). 
+Nemá rád plané filozofování. Planost filozofování by měl umět kvalifikovaně určit, má na to akademický titul  :-).
+
