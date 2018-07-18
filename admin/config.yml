@@ -26,7 +26,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Lidé" # Used in the UI, ie.: "New Post"
     folder: "_people"
     slug: "{{slug}}"
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "UID", name: "uid", widget: "string", required: true}
       - {label: "Name", name: "name", widget: "string", tagname: "h1", required: true}
