@@ -15,7 +15,7 @@ profiles:
   facebook: 
   twitter: 
   flickr: 
-ordpraha: 5
+ordpraha: 1
 ordcar: 3
 carousel:
   img: tereza-hubackova.jpg

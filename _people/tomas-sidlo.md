@@ -15,7 +15,7 @@ profiles:
   facebook: 
   twitter: 
   flickr: 
-ordpraha: 5
+ordpraha: 3
 ordcar: 3
 carousel:
   img: tomas-sidlo.jpg

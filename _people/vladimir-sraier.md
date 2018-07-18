@@ -15,7 +15,7 @@ profiles:
   facebook: 
   twitter: 
   flickr: 
-ordpraha: 5
+ordpraha: 2
 ordcar: 3
 carousel:
   img: vladimir-sraier.jpg
