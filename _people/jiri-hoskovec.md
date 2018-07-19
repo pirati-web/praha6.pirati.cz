@@ -1,28 +1,4 @@
 ---
-uid:                
-name:                 	# běžně používáné jméno
-fullname: 			Jiří Hoskovec   # jméno s tituly etc.
-category:                       # kategorie: p6, cl
-- praha6
-- clen
-- carousel
-img: 		        people/   # 165 x 220
-description:        Je vystudovaný jaderný inženýr, finanční zločin a energetika jsou témata, o která se zajímá v Pirátské straně. # kratký popis, max 160 znaků
-mail:
-- 
-mob: 				
-profiles:
-  facebook: 
-  twitter: 
-  flickr: 
-ordpraha: 4
-ordcar: 3
-carousel:
-  img: jiri-hoskovec.jpg
-  text: |
-    <p></p>
----
----
 uid: jiri.hoskovec
 name: Jiří Hoskovec
 fullname: Jiří Hoskovec
