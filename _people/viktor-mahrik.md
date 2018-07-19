@@ -5,7 +5,7 @@ fullname: Viktor Mahrik
 mail: viktor.mahrik@pirati.cz
 category: mp
 img: people/viktor-mahrik.jpg
-description: '3. místopředseda místního sdružení a zastupitel Pirátů se specializací na oblast dopravy v zastupitelstvu hlavního města Prahy.'
+description: '4. místopředseda místního sdružení a zastupitel Pirátů se specializací na oblast dopravy v zastupitelstvu hlavního města Prahy.'
 ordpraha: 5
 ordcan: 2
 ---
