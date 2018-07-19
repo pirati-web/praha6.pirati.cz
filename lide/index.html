@@ -31,7 +31,7 @@ layout: default
                               <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                   <a href="#senat" class="c-simple-accordion-title">Podporovatelé</a>
                                   <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'podporovatel'" | sort:"ordsenat" %}
+                                      {% assign team = site.people | where_exp:"item","item.categories contains 'podporovatel'" | sort:"ordpraha" %}
                                       {% include people/list-2col.html param=team %}
                                   </div>
                               </li>
