@@ -3,7 +3,7 @@ uid: vaclav.fortik
 name: Václav Fořtík
 fullname: Václav Fořtík
 mail: vaclav.fortik@pirati.cz
-category: clen
+category: mp
 img: people/vaclav-fortik.jpg
 description: '3. místopředseda místního sdružení a garant programového bodu školství Pirátů.'
 ordpraha: 4

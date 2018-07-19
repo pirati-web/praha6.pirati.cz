@@ -3,7 +3,7 @@ uid: michal.zachar
 name: Michal Zachar
 fullname: Michal Zachar
 mail: michal.zachar@pirati.cz
-category: clen
+category: mp
 img: people/michal-zachar.jpg
 description: 'Předseda místního sdružení a mág sociálních sítí.'
 ordpraha: 1

@@ -3,7 +3,7 @@ uid: ondrej.chrast
 name: Ondřej Chrást
 fullname: Mgr. Ondřej Chrást
 mail: ondrej.chrast@gmail.com
-category: clen
+category: mp
 img: people/ondrej-chrast.jpg
 description: '2. místopředseda místního sdružení a projektový manažer v oblasti kultury a vzdělávání. Občan a patriot Prahy 6.'
 ordpraha: 3
