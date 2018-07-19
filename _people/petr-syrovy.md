@@ -1,26 +1,13 @@
 ---
-uid:                petr.syrovy
-name:               Petr Syrový  	# běžně používáné jméno
-fullname: 			Petr Syrový   # jméno s tituly etc.
-category:                       # kategorie: p6, cl
-- praha6
-- clen
-- carousel
-img: 		        people/petr-syrovy.jpg    # 165 x 220
-description:        Dlouholetý příznivce a člen Pirátské strany # kratký popis, max 160 znaků
-mail:
-- petr.syrovy@pirati.cz
-mob: 				
-profiles:
-  facebook: 
-  twitter: 
-  flickr: 
-ordpraha: 4
-ordcar: 3
-carousel:
-  img: petr-syrovy.jpg
-  text: |
-    <p>Dlouholetý příznivce a člen Pirátské strany</p>
+uid: petr.syrovy
+name: Petr Syrový
+fullname: Petr Syrový
+mail: petr.syrovy@pirati.cz
+category: clen
+img: people/petr-syrovy.jpg
+description: 'Dlouholetý příznivce a člen Pirátské strany.'
+ordpraha: 10
+ordcan: 41
 ---
 Petr Syrový, narozen 24. 9. 1977 v Praze. Dlouholetý příznivce a člen Pirátské strany. Po dokončení základní školy absolvoval Střední soukromé odborné učiliště stravování a cestovního ruchu. Po závěrečných zkouškách na této škole pokračoval v tříletém nástavbovém studiu při zaměstnání.
 

@@ -1,26 +1,13 @@
 ---
-uid:                eva.ticha
-name:               Eva Tichá  	# běžně používáné jméno
-fullname: 			Ing. Eva Tichá   # jméno s tituly etc.
-category:                       # kategorie: p6, cl
-- praha6
-- clen
-- carousel
-img: 		        people/eva-ticha.jpg    # 165 x 220
-description:        Příznivkyně Pirátů od roku 2013, obchodní manažerka, kandidátka do zastupitelstva MČ Praha 6. # kratký popis, max 160 znaků
-mail:
-- eva.ticha@pirati.cz
-mob: 				
-profiles:
-  facebook: 
-  twitter: 
-  flickr: 
+uid: eva.ticha
+name: Eva Tichá
+fullname: Ing. Eva Tichá
+mail: eva.ticha@pirati.cz
+category: clen
+img: people/eva-ticha.jpg
+description: 'Obchodní manažerka, kandidátka do zastupitelstva MČ Praha 6.'
 ordpraha: 4
-ordcar: 3
-carousel:
-  img: eva-ticha.jpg
-  text: |
-    <p>Příznivkyně Pirátů od roku 2013, obchodní manažerka, kandidátka do zastupitelstva MČ Praha 6.</p>
+ordcan: 6
 ---
 Vystudovala Vysokou školu ekonomickou v Praze. Během studií získávala praxi v obchodní farmaceutické firmě a hrála nejvyšší soutěž v basketbalu, s nímž procestovala celou Evropu. Od roku 1995 se zabývala převážně obchodem, marketingem, komunikací a PR. Své zkušenosti nabývala v médiích (zpravodajství ČT, ČRo), ve státní správě (Úřad vlády ČR, Ministerstvo kultury), ale i v soukromém sektoru (Delvita, a.s., Carrefour ČR, a.s., Safina, a.s.).
 

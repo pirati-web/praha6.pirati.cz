@@ -1,26 +1,13 @@
 ---
 uid: viktor.mahrik
-name:                           Viktor Mahrik  	# běžně používáné jméno
-fullname: 			Viktor Mahrik  # jméno s tituly etc.
-category:                       # kategorie: p6, mp
-- praha6
-- mp
-- carousel
-img: 		people/viktor-mahrik.jpg    # 165 x 220
-description: 			3. místopředseda místního sdružení a zastupitel Pirátů se specializací na oblast dopravy v zastupitelstvu hlavního města Prahy             	        			# kratký popis, max 160 znaků
-mail:
-- viktor.mahrik@pirati.cz
-mob: 				+420 602 767 298
-profiles:
-  facebook: https://www.facebook.com/viktor.mahrik
-  twitter: https://twitter.com/_ViM
-  flickr: https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=viktor%20mahrik&view_all=1
+name: Viktor Mahrik
+fullname: Viktor Mahrik
+mail: viktor.mahrik@pirati.cz
+category: clen
+img: people/viktor-mahrik.jpg
+description: '3. místopředseda místního sdružení a zastupitel Pirátů se specializací na oblast dopravy v zastupitelstvu hlavního města Prahy.'
 ordpraha: 5
-ordcar: 3
-carousel:
-  img: viktor-mahrik.jpg
-  text: |
-    <p><strong>Zastupitel<strong/> za Piráty se specializací na oblast dopravy, člen předsednictva krajského sdružení Pirátů v Praze. </p>
+ordcan: 2
 ---
 
 Viktor Mahrik (* 21. dubna 1982) je členem předsednictva krajského sdružení Praha a předseda místního sdružení Praha 6. 

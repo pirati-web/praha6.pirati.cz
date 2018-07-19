@@ -1,26 +1,13 @@
 ---
-uid:                jan.lejcko
-name:               Jan Lejčko 	# běžně používáné jméno
-fullname: 			Jan Lejčko   # jméno s tituly etc.
-category:                       # kategorie: p6, cl
-- praha6
-- clen
-- carousel
-img: 		        people/jan-lejcko.jpg    # 165 x 220
-description:        Je členem pirátské strany studujícím právnickou fakultu ZČU. # kratký popis, max 160 znaků
-mail:
-- jan.lejcko@pirati.cz
-mob: 				
-profiles:
-  facebook: 
-  twitter: 
-  flickr: 
-ordpraha: 4
-ordcar: 3
-carousel:
-  img: jan-lejcko.jpg
-  text: |
-    <p>Je členem pirátské strany studujícím právnickou fakultu ZČU.</p>
+uid: jan.lejcko
+name: Jan Lejčko
+fullname: Jan Lejčko
+mail: jan.lejcko@pirati.cz
+category: clen
+img: people/jan-lejcko.jpg
+description: 'Je členem Pirátské strany studujícím Právnickou fakultu ZČU.'
+ordpraha: 6
+ordcan: 10
 ---
 Jan Lejčko (* 04. dubna 1992, Praha) je členem pirátské strany od června roku 2017, členem KS Praha a MS Praha 6, kde žije a věnuje se zde komunální politice, angažuje se též v aktivitách souvisejících s prodejem pozemků, věcí movitých a nemovitých výrazně pod tržní hodnotou.
 
