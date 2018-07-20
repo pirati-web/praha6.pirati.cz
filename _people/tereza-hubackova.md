@@ -6,7 +6,7 @@ mail:
 category: podporovatel
 img: people/tereza-hubackova.jpg
 description: 'Příznivkyně Pirátské strany.'
-ordpraha: 1
+ordpraha: 6
 ordcan: 20
 ---
 Tereza Hubáčková, DiS. (* 11. 1. 1973) je pěstounka na přechodnou dobu (pečuje o miminka, o která se nemohou nebo nechtějí postarat jejich rodiče, aby nemusela pobývat v kojeneckém ústavu; od r. 2014 se spolu s manželem postarala o sedm miminek). Dříve pracovala jako jazyková redaktorka a korektorka.

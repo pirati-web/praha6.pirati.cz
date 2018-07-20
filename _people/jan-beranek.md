@@ -6,6 +6,6 @@ mail:
 category: podporovatel
 img: people/jan-beranek.jpg
 description: 'Příznivec Pirátské strany.'
-ordpraha: 11
+ordpraha: 1
 ordcan: 18
 ---

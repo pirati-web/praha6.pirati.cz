@@ -6,7 +6,7 @@ mail:
 category: podporovatel
 img: people/martin-bohac.jpg
 description: 'Příznivec Pirátské strany.'
-ordpraha: 10
+ordpraha: 2
 ordcan: 23
 ---
 Bc. Martin Boháč (* 12. prosince 1980) je příznivcem Pirátů od května 2018.

@@ -6,7 +6,7 @@ mail:
 category: podporovatel
 img: people/michal-dnebosky.jpg
 description: 'Příznivec Pirátské strany.'
-ordpraha: 7
+ordpraha: 3
 ordcan: 18
 ---
 Narodil se v roce 1977 a celé své dětství prožil v Praze Braníku, nedaleko legendární

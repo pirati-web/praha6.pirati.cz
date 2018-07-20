@@ -6,7 +6,7 @@ mail: ivan.hruza@pirati.cz
 category: clen
 img: people/ivan-hruza.jpg
 description: 'Věnuje se především Českému červenému kříži, kde působí již od roku 2001, zejména jako lektor kurzů první pomoci pro širokou veřejnost.'
-ordpraha: 4
+ordpraha: 2
 ordcan: 13
 ---
 Ivan Hrůza *1987 v Praze. Členem Pirátů od r. 2014; od r. 2017 místopředseda MS Praha 6. V současnosti působí jako IT security specialista a nezávislý konzultant v oblasti zdravotnictví. 

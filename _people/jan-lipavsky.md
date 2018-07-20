@@ -6,7 +6,7 @@ mail: jan.lipavsky@pirati.cz
 category: clen
 img: people/jan-lipavsky.jpg
 description: 'Poslanec PSP ČR, člen Republikového výboru Pirátů.'
-ordpraha: 5
+ordpraha: 6
 ordcan: 11
 ---
 Jan Lipavský (* 2. července 1985) je pirátský poslanec, člen republikového výboru, volebního výboru a zahraničního odboru. Jan žije na Praze 6, ze které také pochází.

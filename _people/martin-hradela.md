@@ -6,7 +6,7 @@ mail:
 category: podporovatel
 img: people/martin-hradela.jpg
 description: 'Pracuje ve velkoobchodu s asijskými potravinami. Efektivní altruista. Proponent silné svobody slova.'
-ordpraha: 9
+ordpraha: 5
 ordcan: 36
 ---
 Martin Hrádela (* 29. října 1992) je příznivcem Pirátské strany, vystudoval Mensa gymnázium a v současné době studuje na Pedagogické fakultě Univerzity Karlovy, dvojobor Základy společenských věd/Angličtina.
