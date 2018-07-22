@@ -5,15 +5,15 @@ fullname: Mgr. Martin Suchan
 mail: martin.suchan@pirati.cz
 category: clen
 img: people/martin-suchan.jpg
-description: 'Primární oblastí zájmu je efektivní a transparentní fungování nejen místní radnice, ale i státu jako takového.'
+description: 'Softwarový inženýr, vývojář mobilních aplikací, člen Pirátů'
 ordpraha: 8
 ordcan: 14
 ---
-Martin Suchan se narodil v Lounech 24. ledna 1985. V Praze žije od roku 2004.
+Martin Suchan se narodil v Lounech 24. ledna 1985. V Praze žije od roku 2004 a členem Pirátů je od roku 2018.
 
 Po absolvování gymnázia v Lounech nastoupil na MFF UK v Praze, kde o šest let později úspěšně završil své magisterské stadium v oboru Softwarové inženýrství.
 
-Na znalosti získané během studia navázal i v práci, kde se od roku 2009 věnuje vývoji aplikací primárně nad Microsoft platformou. Také již řadu let vyvíjí jako hobby Windows Store aplikace pro telefony, tablety i herní konzole Xbox One, které za uplynulé roky dokázaly zaujmout již přes milion uživatelů po celém světě. Mimo to se věnuje oblasti informační bezpečnosti, kryptografii a obecně problémům Public key infrastructure. Aktuálně pracuje jako vývojář služby Mapy.cz.
+Na znalosti získané během studia navázal i v práci, kde se od roku 2009 věnuje vývoji aplikací primárně nad Microsoft platformou. Mimo to se věnuje oblasti informační bezpečnosti, kryptografii a obecně problémům Public key infrastructure. Aktuálně pracuje jako vývojář služby Mapy.cz.
 
 Mezi Piráty je jeho primární oblastí zájmu efektivní a transparentní fungování nejen místní radnice, ale i státu jako takového. Zajímá se o projekt Občanská sněmovna, a podporuje implementaci a rozvoj eGovernmentu v takové formě, která by maximálně zjednodušila život běžným občanům.
 
