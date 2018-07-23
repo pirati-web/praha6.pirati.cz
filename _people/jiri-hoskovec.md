@@ -1,7 +1,7 @@
 ---
 uid: jiri.hoskovec
 name: Jiří Hoskovec
-fullname: Jiří Hoskovec
+fullname: Ing. Jiří Hoskovec
 mail: jiri.hoskovec@pirati.cz
 category: clen
 img: people/jiri-hoskovec.jpg 

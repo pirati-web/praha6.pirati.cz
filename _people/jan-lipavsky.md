@@ -1,7 +1,7 @@
 ---
 uid: jan.lipavsky
 name: Jan Lipavský
-fullname: Jan Lipavský
+fullname: Bc. Jan Lipavský
 mail: jan.lipavsky@pirati.cz
 category: clen
 img: people/jan-lipavsky.jpg

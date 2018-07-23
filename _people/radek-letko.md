@@ -7,5 +7,5 @@ category: podporovatel
 img: people/radek-letko.jpg
 description: 'Příznivec Pirátské strany.'
 ordpraha: 7
-ordcan: 24
+ordcan: 32
 ---

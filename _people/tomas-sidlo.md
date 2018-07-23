@@ -1,7 +1,7 @@
 ---
 uid: tomas.sidlo
 name: Tomáš Šídlo
-fullname: Tomáš Šídlo
+fullname: Mgr. Tomáš Šídlo
 mail: 
 category: podporovatel
 img: people/tomas-sidlo.jpg

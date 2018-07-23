@@ -1,7 +1,7 @@
 ---
 uid: michal.dnebosky
 name: Michal Dneboský
-fullname: Michal Dneboský
+fullname: Bc. Michal Dneboský
 mail: 
 category: podporovatel
 img: people/michal-dnebosky.jpg

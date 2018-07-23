@@ -1,7 +1,7 @@
 ---
 uid: milos.vlach
 name: Miloš Vlach
-fullname: Miloš Vlach
+fullname: Ing. Miloš Vlach
 mail: milos.vlach@pirati.cz
 category: mp
 img: people/milos-vlach.jpg
