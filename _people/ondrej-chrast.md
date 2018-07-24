@@ -2,12 +2,17 @@
 uid: ondrej.chrast
 name: Ondřej Chrást
 fullname: Mgr. Ondřej Chrást
-mail: ondrej.chrast@gmail.com
+mail: ondrej.chrast@pirati.cz
 category: mp
 img: people/ondrej-chrast.jpg
-description: '2. místopředseda místního sdružení a projektový manažer v oblasti kultury a vzdělávání. Občan a patriot Prahy 6.'
+description: >-
+  Projektový manažer v oblasti kultury a vzdělávání. Lídr kandidátky a kandidát
+  na starostu v komunálních volbách 2018. 2. místopředseda místního sdružení.
+  Občan a patriot Prahy 6. 
 ordpraha: 3
 ordcan: 1
+facebook: 'https://www.facebook.com/ondrej.chrast'
+twitter: 'https://twitter.com/chrast_o'
 ---
 Vystudoval jsem psychosociální studia a teologii na UK a v současné době studuji doktorát na Fakultě podnikohospodářské VŠE v oboru Arts managementu, kde zúročuji svůj dlouhodobý odborný i osobní zájem o památkovou péči a obecně o udržitelnost a propagaci kulturního dědictví.  Mám dlouhodobé zkušenosti z práce v neziskovém sektoru v oblasti kultury a v oblasti reforem profesního terciárního vzdělávání, kde jako projektový manažer koordinuji mezinárodní i lokální projekty související ze změnami ve vzdělávání v souvislosti se všeobecným “fenoménem 4.0.” 
 
