@@ -25,12 +25,15 @@ Podrobnosti naleznete na [Facebookové stránce](https://www.facebook.com/Praha6
 
 A tak 31. července od 18:30 pořádají Piráti Praha 6 debatu na téma “[Životní prostředí](https://www.facebook.com/events/205706686811046/)” (A Maze in Tchaiovna, Muchova 241/4, Praha 6 (poblíž metra Hradčanská). Hovořit se bude jak o iniciativě Praha 6 neplastuje, tak i o řešení dalších palčivých environmentálních problémů.
 
-Kontakty:
+**Kontakty:**
 
 **Eva Tichá**, spoluiniciátorka Praha 6 neplastuje, pirátská kandidátka na Praze 6,  tel: 601 587 100, email: eva.ticha@pirati.cz
 
-**Vladimír Šraier**, spoluiniciátor Praha 6 neplastuje,  zastupitel a pirátský kandidát na Praze 6, tel.: 602 276 999, email: vladimir.sraier@gmail.com 
+**Vladimír Šraier**, spoluiniciátor Praha 6 neplastuje,  zastupitel a pirátský kandidát na Praze 6, 
+tel.: 602 276 999, email: vladimir.sraier@gmail.com 
 
-**Ondřej Chrást**, lídr kandidátky do komunálních voleb 2018 na Praze 6, tel.: 606 914 916‬, email: ondrej.chrast@pirati.cz
+**Ondřej Chrást**, lídr kandidátky do komunálních voleb 2018 na Praze 6, tel.: 606 914 916‬, 
+email: ondrej.chrast@pirati.cz
 
-**Dana Balcarová**, pirátská předsedkyně výboru pro životní prostředí Poslanecké sněmovny, tel: 732 103 330, email: dana.balcarova@pirati.cz
+**Dana Balcarová**, pirátská předsedkyně výboru pro životní prostředí Poslanecké sněmovny, 
+tel: 732 103 330, email: dana.balcarova@pirati.cz
