@@ -2,11 +2,11 @@
 uid: martin.hradela
 name: Martin Hrádela
 fullname: Martin Hrádela
-mail: 
-category: podporovatel
+mail: martin.hradela@pirati.cz
+category: clen
 img: people/martin-hradela.jpg
 description: 'Pracuje ve velkoobchodu s asijskými potravinami. Efektivní altruista. Proponent silné svobody slova.'
-ordpraha: 5
+ordpraha: 2
 ordcan: 33
 ---
 Martin Hrádela (* 29. října 1992) je příznivec Pirátské strany, vystudoval Mensa gymnázium a v současné době studuje na Pedagogické fakultě Univerzity Karlovy, dvojobor Základy společenských věd/Angličtina.
