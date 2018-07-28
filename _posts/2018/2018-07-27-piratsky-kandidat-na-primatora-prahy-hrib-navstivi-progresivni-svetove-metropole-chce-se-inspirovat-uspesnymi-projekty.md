@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: >-
   Pirátský kandidát na primátora Prahy Hřib navštíví progresivní světové
-  metropole Chce se inspirovat úspěšnými projekty.
+  metropole. Chce se inspirovat úspěšnými projekty
 date: '2018-07-28 07:40pm'
 author: Štěpán Štrébl
 image: /assets/img/pirati-hrib-stit.jpg
