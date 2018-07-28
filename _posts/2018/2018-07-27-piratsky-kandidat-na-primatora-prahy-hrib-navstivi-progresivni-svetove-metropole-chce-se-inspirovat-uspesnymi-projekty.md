@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: >-
-  Pirátský kandidát na primátora Prahy MUDr. Zdeněk Hřib navštíví progresivní
+  Pirátský kandidát na primátora Prahy, MUDr. Zdeněk Hřib, navštíví progresivní
   světové metropole. Chce se inspirovat úspěšnými projekty
 date: '2018-07-27 07:40pm'
 author: Štěpán Štrébl
