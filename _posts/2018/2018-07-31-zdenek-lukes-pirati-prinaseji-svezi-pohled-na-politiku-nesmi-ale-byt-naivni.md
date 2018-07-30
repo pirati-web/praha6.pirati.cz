@@ -4,7 +4,7 @@ category: blog
 title: >-
   Zdeněk Lukeš: „Piráti přinášejí svěží pohled na politiku. Nesmí ale být
   naivní.“
-date: '2018-07-30 11:57pm'
+date: '2018-07-30 11:50pm'
 author: Tomáš Šídlo
 image: /assets/img/prague-3540876_1920.jpg
 tags: Zdeněk Lukeš architektura památky veřejná prostranství
