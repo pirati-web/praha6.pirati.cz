@@ -5,7 +5,7 @@ fullname: Andrew Fell
 mail: 
 category: 
 img: 
-description: 
+description: Event manažer, čajovník ( A Maze in Tchaiovna)
 ordpraha: 
 ordcan: 23
 ---
