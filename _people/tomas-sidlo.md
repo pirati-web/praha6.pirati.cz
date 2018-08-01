@@ -2,12 +2,13 @@
 uid: tomas.sidlo
 name: Tomáš Šídlo
 fullname: Mgr. Tomáš Šídlo
-mail: 
 category: podporovatel
 img: people/tomas-sidlo.jpg
-description: 'Dobrovolně od roku 2012 působí v čestných funkcích ve správní radě Skautské nadace Jaroslava Foglara.'
+description: >-
+  Dobrovolně od roku 2012 působí v čestných funkcích ve správní radě Skautské
+  nadace Jaroslava Foglara.
 ordpraha: 9
-ordcan: 7
+ordcan: '8'
 ---
 Tomáš Šídlo se narodil v Praze v srpnu 1968.
 
