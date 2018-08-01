@@ -5,7 +5,7 @@ fullname: Bruce Bybee
 mail: 
 category: 
 img: 
-description: 
+description: Student
 ordpraha: 
 ordcan: 45
 ---
