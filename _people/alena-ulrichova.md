@@ -5,7 +5,7 @@ fullname: Ing. Alena Ulrichová
 mail: 
 category: 
 img: 
-description: 
+description: Stavební inženýr
 ordpraha: 
 ordcan: 35
 ---
