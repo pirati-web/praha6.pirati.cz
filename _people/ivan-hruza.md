@@ -5,7 +5,7 @@ fullname: Ivan Hrůza
 mail: ivan.hruza@pirati.cz
 category: clen
 img: people/ivan-hruza.jpg
-description: 'Věnuje se především Českému červenému kříži, kde působí již od roku 2001, zejména jako lektor kurzů první pomoci pro širokou veřejnost.'
+description: IT security, všeobecná sestra
 ordpraha: 3
 ordcan: 13
 ---
