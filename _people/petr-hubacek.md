@@ -1,11 +1,11 @@
 ---
 uid: petr.hubacek
-name: Petr Hubáček
-fullname: Paedr. Petr hubáček
+name: PaedDr. Petr Hubáček
+fullname: PaeDr. Petr hubáček
 mail: 
 category: 
 img: 
-description: 
+description: učitel
 ordpraha: 
 ordcan: 42
 ---
