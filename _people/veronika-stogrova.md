@@ -5,7 +5,7 @@ fullname: Veronika Štogrová
 mail: 
 category: 
 img: 
-description: 
+description: Koordinátorka aktivit Kulturního centra 
 ordpraha: 
 ordcan: 31
 ---
