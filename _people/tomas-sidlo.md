@@ -8,7 +8,7 @@ description: >-
   Dobrovolně od roku 2012 působí v čestných funkcích ve správní radě Skautské
   nadace Jaroslava Foglara.
 ordpraha: 9
-ordcan: '8'
+ordcan: 8
 ---
 Tomáš Šídlo se narodil v Praze v srpnu 1968.
 
