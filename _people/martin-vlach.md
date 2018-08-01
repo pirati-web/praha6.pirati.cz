@@ -5,7 +5,7 @@ fullname: Ing. Martin Vlach
 mail: 
 category: 
 img: 
-description: 
+description: Kalkulant, stavař
 ordpraha: 
 ordcan: 30
 ---
