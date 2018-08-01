@@ -1,11 +1,11 @@
 ---
 uid: milos.vlach
-name: Miloš Vlach
+name: Ing. Miloš Vlach
 fullname: Ing. Miloš Vlach
 mail: milos.vlach@pirati.cz
 category: mp
 img: people/milos-vlach.jpg
-description: '1. místopředseda místního sdružení, podnikatel a vývojář uživatelské přívětivosti.'
+description: 1. místopředseda místního sdružení, podnikatel a vývojář uživatelské přívětivosti.
 ordpraha: 2
 ordcan: 4
 ---
