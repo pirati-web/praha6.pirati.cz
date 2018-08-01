@@ -5,7 +5,7 @@ fullname: Marek Dörfl
 mail: 
 category: 
 img: 
-description: 
+description: Ředitel nákupního centra.
 ordpraha: 
 ordcan: 41
 ---
