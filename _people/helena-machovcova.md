@@ -5,7 +5,7 @@ fullname: Helena Machovcová
 mail: 
 category: 
 img: 
-description: 
+description: Překladatelka
 ordpraha: 
 ordcan: 24
 ---
