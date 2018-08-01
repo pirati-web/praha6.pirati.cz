@@ -5,7 +5,7 @@ fullname: Tomáš Pižl
 mail: 
 category: 
 img: 
-description: 
+description: student
 ordpraha: 
 ordcan: 28
 ---
