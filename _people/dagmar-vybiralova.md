@@ -5,7 +5,7 @@ fullname: Dagmar Vybíralová
 mail: 
 category: 
 img: 
-description: 
+description: Lektorka jógy
 ordpraha: 
 ordcan: 25
 ---
