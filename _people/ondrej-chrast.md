@@ -1,6 +1,6 @@
 ---
 uid: ondrej.chrast
-name: Ondřej Chrást
+name: Mgr. Ondřej Chrást
 fullname: Mgr. Ondřej Chrást
 mail: ondrej.chrast@pirati.cz
 category: mp
