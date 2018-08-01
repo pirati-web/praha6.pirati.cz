@@ -5,7 +5,7 @@ fullname: Blanka Fröhlichová
 mail: 
 category: 
 img: 
-description: 
+description: OSVČ, autorka projektu DARUJ KABÁT
 ordpraha: 
 ordcan: 36
 ---
