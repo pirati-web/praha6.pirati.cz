@@ -5,7 +5,7 @@ fullname: Lucie Tocháčková
 mail: 
 category: 
 img: 
-description: 
+description: Studentka pedagogické fakulty 
 ordpraha: 
 ordcan: 20
 ---
