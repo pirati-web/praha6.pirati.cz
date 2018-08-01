@@ -5,7 +5,7 @@ fullname: Antonín Štogr
 mail: antonin.stogr@pirati.cz
 category: clen
 img: people/antonin-stogr.jpg
-description: 'Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí.'
+description: Rodilý a hrdý občan Prahy 6, IT specialista, organizátor kulturních akcí.
 ordpraha: 11
 ordcan: 15
 ---
