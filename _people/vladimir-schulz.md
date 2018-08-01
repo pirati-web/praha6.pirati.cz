@@ -5,7 +5,7 @@ fullname: Ing. Vladimír Schulz
 mail: vladimir.schulz@pirati.cz
 category: clen
 img: people/vladimir-schulz.jpg
-description: 'Člen Pirátské strany'
+description: Lektor jógy, podnikatel
 ordpraha: 8
 ordcan: 16
 ---
