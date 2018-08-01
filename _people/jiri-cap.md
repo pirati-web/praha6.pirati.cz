@@ -5,7 +5,7 @@ fullname: Jiří Čáp
 mail: 
 category: 
 img: 
-description: 
+description: Fyzioterapeut
 ordpraha: 
 ordcan: 43
 ---
