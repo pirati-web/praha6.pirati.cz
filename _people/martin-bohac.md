@@ -4,7 +4,7 @@ name: Martin Boháč
 fullname: Bc. Martin Boháč
 category: podporovatel
 img: people/martin-bohac.jpg
-description: Příznivec Pirátské strany.
+description: Programátor, podnikatel.
 ordpraha: 2
 ordcan: 22
 ---
