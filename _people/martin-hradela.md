@@ -5,7 +5,7 @@ fullname: Martin Hrádela
 mail: martin.hradela@pirati.cz
 category: clen
 img: people/martin-hradela.jpg
-description: 'Pracuje ve velkoobchodu s asijskými potravinami. Efektivní altruista. Proponent silné svobody slova.'
+description: Provozní velkoobchodu s korejskými potravinami
 ordpraha: 2
 ordcan: 33
 ---
