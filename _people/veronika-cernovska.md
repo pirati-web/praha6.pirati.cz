@@ -5,7 +5,7 @@ fullname: Mgr. Veronika Černovská
 mail: 
 category: 
 img: 
-description: 
+description: Právnička na rodičovské dovolené
 ordpraha: 
 ordcan: 21
 ---
