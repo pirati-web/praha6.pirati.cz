@@ -5,7 +5,7 @@ fullname: Ing. Malika Salajeva
 mail: 
 category: 
 img: 
-description: 
+description: Účetní.
 ordpraha: 
 ordcan: 38
 ---
