@@ -1,11 +1,11 @@
 ---
 uid: dana.lejckova
-name: Dana Lejčková
+name: Ing. Dana Lejčková
 fullname: Ing. Dana Lejčková
 mail: 
 category: 
 img: 
-description: 
+description: IT manažer
 ordpraha: 
 ordcan: 34
 ---
