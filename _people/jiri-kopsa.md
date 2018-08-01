@@ -5,7 +5,7 @@ fullname: Ing. Jiří Kopsa
 mail: 
 category: 
 img: 
-description: 
+description: Ředitel vývoje
 ordpraha: 
 ordcan: 40
 ---
