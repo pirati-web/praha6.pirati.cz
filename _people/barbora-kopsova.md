@@ -5,7 +5,7 @@ fullname: Bc. Barbora Koposová
 mail: 
 category: 
 img: 
-description: 
+description: Webdesignerka
 ordpraha: 
 ordcan: 39
 ---
