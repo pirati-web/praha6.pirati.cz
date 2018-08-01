@@ -1,6 +1,6 @@
 ---
 uid: barbora.kopsova
-name: Barbora Kopsová
+name: Bc. Barbora Kopsová
 fullname: Bc. Barbora Koposová
 mail: 
 category: 
