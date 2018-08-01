@@ -5,7 +5,7 @@ fullname: Alžběta Majerová
 mail: 
 category: 
 img: 
-description: 
+description: Studentka
 ordpraha: 
 ordcan: 44
 ---
