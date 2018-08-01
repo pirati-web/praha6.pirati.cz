@@ -5,7 +5,7 @@ fullname: Jan Lejčko
 mail: jan.lejcko@pirati.cz
 category: clen
 img: people/jan-lejcko.jpg
-description: 'Je členem Pirátské strany studujícím Právnickou fakultu ZČU.'
+description: Student práv, basketbalový rozhodčí. Studuje Právnickou fakultu ZČU.
 ordpraha: 6
 ordcan: 10
 ---
