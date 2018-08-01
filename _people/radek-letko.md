@@ -5,7 +5,7 @@ fullname: Ing. Radek Letko
 mail: 
 category: podporovatel
 img: people/radek-letko.jpg
-description: 'Příznivec Pirátské strany.'
+description: Systémový architekt
 ordpraha: 7
 ordcan: 32
 ---
