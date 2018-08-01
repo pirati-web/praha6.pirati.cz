@@ -5,7 +5,7 @@ fullname: Mgr. Martin Suchan
 mail: martin.suchan@pirati.cz
 category: clen
 img: people/martin-suchan.jpg
-description: 'Primární oblastí zájmu je efektivní a transparentní fungování nejen místní radnice, ale i státu jako takového.'
+description: Softwarový inženýr. Primární oblastí zájmu je efektivní a transparentní fungování nejen místní radnice, ale i státu jako takového.
 ordpraha: 9
 ordcan: 14
 ---
