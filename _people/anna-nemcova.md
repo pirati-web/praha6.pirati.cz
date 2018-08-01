@@ -5,7 +5,7 @@ fullname: Anna Němcová
 mail: 
 category: 
 img: 
-description: 
+description: Lingvistka
 ordpraha: 
 ordcan: 26
 ---
