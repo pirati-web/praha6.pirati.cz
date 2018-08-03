@@ -13,9 +13,9 @@ tags: Ondrej Chrást veřejný prostor Praha 6 Dejvická Bělohorská Radnice
 
 V současné době již kandidáti do Zastupitelstva Prahy 6 rozdávají druhé (označení Babí léto) Pirátské listy pro „Šestku“ a chytají třetí, tentokrát předvolební, na září.  
 
-**Radnice: otevřeně, efektivně, rozumně **
+**Radnice: otevřeně, efektivně, rozumně**
 
-**Logická otázka na úvod, proč vstupujete do divokých vod politiky na Praze 6? **
+**Logická otázka na úvod, proč vstupujete do divokých vod politiky na Praze 6?**
 
 Přiznám se, že jako občan jsem v minulých volbách volil jednu ze současných stran stávající radniční koalice, která slíbila, že napraví pochybné akce a podivná rozhodnutí, jenž vznikaly v uplynulých obdobích. Dal jsem jim důvěru a oni ji naprosto zklamali. Nejenže problémy nevyřešili, ale ještě přidali kauzy nové. Místo toho, abych jen tak nadával, jsem se rozhodl převzít odpovědnost. Opravdu mě rozčiluje nekompetentnost a neschopnost řešit věci jednoduše a efektivně. Několik kauz poslední doby, jako je podezřelé koncesní řízení na “trojdomí” v Šolínově, které se nám ale už podařilo zastavit peticí, prodej lukrativního pozemku na Vítězném náměstí 80 milionů pod posudkovou cenou, zvláštní okolnosti tendru okolo dalšího atraktivního pozemku v areálu Dračky... To jsou věci, které mě přivedly do politiky. Chci napomoci skutečné změně k lepšímu. 
 
