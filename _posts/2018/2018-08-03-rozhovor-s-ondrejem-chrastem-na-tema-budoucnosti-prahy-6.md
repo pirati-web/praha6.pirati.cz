@@ -5,7 +5,7 @@ title: Rozhovor s Ondřejem Chrástem na téma budoucnosti Prahy 6
 date: '2018-08-03 10:51am'
 author: Ondřej Chrást
 image: /assets/img/och-letni-piratska.jpg
-tags: Ondrej Chrást, veřejný prostor, Praha 6, Dejvická, Bělohorská, Radnice
+tags: Ondrej Chrást veřejný prostor Praha 6 Dejvická Bělohorská Radnice
 ---
 **Rozhovor s Ondřejem Chrástem, lídrem Pirátů v Praze 6 a kandidátem na starostu MČ Prahy 6**
 
@@ -16,7 +16,7 @@ _
 _V současné době již kandidáti do Zastupitelstva Prahy 6 rozdávají druhé (označení Babí léto) Pirátské listy pro „Šestku“ a chytají třetí, tentokrát předvolební, na září.  
 _
 
-> **Radnice: otevřeně, efektivně, rozumně **
+**Radnice: otevřeně, efektivně, rozumně **
 
 
 **Logická otázka na úvod, proč vstupujete do divokých vod politiky na Praze 6? 
