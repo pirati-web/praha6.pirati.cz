@@ -61,5 +61,5 @@ Nebojte se dát nám svoji důvěru! Po listopadových volbách někteří polit
 
 **
 Ptala se Barbora Hrůzová.
-**\
+**
 Rozhovor vznikl pro Pirátské listy Prahy 6, na konci května 2018.
