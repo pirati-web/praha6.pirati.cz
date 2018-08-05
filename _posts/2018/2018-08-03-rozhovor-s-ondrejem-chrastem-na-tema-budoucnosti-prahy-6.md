@@ -33,7 +33,7 @@ Z historie vyrůstá naše současnost. Chci proto co nejvíce zachovat cenné k
 
 Vytvoříme podmínky pro radnici otevřenou občanům. Chceme, aby měli možnost vyjadřovat se k palčivým problémům a mohli se podílet na jejich řešení, aniž by si museli brát volno z práce a osobně interpelovat na zasedáních zastupitelstva. S pomocí občanů pak můžeme vyřešit i staré, vlekoucí se problémy, které nám zůstanou jako nechtěné dědictví po minulých vedeních radnice. 
 
-**Takže máte dobrý program pro veřejný prostor. Ale co ostatní problémy Prahy 6? **
+**Takže máte dobrý program pro veřejný prostor. Ale co ostatní problémy Prahy 6?**
 
 Máme inspirativní program i v oblasti školství a vzdělává¬ní, sociálních otázkách, financích, bytové politice, dopravě i v životním prostředí. Odborně pokrýváme celé spektrum současné činnosti MČ. Jsme silný, kompetentní a kvalifikovaný tým, který se nebojí realizovat svoje vize. Každý týden jsme někde v ulicích Prahy 6 a mluvíme s lidmi, máme otevřené schůze pro všechny zájemce, budeme pořádat veřejné debaty. Podrobně se o programu dočtete také u nás na webu praha6.pirati.cz. 
 
@@ -43,3 +43,6 @@ Nebojte se dát nám svoji důvěru! Po listopadových volbách někteří polit
 
 **Ptala se Barbora Hrůzová.**
 Rozhovor vznikl pro Pirátské listy Prahy 6, na konci května 2018.
+
+**Ondřej Chrást**
+**Vystudoval psychosociální studia a teologii na UK a v současné době studuje doktorát na Fakultě podnikohospodářské VŠE v oboru Arts managementu, kde zúročuje svůj dlouhodobý odborný i osobní zájem o památkovou péči a obecně o udržitelnost a propagaci kulturního dědictví. Má dlouhodobé zkušenosti z práce v neziskovém sektoru v oblasti kultury a v oblasti reforem profesního terciárního vzdělávání, kde jako projektový manažer koordinuje mezinárodní i lokální projekty související s “fenoménem 4.0.” a souvisejícími změnami ve vzdělávání. Jeho prioritami je obnova a zachování krásy veřejného prostoru a ochrana kulturního dědictví.**
