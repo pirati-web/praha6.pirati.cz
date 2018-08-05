@@ -44,5 +44,5 @@ Nebojte se dát nám svoji důvěru! Po listopadových volbách někteří polit
 **Ptala se Barbora Hrůzová.**
 Rozhovor vznikl pro Pirátské listy Prahy 6, na konci května 2018.
 
-**Ondřej Chrást**
-**Vystudoval psychosociální studia a teologii na UK a v současné době studuje doktorát na Fakultě podnikohospodářské VŠE v oboru Arts managementu, kde zúročuje svůj dlouhodobý odborný i osobní zájem o památkovou péči a obecně o udržitelnost a propagaci kulturního dědictví. Má dlouhodobé zkušenosti z práce v neziskovém sektoru v oblasti kultury a v oblasti reforem profesního terciárního vzdělávání, kde jako projektový manažer koordinuje mezinárodní i lokální projekty související s “fenoménem 4.0.” a souvisejícími změnami ve vzdělávání. Jeho prioritami je obnova a zachování krásy veřejného prostoru a ochrana kulturního dědictví.**
+**Mgr. Ondřej Chrást**
+**Má dlouhodobé zkušenosti z práce v neziskovém sektoru v oblasti kultury a v oblasti reforem profesního terciárního vzdělávání, kde jako projektový manažer koordinuje mezinárodní i lokální projekty související s “fenoménem 4.0.” a souvisejícími změnami ve vzdělávání. Jeho prioritami je obnova a zachování krásy veřejného prostoru a ochrana kulturního dědictví. Vystudoval psychosociální studia a teologii na UK a v současné době studuje doktorát na Fakultě podnikohospodářské VŠE v oboru Arts managementu, kde zúročuje svůj dlouhodobý odborný i osobní zájem o památkovou péči a obecně o udržitelnost a propagaci kulturního dědictví.**
