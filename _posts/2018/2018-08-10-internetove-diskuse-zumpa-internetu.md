@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Internetové diskuse – žumpa internetu?
-date: '2018-08-10 06:39am'
+date: '2018-08-09 06:39am'
 author: Martin Boháč
 image: /assets/img/social-media-1989152_1280.jpg
 tags: Internet sociální média fake news Piráti
