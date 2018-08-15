@@ -5,7 +5,6 @@
 
 .o-media__image,
 .o-media__body {
-    display: table-cell;
     vertical-align: middle;
 
     .o-media--top & {
@@ -23,13 +22,15 @@
 }
 
 .o-media__image {
-    padding-right: 0.85rem;
+    padding-right: 0;
+    margin-right: 0.85rem;
     width: 160px;
-    border-radius: 80px;
+    
     overflow: hidden;
     
     > img {
         display: block;
+        border-radius: 80px;
     }
 
     .o-media--rev & {
