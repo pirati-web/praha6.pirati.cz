@@ -1,5 +1,5 @@
 .o-media {
-    display: table;
+    display: flex;
     width: 100%;
 }
 
@@ -25,10 +25,11 @@
 .o-media__image {
     padding-right: 0.85rem;
     width: 160px;
+    border-radius: 80px;
+    overflow: hidden;
     
     > img {
         display: block;
-        max-width: none;
     }
 
     .o-media--rev & {
