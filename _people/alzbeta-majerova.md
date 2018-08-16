@@ -4,7 +4,7 @@ name: Alžběta Majerová
 fullname: Alžběta Majerová
 mail: 
 category: 
-img: 
+img: people/alzbeta-majerova.jpg
 description: Studentka
 ordpraha: 
 ordcan: 44
