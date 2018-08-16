@@ -1,6 +1,6 @@
 ---
 uid: dana.lejckova
-name: Ing. Dana Lejčková
+name: Dana Lejčková
 fullname: Ing. Dana Lejčková
 mail: 
 category: 

@@ -1,7 +1,7 @@
 ---
 uid: petr.hubacek
-name: PaedDr. Petr Hubáček
-fullname: PaeDr. Petr hubáček
+name: Petr Hubáček
+fullname: PaedDr. Petr hubáček
 mail: 
 category: 
 img: 
