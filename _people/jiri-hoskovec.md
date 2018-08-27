@@ -5,7 +5,7 @@ fullname: Ing. Jiří Hoskovec
 mail: jiri.hoskovec@pirati.cz
 category: clen
 img: people/jiri-hoskovec.jpg 
-description: 'Vystudovaný jaderný inženýr, finanční zločin a energetika jsou témata, o která se zajímá v Pirátské straně.'
+description: 'Vystudovaný jaderný inženýr, povoláním forenzní specialista na finanční zločiny. Pomáhá s řízením mediálního odboru Pirátů.'
 ordpraha: 1
 ordcan: 9
 ---
