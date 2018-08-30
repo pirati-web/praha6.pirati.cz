@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: Piráti od Bobří řeky
 date: '2018-08-29 08:08am'
-author: Tomáš Šídlo
+author: Antonín “Mapiš” Štogr
 image: /assets/img/antonin-mapis-stogr-pirati-od-bobri-reky.jpg
 tags: |-
   Antonín Štogr
