@@ -4,7 +4,7 @@ category: blog
 title: >-
   V bytové politice čerpáme z Vídně, Kodaně či Mnichova, ale i z meziválečného
   Břevnova či Dejvic 
-date: '2018-09-08 08:30am'
+date: '2018-09-07 08:00pm'
 author: Jana Kabelová
 image: /assets/img/praha_6_hradcany_bilkova_vila_1.jpg
 tags: |
