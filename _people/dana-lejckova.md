@@ -5,7 +5,7 @@ fullname: Ing. Dana Lejčková
 mail: 
 category: 
 img: people/dana-lejckova.jpg
-description: IT manažer
+description: IT manažerka
 ordpraha: 
 ordcan: 34
 ---
