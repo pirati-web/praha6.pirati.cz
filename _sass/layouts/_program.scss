@@ -60,3 +60,43 @@
     }
   }
 }
+
+.l-prg{
+  &__card{
+    box-shadow: 0 0 10px rgba(0,0,0,.25);
+    position: relative;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    &-title{
+      @include breakpoint(small down) {
+        margin-right: 3rem;
+      }
+    }
+  }
+  &__id{
+    border-radius: 100px;
+    background: black;
+    color: white;
+    margin: 0 ;
+    position: absolute;
+    width: 2em;
+    line-height: 2em;
+    text-align: center;
+    margin-left: -3em;
+    margin-top: -.33em;
+    @include breakpoint(small down) {
+      right: 1.5rem;
+    }
+  }
+  &__garant{
+    &-name{
+      margin-bottom: 0;
+    }
+    &-img{
+      max-width: 150px;
+      @include breakpoint(small down) {
+        float: right;
+      }
+    }
+  }
+}
