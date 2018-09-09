@@ -35,7 +35,7 @@ Je to způsobeno jednou zásadní věcí. Velké majetkové operace na Praze 6 s
 
 Jako příklad ve svém programu uvádíte hnutí Praha Sobě, které před čtyřmi lety s velkým volebním úspěchem ovládlo radnici Prahy 7. Hovoříte o tom, že některé strany nebyly schopné prosadit svůj program na Praze 6, ale žádná z nich nikdy neměla tak zásadní mandát, jako se to stalo v případě hnutí Praha Sobě. Jde tedy prosazovat svůj program bez tak silného volebního úspěchu?
 
-Jedno z našich předvolebních hesel zní: "**Dejte nám takový mandát, aby nás nemuseli kmotři obejít**." My potřebujeme takovou podporu, aby nás nemohl nikdo obejít a přitom jsme byli součástí koalice. Pokud zůstaneme v opozici, což je jistě možné, budeme tvrdou a konstruktivní opozicí, která bude hlasovat pro návrhy, jež budou souznít s naším programem. Každopádně nekandidujeme proto, abychom skončili v opozici.
+Jedno z našich předvolebních hesel zní: "_**Dejte nám takový mandát, aby nás nemuseli kmotři obejít**_." My potřebujeme takovou podporu, aby nás nemohl nikdo obejít a přitom jsme byli součástí koalice. Pokud zůstaneme v opozici, což je jistě možné, budeme tvrdou a konstruktivní opozicí, která bude hlasovat pro návrhy, jež budou souznít s naším programem. Každopádně nekandidujeme proto, abychom skončili v opozici.
 
 **Jaké jsou vaše konkrétní zkušenosti s politikou? Pracoval jste v církevním prostředí, ale ve vysoké politice jste zcela nová tvář.**
 
