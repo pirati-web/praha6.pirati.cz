@@ -17,7 +17,7 @@ tags: |-
 ---
 Vítězné náměstí začíná připomínat veřejnou výstavu úsměvů z politických plakátů. Boj o Prahu 6 je pro všechny politické strany zásadní, protože se jedná o jednu z nejbohatších adres v hlavním městě. Jedním z kandidátů na starostu je i pirát Ondřej Chrást, kterému se zatím jeho plakát na rušném náměstí staví. Proč vstupuje do politiky a jaké jsou nejpalčivější problémy Prahy 6?
 
-Ondro, proč jste se rozhodl kandidovat v komunálních volbách na post starosty?
+_Ondro, proč jste se rozhodl kandidovat v komunálních volbách na post starosty?_
 
 Na post starosty jsem byl nominován. My v Pirátské straně máme přímou demokracii, takže jsem byl pravděpodobně zvolen díky své schopnosti řídit náš tým, projekty a představil jsem smysluplnou vizi. Moje osobní motivace vznikla zhruba před dvěma lety, kdy jsem byl volič Starostů a nezávislých, tedy členů stávající koalice. Ta se před čtyřmi lety dost výrazně vymezovala proti tehdejšímu vedení Prahy 6. Dostali tak moji důvěru, protože slibovali jak otevřenou radnici lidem, zastavení výprodeje obecního majetku, tak další body, se kterými jsem se ztotožňoval, ale po dvou letech to bylo snad ještě horší. Řekl jsem si tedy, že nebudu nadále nadávat u piva, ale pokusím se s tím něco udělat.
 
