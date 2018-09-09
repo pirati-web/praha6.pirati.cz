@@ -4,7 +4,7 @@ category: blog
 title: >-
   Pirát Ondřej Chrást: Veřejný majetek není business a otevřenost radnice je
   katastrofální
-date: '2018-09-07 08:45pm'
+date: '2018-09-08 08:45pm'
 author: Jakub Kučera (Čti doma)
 image: /assets/img/starosta-ondrej-chrast-pirat-praha6.jpg
 tags: |-
