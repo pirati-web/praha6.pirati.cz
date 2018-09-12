@@ -1,42 +1,42 @@
 -
   id: 1
   title: Zmodernizujeme a otevřeme radnici
-  desc: Pro ty, co si chtějí vše vyřídit elektronicky, zavedeme online úřad, s chytrými aplikacemi pro jednotlivé agendy. Možnost osobního vyřízení samozřejme ponecháme. Zpřehledníme webové stránky Prahy 6. Zavedeme rozklikávací rozpočet a otevřeme dostupná data úřadu.
+  desc: Pro ty, co si chtějí vše vyřídit elektronicky, zavedeme online úřad, s chytrými aplikacemi pro jednotlivé agendy. Možnost osobního vyřízení samozřejmě ponecháme. Zpřehledníme webové stránky Prahy 6. Zavedeme rozklikávací rozpočet a otevřeme dostupná data úřadu.
   garant: milos.vlach
 -
   id: 2
   title: Vybudujeme záchytná P+R parkovište
-  desc: Budování P+R parkovišt na okraji Prahy v dosahu MHD je základním krokem pro řešení téměř všech dopravních problémů Prahy 6. Je třeba motivovat návštěvníky Prahy, aby nezajížděli do širšího centra, ale zaparkovali již na okraji Prahy a pro dopravu využili MHD. Tím se nejen sníží dopravní zátež, ale ušetří se i parkovací místa.
+  desc: Budování P+R parkovišť na okraji Prahy v dosahu MHD je základním krokem pro řešení téměř všech dopravních problémů Prahy 6. Je třeba motivovat návštěvníky Prahy, aby nezajížděli do širšího centra, ale zaparkovali již na okraji Prahy a pro dopravu využili MHD. Tím se nejen sníží dopravní zátěž, ale ušetří se i parkovací místa.
   garant: viktor.mahrik
 -
   id: 3
   title: Zlepšíme kvalitu vzdělání
-  desc: Z rozpočtu Prahy 6 dáme peníze ředitelum škol zřizovaných Prahou 6 na osobní ohodnocení pedagogů. Navýšíme kapacity MŠ i ZŠ, do kterých budou zápisy a registrace elektronicky bez nutnosti každoročních front a stresu.
+  desc: Z rozpočtu Prahy 6 dáme peníze ředitelům škol zřizovaných Prahou 6 na osobní ohodnocení pedagogů. Navýšíme kapacity MŠ i ZŠ, do kterých budou zápisy a registrace elektronicky bez nutnosti každoročních front a stresu.
   garant: vaclav.fortik
 -
   id: 4
   title: Vylepšíme a opravíme Prahu 6
-  desc: Opravíme a veřejnosti dáme k užívání dlouho chátrající budovy, jako je Dejvická 4., trojdomí v Šolínove ulici nebo usedlost na Šatovce. Zrekonstruujeme Polikliniku pod Marjánkou – konečnou podobu určíme na zákadě komunitního plánování, po diskusi s lékaři, občany, památkáři i architekty.
+  desc: Opravíme a veřejnosti dáme k užívání dlouho chátrající budovy, jako je Dejvická 4., trojdomí v Šolínově ulici nebo usedlost na Šatovce. Zrekonstruujeme Polikliniku pod Marjánkou – konečnou podobu určíme na základě komunitního plánování, po diskusi s lékaři, občany, památkáři i architekty.
   garant: jan.lejcko
 -
   id: 5
   title: Obnovíme bytový fond
-  desc: Podporujeme inovativní řešení současné bytové krize, jako je koncept bytových družstev, a budeme prosazovat aktivní roli MČ v bytové politice. Nepodpoříme další zbytečné prodeje klícových pozemků.
+  desc: Podporujeme inovativní řešení současné bytové krize, jako je koncept bytových družstev, a budeme prosazovat aktivní roli MČ v bytové politice. Nepodpoříme další zbytečné prodeje klíčových pozemků.
   garant: jana.kabelova
 -
   id: 6
   title: Zavedeme občanskou participaci nejen na papíře
-  desc: Zpřístupníme jednání radničních komisí veřejnosti a začleníme veřejnost do diskuse a duležitých rozhodnutí, která se týkají míst, kde žijí. Názory občanu budeme respektovat.
+  desc: Zpřístupníme jednání radničních komisí veřejnosti a začleníme veřejnost do diskuse a důležitých rozhodnutí, která se týkají míst, kde žijí. Názory občanu budeme respektovat.
   garant: tomas.sidlo
 -
   id: 7
   title: Zastupitelům vrátíme právo rozhodovat o majetku
-  desc: Z mestské společnosti SNEO a.s. uděláme moderní, otevřenou a efektivní společnost, která bude sloužit jako skutečná servisní organizace svému zakladateli, MČ Praha 6. Ukončíme její tajnůstkářství a neprůhlednost a pro veškeré investiční akce MČ obnovíme investiční odbor radnice.
+  desc: Z městské společnosti SNEO a.s. uděláme moderní, otevřenou a efektivní společnost, která bude sloužit jako skutečná servisní organizace svému zakladateli, MČ Praha 6. Ukončíme její tajnůstkářství a neprůhlednost a pro veškeré investiční akce MČ obnovíme investiční odbor radnice.
   garant: vladimir.sraier
 -
   id: 8
   title: Ochladíme prahu 6
-  desc: Budeme investovat do péče o stromy, výsadby mladých stromů, péče o zeleň a do vertikálního ozelenění. Snížíme tak prašnost, hlučnost a teplotu ve mestě. Zasadíme se o zachování zahrádkářských kolonií. Najdeme vhodná místa pro umístení vodních prvků do ulic – např. fontánek a pítek.
+  desc: Budeme investovat do péče o stromy, výsadby mladých stromů, péče o zeleň a do vertikálního ozelenění. Snížíme tak prašnost, hlučnost a teplotu ve městě. Zasadíme se o zachování zahrádkářských kolonií. Najdeme vhodná místa pro umístění vodních prvků do ulic – např. fontánek a pítek.
   garant: eva.ticha
 -
   id: 9
@@ -46,5 +46,5 @@
 -
   id: 10
   title: Kultura a historie Prahy 6 nezůstane na posledním místě
-  desc: Budeme dusledně chránit historické památky a jedinečnost Prahy 6 - proto také podpoříme vlastníky památkově chránených nemovitostí. Uděláme porádek v grantech na kulturu a dáme jistotu tradičním provozovatelům oblíbených kulturních akcí a kulturním institucím.
+  desc: Budeme důsledně chránit historické památky a jedinečnost Prahy 6 - proto také podpoříme vlastníky památkově chráněných nemovitostí. Uděláme pořádek v grantech na kulturu a dáme jistotu tradičním provozovatelům oblíbených kulturních akcí a kulturním institucím.
   garant: ondrej.chrast
