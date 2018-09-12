@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Veronika Štěpková
+title: Proč chceme víc žen v politice
 date: '2018-09-12 04:04am'
 author: Veronika Štěpková
 image: /assets/img/bara1.jpg
