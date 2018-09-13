@@ -1,7 +1,7 @@
 -
   id: 1
   title: Zmodernizujeme a otevřeme radnici
-  desc: Pro ty, co si chtějí vše vyřídit elektronicky, zavedeme online úřad, s chytrými aplikacemi pro jednotlivé agendy. Možnost osobního vyřízení samozřejmě ponecháme. Zpřehledníme webové stránky Prahy 6. Zavedeme rozklikávací rozpočet a otevřeme dostupná data úřadu.
+  desc: Pro ty, kdo si chtějí vše vyřídit elektronicky, zavedeme online úřad s chytrými aplikacemi pro jednotlivé agendy. Možnost osobního vyřízení samozřejmě ponecháme. Zpřehledníme webové stránky Prahy 6. Zavedeme rozklikávací rozpočet a otevřeme dostupná data úřadu.
   garant: milos.vlach
 -
   id: 2
@@ -11,12 +11,12 @@
 -
   id: 3
   title: Zlepšíme kvalitu vzdělání
-  desc: Z rozpočtu Prahy 6 dáme peníze ředitelům škol zřizovaných Prahou 6 na osobní ohodnocení pedagogů. Navýšíme kapacity MŠ i ZŠ, do kterých budou zápisy a registrace elektronicky bez nutnosti každoročních front a stresu.
+  desc: Z rozpočtu Prahy 6 dáme peníze ředitelům škol zřizovaných Prahou 6 na osobní ohodnocení pedagogů. Rozšíříme kapacity MŠ i ZŠ, do nichž bude možné děti zapsat a registrovat elektronicky bez nutnosti každoročních front a stresů.
   garant: vaclav.fortik
 -
   id: 4
   title: Vylepšíme a opravíme Prahu 6
-  desc: Opravíme a veřejnosti dáme k užívání dlouho chátrající budovy, jako je Dejvická 4., trojdomí v Šolínově ulici nebo usedlost na Šatovce. Zrekonstruujeme Polikliniku pod Marjánkou – konečnou podobu určíme na základě komunitního plánování, po diskusi s lékaři, občany, památkáři i architekty.
+  desc: Opravíme a veřejnosti dáme k užívání dlouho chátrající budovy, jako je Dejvická 4, trojdomí v Šolínově ulici nebo usedlost na Šatovce. Zrekonstruujeme Polikliniku pod Marjánkou – konečnou podobu určíme na základě komunitního plánování, po diskusi s lékaři, občany, památkáři i architekty.
   garant: jan.lejcko
 -
   id: 5
@@ -26,7 +26,7 @@
 -
   id: 6
   title: Zavedeme občanskou participaci nejen na papíře
-  desc: Zpřístupníme jednání radničních komisí veřejnosti a začleníme veřejnost do diskuse a důležitých rozhodnutí, která se týkají míst, kde žijí. Názory občanu budeme respektovat.
+  desc: Zpřístupníme jednání radničních komisí veřejnosti a začleníme veřejnost do diskuse a důležitých rozhodnutí o místech, kde žijí. Názory občanů budeme respektovat.
   garant: tomas.sidlo
 -
   id: 7
@@ -35,7 +35,7 @@
   garant: vladimir.sraier
 -
   id: 8
-  title: Ochladíme prahu 6
+  title: Ochladíme Prahu 6
   desc: Budeme investovat do péče o stromy, výsadby mladých stromů, péče o zeleň a do vertikálního ozelenění. Snížíme tak prašnost, hlučnost a teplotu ve městě. Zasadíme se o zachování zahrádkářských kolonií. Najdeme vhodná místa pro umístění vodních prvků do ulic – např. fontánek a pítek.
   garant: eva.ticha
 -
