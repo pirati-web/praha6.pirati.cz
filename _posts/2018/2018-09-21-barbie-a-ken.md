@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Barbie a Ken
-date: '2018-09-21 12:03am'
+date: '2018-09-20 12:03am'
 author: Michal Zachar
 image: /assets/img/dolls-937519_1280.jpg
 tags: |-
