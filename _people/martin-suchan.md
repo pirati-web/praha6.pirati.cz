@@ -6,7 +6,7 @@ mail: martin.suchan@pirati.cz
 category: clen
 img: people/martin-suchan.jpg
 description: Softwarový inženýr. Primární oblastí zájmu je efektivní a transparentní fungování nejen místní radnice, ale i státu jako takového.
-ordpraha: 9
+ordpraha: 12
 ordcan: 14
 ---
 Martin Suchan se narodil v Lounech 24. ledna 1985. V Praze žije od roku 2004.

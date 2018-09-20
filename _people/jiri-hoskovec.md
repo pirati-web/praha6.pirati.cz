@@ -6,7 +6,7 @@ mail: jiri.hoskovec@pirati.cz
 category: clen
 img: people/jiri-hoskovec.jpg 
 description: 'Vystudovaný jaderný inženýr, povoláním forenzní specialista na finanční zločiny. Pomáhá s řízením mediálního odboru Pirátů.'
-ordpraha: 1
+ordpraha: 2
 ordcan: 9
 ---
 Jiří Hoskovec (*1992) je zástupcem pro management mediálního odboru. Během volební kampaně do Poslanecké sněmovny v roce 2017 pracoval jako hospodář kampaně a zástupce volebního manažera. Je členem MS Praha 6.

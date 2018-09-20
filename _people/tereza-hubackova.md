@@ -2,7 +2,7 @@
 uid: tereza.hubackova
 name: Tereza Hubáčková
 fullname: 'Tereza Hubáčková, Dis.'
-category: podporovatel
+category: clen
 img: people/tereza-hubackova.jpg
 description: Pěstounka na přechodnou dobu.
 ordpraha: 6

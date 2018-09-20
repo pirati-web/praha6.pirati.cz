@@ -6,7 +6,7 @@ mail: vladimir.schulz@pirati.cz
 category: clen
 img: people/vladimir-schulz.jpg
 description: Lektor jógy, podnikatel
-ordpraha: 8
+ordpraha: 11
 ordcan: 16
 ---
 Vladimír Schulz (* 19.2.1953) v Pirátské straně jsem členem. Narodil jsem se v Praze, vystudoval ČVUT Fakulta strojní, obor jaderná energetika. Plynně hovořím španělsky a německy, domluvím se anglicky.

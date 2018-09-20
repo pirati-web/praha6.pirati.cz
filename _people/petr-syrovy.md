@@ -6,7 +6,7 @@ mail: petr.syrovy@pirati.cz
 category: clen
 img: people/petr-syrovy.jpg
 description: Dopravce
-ordpraha: 10
+ordpraha: 13
 ordcan: 37
 ---
 Petr Syrový, narozen 24. 9. 1977 v Praze. Dlouholetý příznivce a člen Pirátské strany. Po dokončení základní školy absolvoval Střední soukromé odborné učiliště stravování a cestovního ruchu. Po závěrečných zkouškách na této škole pokračoval v tříletém nástavbovém studiu při zaměstnání.
