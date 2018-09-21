@@ -5,7 +5,7 @@ fullname: Georgia Hejduk
 mail: 
 category: clen
 img: people/georgia-hejduk.jpg
-description: 'Členka Pirátské strany.'
+description: 'Bloggerka, studentka logistických a finančních služeb'
 ordpraha: 1
 ordcan: 29
 ---
