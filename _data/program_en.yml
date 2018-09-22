@@ -1,50 +1,50 @@
 -
   id: 1
-  title: Zmodernizujeme a otevřeme radnici
-  desc: Pro ty, kdo si chtějí vše vyřídit elektronicky, zavedeme online úřad s chytrými aplikacemi pro jednotlivé agendy. Možnost osobního vyřízení samozřejmě ponecháme. Zpřehledníme webové stránky Prahy 6. Zavedeme rozklikávací rozpočet a otevřeme dostupná data úřadu.
+  title: Modernization of the Prague 6 City Hall and open data
+  desc: For those who want to handle everything electronically, we will setup a modern online office. However, for those who favour the traditional paper way with clerks, we will keep that as well. We will make the website of Prague 6 more clear and user friendly. We will introduce transparent clickable budget and open data.
   garant: milos.vlach
 -
   id: 2
-  title: Vybudujeme záchytná P+R parkovište
-  desc: Budování P+R parkovišť na okraji Prahy v dosahu MHD je základním krokem pro řešení téměř všech dopravních problémů Prahy 6. Je třeba motivovat návštěvníky Prahy, aby nezajížděli do širšího centra, ale zaparkovali již na okraji Prahy a pro dopravu využili MHD. Tím se nejen sníží dopravní zátěž, ale ušetří se i parkovací místa.
+  title: Building of 2 new P+R parking lots
+  desc: Building P+R (Park & Ride) parking lots on the outskirts of Prague within easy reach of public transport is a basic step in resolving of lack of parking spaces in the city. Visitors to Prague should be encouraged not to enter the wider city centre by car, but park on the outskirts of Prague and use public transport instead. This not only reduces traffic-load but saves parking space too. In the coming election period, we will build two parking facilities to serve these purposes.
   garant: viktor.mahrik
 -
   id: 3
-  title: Zlepšíme kvalitu vzdělání
-  desc: Z rozpočtu Prahy 6 dáme peníze ředitelům škol zřizovaných Prahou 6 na osobní ohodnocení pedagogů. Rozšíříme kapacity MŠ i ZŠ, do nichž bude možné děti zapsat a registrovat elektronicky bez nutnosti každoročních front a stresů.
+  title: Improving quality of education in Prague 6
+  desc: We will allocate the money from the budget of Prague 6 to the directors of schools established by Prague 6 for personal evaluation of the teachers. We will increase the capacities of the kindergartens and primary schools. We will also bring an option of electronic registration and enrolment to the schools, which will reduce annual queues and stresses.
   garant: vaclav.fortik
 -
   id: 4
-  title: Vylepšíme a opravíme Prahu 6
-  desc: Opravíme a veřejnosti dáme k užívání dlouho chátrající budovy, jako je Dejvická 4, trojdomí v Šolínově ulici nebo usedlost na Šatovce. Zrekonstruujeme Polikliniku pod Marjánkou – konečnou podobu určíme na základě komunitního plánování, po diskusi s lékaři, občany, památkáři i architekty.
+  title: Repairing and improvements of Prague 6
+  desc: We will repair and make available to the public long-dilapidated buildings such as Dejvická 4., three buildings in Šolínova Street and a manor house on Šatovka. We will reconstruct the health centre Poliklinika Pod Marjánkou and we will determine the final form of the centre based on community planning, after discussion with doctors, citizens, preservationists and architects.
   garant: jan.lejcko
 -
   id: 5
-  title: Obnovíme bytový fond
-  desc: Podporujeme inovativní řešení současné bytové krize, jako je koncept bytových družstev, a budeme prosazovat aktivní roli MČ v bytové politice. Nepodpoříme další zbytečné prodeje klíčových pozemků.
+  title: We will renew the housing fund of Prague 6
+  desc: We support an innovative solution to the current housing crisis, such as the concept of housing co-operatives, and we will support the active role of the City Hall in housing policy. We will not support further unnecessary selling out of estates of key importance.
   garant: jana.kabelova
 -
   id: 6
-  title: Zavedeme občanskou participaci nejen na papíře
-  desc: Zpřístupníme jednání radničních komisí veřejnosti a začleníme veřejnost do diskuse a důležitých rozhodnutí o místech, kde žijí. Názory občanů budeme respektovat.
+  title: Introduce civic participation not only on paper
+  desc: We will engage the public into discussions and important decisions about the places where they live. We will respect opinions of the citizens.
   garant: tomas.sidlo
 -
   id: 7
-  title: Zastupitelům vrátíme právo rozhodovat o majetku
-  desc: Z městské společnosti SNEO a.s. uděláme moderní, otevřenou a efektivní společnost, která bude sloužit jako skutečná servisní organizace svému zakladateli, MČ Praha 6. Ukončíme její tajnůstkářství a neprůhlednost a pro veškeré investiční akce MČ obnovíme investiční odbor radnice.
+  title: Returning rights to City Hall deputies to decide on property and investments
+  desc: We will transform municipal company SNEO a.s. into a modern, open and efficient company that will serve as a real service organization to its founder, Prague 6 City Hall. We will terminate its ecrecy and opacity, and we will renew the City Hall’s Investment Department managing of all further investment actions.
   garant: vladimir.sraier
 -
   id: 8
-  title: Ochladíme Prahu 6
-  desc: Budeme investovat do péče o stromy, výsadby mladých stromů, péče o zeleň a do vertikálního ozelenění. Snížíme tak prašnost, hlučnost a teplotu ve městě. Zasadíme se o zachování zahrádkářských kolonií. Najdeme vhodná místa pro umístění vodních prvků do ulic – např. fontánek a pítek.
+  title: Cooler and greener Prague 6
+  desc: We will invest in the care of trees, planting of young trees, care of greenery and vertical greening. This will reduce the dustiness, noise and temperature in the city. We plan to preserve gardening colonies. We will find suitable places for placing water elements on the streets - such as fountains and drinking spots.
   garant: eva.ticha
 -
   id: 9
-  title: Podpoříme konkrétní lidi
-  desc: Podpoříme osobní sociální pracovníky a lékařskou a ošetřovatelskou terénní péči o seniory i osoby se sníženou pohyblivostí. Systémově podpoříme lidi pečující o jejich blízké doma. Zlepšíme dosažitelnost pohotovostní lékařské služby a navazujících služeb pohotovostních lékáren.
+  title: Support to particular people
+  desc: We will support personal social workers and assistants, medical and nursing care in the field for seniors and people with reduced mobility. We will systematically support people caring for their loved ones at home. We will improve the availability of Emergency Medical Services and follow-up Emergency Pharmacies.
   garant: barbora.hruzova
 -
   id: 10
-  title: Kultura a historie Prahy 6 nezůstane na posledním místě
-  desc: Budeme důsledně chránit historické památky a jedinečnost Prahy 6 - proto také podpoříme vlastníky památkově chráněných nemovitostí. Uděláme pořádek v grantech na kulturu a dáme jistotu tradičním provozovatelům oblíbených kulturních akcí a kulturním institucím.
+  title: The culture and history of Prague 6 is for us important
+  desc: We will consistently protect the historical monuments and uniqueness of Prague 6 - so we will also support owners of listed conservation properties. We will make order in cultural grants and give certainty to the traditional operators of popular cultural events and institutions.
   garant: ondrej.chrast
