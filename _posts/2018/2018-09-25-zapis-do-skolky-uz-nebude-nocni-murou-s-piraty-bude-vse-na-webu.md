@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Zápis do školky už nebude noční můrou - s Piráty bude vše na webu
-date: '2018-09-25 12:43am'
+date: '2018-09-24 12:43am'
 author: Tereza Hubáčková
 image: /assets/img/piratipraha6-skolky-zapis.jpg
 tags: |-
