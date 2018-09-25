@@ -19,7 +19,7 @@ A přitom to jde i jinak: elektronická forma zápisu usnadní život nejen rodi
 
 Je to krásná představa, že? Přitom vůbec nepochází ze říše snů. Podobným způsobem to už funguje v několika městech v ČR (např. v Plzni a Brně), od loňského roku třeba na Praze 5. Tak proč to nemůže jít i na Šestce? Současná radnice namítá, že zápis na webu je protizákonný (_není, web pouze shromažďuje data, rozhodnutí dělá ředitelka školky přesně podle školského zákona_), porušuje ochranu osobních dat (_neporušuje, každé dítě má kód, žádná osobní data nejsou zveřejňována_), nebo prostě nemůže fungovat (_funguje jinde, proč by nemohlo tady_).
 
-**Pokud budou Piráti moci ovlivnit dění na radnici Prahy 6, zavedou už pro školní rok 2019/2020 on-line zápis do mateřských škol.**
+**Pokud budou Piráti moci ovlivnit dění na radnici Prahy 6, zavedou už pro školní rok 2019/2020 on-line zápis do mateřských škol.**
 
 Dalším uvažovaným krokem pak bude vytvoření on-line pořadníku. To by rodičům umožnilo zapsat dítě do školky už od jeho narození, aby rodiče mohli najisto počítat s tím, že až dítě doroste, bude pro něj místo ve školce zajištěno.
 
