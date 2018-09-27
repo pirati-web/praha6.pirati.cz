@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Piráti na Praze 6 chtějí zvrátit trend likvidace ikonických staveb
-date: '2018-09-26 01:17pm'
+date: '2018-09-25 01:17pm'
 author: Ondřej Chrást
 image: /assets/img/architektura-praha-6-pirati.jpg
 tags: |-
