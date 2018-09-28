@@ -20,7 +20,7 @@ Nízký zájem si vysvětluji tím, jak málo si lidé obecně uvědomují, co v
 
 Motorem mi zprvu bylo neuvěřitelně arogantní rozkrádání Prahy 10, kde jsem bydlela. Pak jsme dali dohromady aktivní partu sousedů se zájmem o naši obec a to už byl jen krůček k překročení hranice od angažované občanky ke člence strany.
 
-Jsi z práce ve Sněmovně překvapená, zklamaná nebo naopak potěšená? 
+**Jsi z práce ve Sněmovně překvapená, zklamaná nebo naopak potěšená?** 
 
 Do Sněmovny přišli Piráti po lítých předvolebních bojích plných napadání a ostré rétoriky. Proto nás na začátku překvapila nečekaně pozitivní atmosféra. Většina lidí se na Vás usmívá, všichni se uctivě zdraví, všichni jsou k vám slušní. Přesto brzy člověk zjistí, že je třeba mít se na pozoru a hlídat si, co řekne, co udělá, za co se postaví, co podepíše. Je to trochu zvláštní – taková ostříží noblesa.
 
