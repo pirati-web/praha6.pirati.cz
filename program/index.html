@@ -18,22 +18,7 @@ layout: default
 							<h1 class="o-section__heading">Program Pirátů Prahy 6 pro komunální volby 2018</h1>
 						</header>
 						{% for item in site.data.program %}
-							<article class="l-prg__card">
-								<div class="row">
-									<div class="l-prg__content columns medium-10 text-left pull-right">
-										<h2 class="l-prg__card-title"><span class="l-prg__id">{{item.id}}</span>{{item.title}}</h2>
-										<p>{{item.desc}}</p>
-										{% assign garant = site.people | where_exp:"person","person.uid == item.garant" %}
-										{% assign garant = garant.first %}
-										<h5 class="l-prg__garant-name"><small>Garant:</small> {{garant.fullname}}</h5>
-									</div>
-
-									<div class="l-prg__garant columns medium-2">
-										{% if garant.img %}<div class="l-kan__item-img l-prg__garant-img"><img src="/assets/img/{{garant.img}}" alt="{{garant.fullname}}"/></div>{% endif %}
-										{% include_relative priorita.html redmine_id=item.redmine	columns=cols %}
-									</div>
-								</div>
-							</article>
+							{% include_relative item.html item=item.item %}
 						{% endfor %}
 					</div>
 					<div class="tabs-panel" id="panelEN">
@@ -41,21 +26,7 @@ layout: default
 							<h1 class="o-section__heading">Program Pirátů Prahy 6 pro komunální volby 2018</h1>
 						</header>
 						{% for item in site.data.program_en %}
-							<article class="l-prg__card">
-								<div class="row">
-									<div class="l-prg__content columns medium-10 text-left pull-right">
-										<h2 class="l-prg__card-title"><span class="l-prg__id">{{item.id}}</span>{{item.title}}</h2>
-										<p>{{item.desc}}</p>
-										{% assign garant = site.people | where_exp:"person","person.uid == item.garant" %}
-										{% assign garant = garant.first %}
-										<h5 class="l-prg__garant-name"><small>Garant:</small> {{garant.fullname}}</h5>
-									</div>
-
-									<div class="l-prg__garant columns medium-2">
-										{% if garant.img %}<div class="l-kan__item-img l-prg__garant-img"><img src="/assets/img/{{garant.img}}" alt="{{garant.fullname}}"/></div>{% endif %}
-									</div>
-								</div>
-							</article>
+							{% include_relative item.html item=item.item %}
 						{% endfor %}
 					</div>
 					<div class="tabs-panel" id="panelRU">
@@ -63,32 +34,10 @@ layout: default
 							<h1 class="o-section__heading">Program Pirátů Prahy 6 pro komunální volby 2018</h1>
 						</header>
 						{% for item in site.data.program_ru %}
-							<article class="l-prg__card">
-								<div class="row">
-									<div class="l-prg__content columns medium-10 text-left pull-right">
-										<h2 class="l-prg__card-title"><span class="l-prg__id">{{item.id}}</span>{{item.title}}</h2>
-										<p>{{item.desc}}</p>
-										{% assign garant = site.people | where_exp:"person","person.uid == item.garant" %}
-										{% assign garant = garant.first %}
-										<h5 class="l-prg__garant-name"><small>Garant:</small> {{garant.fullname}}</h5>
-									</div>
-
-									<div class="l-prg__garant columns medium-2">
-										{% if garant.img %}<div class="l-kan__item-img l-prg__garant-img"><img src="/assets/img/{{garant.img}}" alt="{{garant.fullname}}"/></div>{% endif %}
-									</div>
-								</div>
-							</article>
+							{% include_relative item.html item=item.item %}
 						{% endfor %}
 					</div>
-
 				</div>
-
-
-			</div>
-		</section>
-		<section class="o-section o-section--spaceBot">
-			<div class="o-section-inner o-section-inner--leftBlock">
-				{% include_relative priority.html %}
 			</div>
 		</section>
 	</div>
