@@ -67,6 +67,7 @@
     position: relative;
     padding: 2rem;
     margin-bottom: 2rem;
+    text-align: left;
     &-title{
       @include breakpoint(small down) {
         margin-right: 3rem;
