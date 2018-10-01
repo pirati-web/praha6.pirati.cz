@@ -5,7 +5,7 @@ layout: default
 	<div class="medium-12 large-12 columns">
 		<section class="o-section o-section--spaceBot">
 			<div class="o-section-inner o-section-inner--leftBlock">
-				
+
 				<ul class="tabs" data-deep-link="true" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="500" data-tabs id="deeplinked-tabs">
 					<li class="tabs-title is-active"><a href="#panelCZ" aria-selected="true">CZ</a></li>
 					<li class="tabs-title"><a href="#panelEN">EN</a></li>
@@ -30,6 +30,7 @@ layout: default
 
 									<div class="l-prg__garant columns medium-2">
 										{% if garant.img %}<div class="l-kan__item-img l-prg__garant-img"><img src="/assets/img/{{garant.img}}" alt="{{garant.fullname}}"/></div>{% endif %}
+										{% include_relative priorita.html redmine_id=item.redmine	columns=cols%}
 									</div>
 								</div>
 							</article>
@@ -79,10 +80,15 @@ layout: default
 							</article>
 						{% endfor %}
 					</div>
-	
+
 				</div>
 
 
+			</div>
+		</section>
+		<section class="o-section o-section--spaceBot">
+			<div class="o-section-inner o-section-inner--leftBlock">
+				{% include_relative priority.html %}
 			</div>
 		</section>
 	</div>
