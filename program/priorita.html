@@ -32,7 +32,7 @@
       }
       xhr.onload = function() {
         var doc = JSON.parse(xhr.responseText);
-        var div = document.getElementById('redmine_tasks_{{include.redmine_id}}');
+        var div = document.getElementById('redmine_tasks_{{include.redmine_id}}--{{include.prefix}}');
         div.appendChild(pirates.integrations.redmine.tasks(doc));
       }
       xhr.onerror = function() {
