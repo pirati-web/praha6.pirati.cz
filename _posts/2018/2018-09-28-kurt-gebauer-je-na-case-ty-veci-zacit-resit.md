@@ -14,7 +14,7 @@ tags: |-
 ---
 Kurt Gebauer, jeden z nejoriginálnějších českých sochařů a emeritní profesor UMPRUM, se často vyjadřuje k místní politice. Péče o veřejný prostor je pro něj součástí jeho umělecké práce. Říká, že právě z péče o veřejný prostor vznikla výtvarná kultura, a tak se v jeho pojetí výtvarná kultura nedá oddělit od způsobu, jakým se rozhoduje o podobě ulic a náměstí. S Kurtem Gebauerem si povídáme jednoho horkého letního dne na zahradě plné soch u domu v Dělostřelecké ulici ve Střešovicích, kde Kurt Gebauer bydlí.
 
-Pamatuju si, jaký rozruch vyvolaly  v osmdesátých letech vaše sochy  v parcích na Malé Straně. Takový veselý barevný prsatý ženský plovoucí v jezírkách podle toho, jak zafouká vítr...
+**Pamatuju si, jaký rozruch vyvolaly  v osmdesátých letech vaše sochy  v parcích na Malé Straně. Takový veselý barevný prsatý ženský plovoucí v jezírkách podle toho, jak zafouká vítr...**
 
 To mi všichni připomínají, jak byli malí a chodili tam s tatínkem. Dokonce se kvůli tomu údajně někteří rozhodli stát se sochařem (smích). 
 
@@ -40,7 +40,7 @@ Tady se toho už tolik zkazilo, že je na čase tuto čtvrť řešit. Třeba vyb
 
 **A jakou radu byste dal Pirátům, kteří míří za vítězstvím v komunálních volbách na Praze 6?**
 
-Chraňte zeleň, vzduch, obyvatele! Buďte srostlí s těmi lidmi, ne s developerama. Město potřebuje sociální byty, potřebuje funkční sociální služby. Aby tady byli normální lidi, kteří třeba nemají auto, důchodci ať se nemusí stěhovat pryč. **_A taky bych řekl: nebourat, opravovat. _**
+Chraňte zeleň, vzduch, obyvatele! Buďte srostlí s těmi lidmi, ne s developerama. Město potřebuje sociální byty, potřebuje funkční sociální služby. Aby tady byli normální lidi, kteří třeba nemají auto, důchodci ať se nemusí stěhovat pryč. _**A taky bych řekl: nebourat, opravovat. **_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
