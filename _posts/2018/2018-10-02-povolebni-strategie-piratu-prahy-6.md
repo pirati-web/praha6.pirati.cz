@@ -9,61 +9,21 @@ tags: strategie vyjednavani
 ---
 # Povolební strategie Pirátů
 
-_pro volby do zastupitelstva Radnice městské části Praha 6 2018_
+pro volby do zastupitelstva Radnice městské části Praha 6 2018
 
-**Naším cílem je vyjednávat o koalici z takové pozice, aby nás kmotři ani developeři**
 
-**nemohli obejít. Chceme se podílet na správě města s kompetentními lidmi a se stranami**
+Naším cílem je vyjednávat o koalici z takové pozice, aby nás kmotři ani developeři nemohli obejít. Chceme se podílet na správě města s kompetentními lidmi a se stranami bez škraloupů. Známe řešení problémů Prahy 6, a věříme, že nám na podzim dají voliči důvěru pro jejich realizaci. Odmítáme kumulaci funkcí a trafikanty v městských firmách. Naopak vítáme transparentně vybrané odborníky, kteří pomohou město a jeho firmy profesionálně řídit.**
+**
 
-**bez škraloupů. Známe řešení problémů Prahy 6, a věříme, že nám na podzim dají voliči**
+Chceme, aby občané, kteří se rozhodnou podpořit svým hlasem Piráty, jasně věděli, jak budeme po volbách pracovat. Usilujeme o změnu politické kultury v Praze 6 i v České republice celkově a transparence u nás není jen slibem na papíře. Proto jako jediná strana v Praze 6 předkládáme jasnou a závaznou strategii povolební činnosti. Pokud dostaneme důvěru občanů, budeme se účastnit vyjednávání o sestavení Rady městské části Praha 6 s cílem dostat maximum našich priorit do programu koalice. Nelpíme ale za každou cenu na zisku dobře placených funkcí. V případě potřeby jsme připraveni hrát i roli kritické, ale konstruktivní opozice.
 
-**důvěru pro jejich realizaci. Odmítáme kumulaci funkcí a trafikanty v městských firmách.**
-
-**Naopak vítáme transparentně vybrané odborníky, kteří pomohou město a jeho firmy**
-
-**profesionálně řídit.**
-
-Chceme, aby občané, kteří se rozhodnou podpořit svým hlasem Piráty, jasně věděli, jak
-
-budeme po volbách pracovat. Usilujeme o změnu politické kultury v Praze 6 i v České
-
-republice celkově a transparence u nás není jen slibem na papíře. Proto jako jediná strana v
-
-Praze 6 předkládáme jasnou a závaznou strategii povolební činnosti.
-
-Pokud dostaneme důvěru občanů, budeme se účastnit vyjednávání o sestavení Rady městské
-
-části Praha 6 s cílem dostat maximum našich priorit do programu koalice. Nelpíme ale za každou
-
-cenu na zisku dobře placených funkcí. V případě potřeby jsme připraveni hrát i roli kritické, ale
-
-konstruktivní opozice.
-
-Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovolné Rady je
-
-podmíněna tím, že do ní nebudou nominováni lidé nekompetentní nebo s korupční historií,
-
-včetně trestně stíhaných či již odsouzených osob. Nepodpoříme Radu s účastí subjektů
-
-ohrožujících základy liberální demokracie nebo s historickým dědictvím likvidace demokracie
-
-v této zemi, tj. zejména s účastí KSČM nebo SPD.
-
-Výběr radních a jakákoliv smlouva o povolební spolupráci (uzavření koaliční smlouvy,
-
-tolerance menšinové rady, ...) podléhají souhlasu Místního fóra Pirátů v Praze 6.
-
-Nedovolíme hromadění funkcí a přidělování trafik v městských firmách u našich zastupitelů.
+Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovolné Rady je podmíněna tím, že do ní nebudou nominováni lidé nekompetentní nebo s korupční historií, včetně trestně stíhaných či již odsouzených osob. Nepodpoříme Radu s účastí subjektů ohrožujících základy liberální demokracie nebo s historickým dědictvím likvidace demokracie v této zemi, tj. zejména s účastí KSČM nebo SPD. Výběr radních a jakákoliv smlouva o povolební spolupráci (uzavření koaliční smlouvy, tolerance menšinové rady, ...) podléhají souhlasu Místního fóra Pirátů v Praze 6. Nedovolíme hromadění funkcí a přidělování trafik v městských firmách u našich zastupitelů.
 
 ## Během voleb
 
 • Výsledky voleb budeme společně sledovat na volebním štábu.
 
-• Během volební noci nebudeme uzavírat žádné dohody a vydávat žádná prohlášení o
-
-spolupráci. Lídr kandidátky může nezávazně komunikovat s ostatními stranami nebo
-
-s médii adekvátně k situaci.
+• Během volební noci nebudeme uzavírat žádné dohody a vydávat žádná prohlášení o spolupráci. Lídr kandidátky může nezávazně komunikovat s ostatními stranami nebo s médii adekvátně k situaci.
 
 ## Hned po volbách
 
@@ -99,7 +59,8 @@ programových priorit se všemi subjekty, které budou v zastupitelstvu. Různé
 
 spolupráce s ostatními stranami:
 
-**Vítězství ve volbách**
+**Vítězství ve volbách
+**
 
 Na starostu nominujeme lídra kandidátky. Strany, které oslovíme jako první, si určíme v
 
@@ -107,7 +68,8 @@ rámci taktiky vyjednávání s ohledem na jejich program, zvolené zastupitele,
 
 vystupování v kampani a historickou zkušenost.
 
-**Účast na radě**
+**Účast na radě
+**
 
 Pokud budeme mít na základě výsledků voleb odpovídající mandát, jsme připraveni jednat o
 
@@ -121,7 +83,8 @@ smlouvou iniciuje výběr nového radního a výměnu na dané pozici dle našic
 
 priorit.
 
-**Tolerance menšinové Rady**
+**Tolerance menšinové Rady
+**
 
 Pokud budeme jazýčkem na vahách, zvážíme toleranci menšinové Rady výměnou za
 
@@ -131,7 +94,8 @@ dohodnutých závazků, otevřeností při vládnutí a průběžnou politickou,
 
 diskuzí k připravovaným záměrům.
 
-**Konstruktivní opoziční práce**
+**Konstruktivní opoziční práce
+**
 
 Pokud nebudeme součástí Rady, chceme získat taková místa ve výborech zastupitelstva,
 
@@ -193,7 +157,9 @@ kompetentní a důvěryhodné osoby pro kvalitní správu městské části.
 
 by byli v dlouhodobém střetu zájmů, tedy takovém, který nelze vyřešit do 3 měsíců
 
-od jmenování. Nebudeme vnucovat jiným stranám naše principy otevřených a transparentních nominací, ale v případě jejich zájmu jim poskytneme pomoc a know-how k jejich uspořádání.
+od jmenování. Nebudeme vnucovat jiným stranám naše principy otevřených a
+ transparentních nominací, ale v případě jejich zájmu jim poskytneme pomoc a know-
+how k jejich uspořádání.
 
 • Souběh funkce našeho zastupitele a členství v jedné dozorčí radě městské firmy je
 
