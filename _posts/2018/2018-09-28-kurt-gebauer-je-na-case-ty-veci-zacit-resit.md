@@ -12,7 +12,7 @@ tags: |-
   Veřejný prostor
   Architektura
 ---
-Kurt Gebauer, jeden z nejoriginálnějších českých sochařů a emeritní profesor UMPRUM, se často vyjadřuje k místní politice. Péče o veřejný prostor je pro něj součástí jeho umělecké práce. Říká, že právě z péče o veřejný prostor vznikla výtvarná kultura, a tak se v jeho pojetí výtvarná kultura nedá oddělit od způsobu, jakým se rozhoduje o podobě ulic a náměstí. S Kurtem Gebauerem si povídáme jednoho horkého letního dne na zahradě plné soch u domu v Dělostřelecké ulici ve Střešovicích, kde Kurt Gebauer bydlí.
+_Kurt Gebauer, jeden z nejoriginálnějších českých sochařů a emeritní profesor UMPRUM, se často vyjadřuje k místní politice. Péče o veřejný prostor je pro něj součástí jeho umělecké práce. Říká, že právě z péče o veřejný prostor vznikla výtvarná kultura, a tak se v jeho pojetí výtvarná kultura nedá oddělit od způsobu, jakým se rozhoduje o podobě ulic a náměstí. S Kurtem Gebauerem si povídáme jednoho horkého letního dne na zahradě plné soch u domu v Dělostřelecké ulici ve Střešovicích, kde Kurt Gebauer bydlí._
 
 **Pamatuju si, jaký rozruch vyvolaly  v osmdesátých letech vaše sochy  v parcích na Malé Straně. Takový veselý barevný prsatý ženský plovoucí v jezírkách podle toho, jak zafouká vítr...**
 
