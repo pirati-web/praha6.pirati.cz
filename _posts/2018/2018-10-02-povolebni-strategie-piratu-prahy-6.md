@@ -7,7 +7,7 @@ author: Předsednictvo MS Praha 6
 image: /assets/img/chess-2730034_1920.jpg
 tags: strategie vyjednavani
 ---
-# pro volby do zastupitelstva Radnice městské části Praha 6 2018
+# Povolební strategie Pirátů Prahy 6 pro volby do zastupitelstva Radnice městské části Praha 6 2018
 
 Naším cílem je vyjednávat o koalici z takové pozice, aby nás kmotři ani developeři nemohli obejít. Chceme se podílet na správě města s kompetentními lidmi a se stranami bez škraloupů. Známe řešení problémů Prahy 6, a věříme, že nám na podzim dají voliči důvěru pro jejich realizaci. Odmítáme kumulaci funkcí a trafikanty v městských firmách. Naopak vítáme transparentně vybrané odborníky, kteří pomohou město a jeho firmy profesionálně řídit.
 
@@ -35,17 +35,19 @@ Budeme jednat se všemi ostatními politickými stranami. Naše podpora libovoln
 
 Bez ohledu na rozložení mandátů jsme připraveni spolupracovat na prosazení programových priorit se všemi subjekty, které budou v zastupitelstvu. Různé scénáře spolupráce s ostatními stranami:
 
-**Vítězství ve volbách
-**Na starostu nominujeme lídra kandidátky. Strany, které oslovíme jako první, si určíme v rámci taktiky vyjednávání s ohledem na jejich program, zvolené zastupitele, důvěryhodnost, vystupování v kampani a historickou zkušenost.
+**Vítězství ve volbách**
 
-**Účast na radě
-**Pokud budeme mít na základě výsledků voleb odpovídající mandát, jsme připraveni jednat o účasti v Radě s cílem prosadit maximum našeho programu. Klub či Místní fórum mohou radního, či uvolněného zastupitele za Pirátskou stranu žádat o vysvětlení a v extrémním případě se mohou usnést na vyjádření nedůvěry. V takovém případě předseda klubu v souladu s koaliční smlouvou iniciuje výběr nového radního a výměnu na dané pozici dle našich programových priorit.
+Na starostu nominujeme lídra kandidátky. Strany, které oslovíme jako první, si určíme v rámci taktiky vyjednávání s ohledem na jejich program, zvolené zastupitele, důvěryhodnost, vystupování v kampani a historickou zkušenost.
 
-**Tolerance menšinové Rady
-**Pokud budeme jazýčkem na vahách, zvážíme toleranci menšinové Rady výměnou za zohlednění našich politických priorit v programu koalice. Tolerance je podmíněna plněním dohodnutých závazků, otevřeností při vládnutí a průběžnou politickou, veřejnou a odbornou diskuzí k připravovaným záměrům.
+**Účast na radě**
 
-**Konstruktivní opoziční práce
-**
+Pokud budeme mít na základě výsledků voleb odpovídající mandát, jsme připraveni jednat o účasti v Radě s cílem prosadit maximum našeho programu. Klub či Místní fórum mohou radního, či uvolněného zastupitele za Pirátskou stranu žádat o vysvětlení a v extrémním případě se mohou usnést na vyjádření nedůvěry. V takovém případě předseda klubu v souladu s koaliční smlouvou iniciuje výběr nového radního a výměnu na dané pozici dle našich programových priorit.
+
+**Tolerance menšinové Rady**
+
+Pokud budeme jazýčkem na vahách, zvážíme toleranci menšinové Rady výměnou za zohlednění našich politických priorit v programu koalice. Tolerance je podmíněna plněním dohodnutých závazků, otevřeností při vládnutí a průběžnou politickou, veřejnou a odbornou diskuzí k připravovaným záměrům.
+
+**Konstruktivní opoziční práce**
 
 Pokud nebudeme součástí Rady, chceme získat taková místa ve výborech zastupitelstva, abychom měli přístup k aktuálním informacím, mohli maximálně prosazovat náš program, a případně také zasáhnout při podezření na pochybné aktivity. Naše opozice bude konstruktivní. Formou připomínek, předkládáním návrhů, prací ve výborech, zveřejňováním informací a aktivizací občanské veřejnosti nadále budeme usilovat o prosazování našeho programu. Demokraticky zvolenou Radu budeme respektovat a nebudeme se snažit bezhlavě a za každou cenu vyvolat její pád, protože je pro nás důležitá stabilita Městské části, a tedy i její Rady. Snaha o vyvolání nedůvěry Radě musí být až poslední reakcí na silně negativní okolnosti, nikoliv hlavním programem jen proto, že jsme v opozici.
 
