@@ -3,12 +3,10 @@ layout: post
 category: blog
 title: Povolební strategie Pirátů Prahy 6
 date: '2018-10-01 05:45pm'
-author: Předsednictvo MS Praha 6
+author: Fórum MS Praha 6
 image: /assets/img/chess-2730034_1920.jpg
 tags: strategie vyjednavani
 ---
-# Povolební strategie Pirátů Prahy 6 pro volby do zastupitelstva Radnice městské části Praha 6 2018
-
 Naším cílem je vyjednávat o koalici z takové pozice, aby nás kmotři ani developeři nemohli obejít. Chceme se podílet na správě města s kompetentními lidmi a se stranami bez škraloupů. Známe řešení problémů Prahy 6, a věříme, že nám na podzim dají voliči důvěru pro jejich realizaci. Odmítáme kumulaci funkcí a trafikanty v městských firmách. Naopak vítáme transparentně vybrané odborníky, kteří pomohou město a jeho firmy profesionálně řídit.
 
 Chceme, aby občané, kteří se rozhodnou podpořit svým hlasem Piráty, jasně věděli, jak budeme po volbách pracovat. Usilujeme o změnu politické kultury v Praze 6 i v České republice celkově a transparence u nás není jen slibem na papíře. Proto jako jediná strana v Praze 6 předkládáme jasnou a závaznou strategii povolební činnosti. Pokud dostaneme důvěru občanů, budeme se účastnit vyjednávání o sestavení Rady městské části Praha 6 s cílem dostat maximum našich priorit do programu koalice. Nelpíme ale za každou cenu na zisku dobře placených funkcí. V případě potřeby jsme připraveni hrát i roli kritické, ale konstruktivní opozice.
