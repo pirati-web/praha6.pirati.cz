@@ -24,7 +24,7 @@
     xhr.send();
     });
     pirates.priorityStack.push(function (context) {
-      var url = 'https://redmine.pirati.cz/issues.json?parent_id={{include.redmine_id}}';
+      var url = 'https://redmine.pirati.cz/issues.json?parent_id={{include.redmine_id}}&sort=id:asc';
       var xhr = pirates.createCORSRequest('GET', url);
       if (!xhr) {
         alert('CORS not supported');
