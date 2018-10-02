@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Povolební strategie Pirátů Prahy 6
-date: '2018-10-02 05:45pm'
+date: '2018-10-01 05:45pm'
 author: Předsednictvo MS Praha 6
 image: /assets/img/chess-2730034_1920.jpg
 tags: strategie vyjednavani
