@@ -22,11 +22,11 @@ To mi všichni připomínají, jak byli malí a chodili tam s tatínkem. Dokonce
 
 No vidíte. Já jsem měl  vystavené první ježibaby ve Vojanových sadech už v roce 1973. Ty pak zařízli, že je to provokace. Měl být soud, nevědělo se, jestli budou soudit i tu galerii nebo jenom mě. Nakonec se na to vyprdli. 
 
-**My jsme vás původně odchytili na akci, kde současná radnice s občany projednávala budoucí metropolitní plán. Ten řekne, kde a jak se v budoucnu v naší čtvrti bude moct stavět. **
+**My jsme vás původně odchytili na akci, kde současná radnice s občany projednávala budoucí metropolitní plán. Ten řekne, kde a jak se v budoucnu v naší čtvrti bude moct stavět.**
 
 Přišlo mi to šílený. Celou  složitou otázku vývoje obce na desítky let dopředu  vyřešit za jedno odpoledne, nakonec zvednout ruku a říct, tak jo. Byla to formalita jak prase, mluvit tam mohli jen zastupitelé, ne občané. Považuji to za podvod na obyvatelích. Tahle se veřejný prostor nedá plánovat. To, že se důkladně nemluví s lidmi, kteří v té oblasti bydlí, je chyba. Berou se jenom jako nějaký materiál. 
 
-**Nebo jako nepřátelé. **
+**Nebo jako nepřátelé.**
 
 Nebo tak. Já třeba nechápu, jak je možné, že v Praze 6,, kde žije tolik architektů, aktivistů a intelektuálů, se mohla zrealizovat taková šílenost, jako je křižovatka Prašný most. Ten tunel měl přece odstranit auta z povrchu, aby se spojila moderní architektura první poloviny 20. století v Dejvicích s Pražským hradem. A najednou je tady dálnice. A pak ještě následují úvahy, že když je na Svatovítské třikrát víc aut než před Blankou, že to vyřešíme obchvatem Kulaťáku. Já nevím, jestli ti dopraváci jsou tak hloupí nebo podplacení stavebníma firmami. 
 
@@ -40,7 +40,7 @@ Tady se toho už tolik zkazilo, že je na čase tuto čtvrť řešit. Třeba vyb
 
 **A jakou radu byste dal Pirátům, kteří míří za vítězstvím v komunálních volbách na Praze 6?**
 
-Chraňte zeleň, vzduch, obyvatele! Buďte srostlí s těmi lidmi, ne s developerama. Město potřebuje sociální byty, potřebuje funkční sociální služby. Aby tady byli normální lidi, kteří třeba nemají auto, důchodci ať se nemusí stěhovat pryč. _**A taky bych řekl: nebourat, opravovat. **_
+Chraňte zeleň, vzduch, obyvatele! Buďte srostlí s těmi lidmi, ne s developerama. Město potřebuje sociální byty, potřebuje funkční sociální služby. Aby tady byli normální lidi, kteří třeba nemají auto, důchodci ať se nemusí stěhovat pryč. _**A taky bych řekl: nebourat, opravovat.**_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
