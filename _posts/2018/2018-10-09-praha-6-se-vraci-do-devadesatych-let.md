@@ -10,7 +10,7 @@ tags: |-
   Volby
   Povolební vyjednávání
 ---
-Po výrazném volebním výsledku na Praze 6 byli Piráti v souladu s povolební situací připraveni účastnit se vyjednávání napříč stranami, které se dostaly do Zastupitelstva MČ Prahy 6. Dnes přišla zpráva o podepsání dohody o budoucí koalici mezi TOP09, KDU-ČSL, STAN a ODS. Nerozumíme, proč se TOP09 nechala takovým tempem vtáhnout do koalice s ODS, aniž by se byť jen pokusila s Piráty jednat. Je možné, že s Piráty nikdo nejednal, protože náš program a ochota otevřít radnici lidem, vzbuzuje u oligarchů obavy ze ztráty kontroly. 
+Po výrazném volebním výsledku na Praze 6 byli Piráti v souladu s povolební situací připraveni účastnit se vyjednávání napříč stranami, které se dostaly do Zastupitelstva MČ Prahy 6. Dnes přišla zpráva o podepsání dohody o budoucí koalici mezi TOP09, KDU-ČSL, STAN a ODS. Nerozumíme, proč se TOP09 nechala takovým tempem vtáhnout do koalice s ODS, aniž by se byť jen pokusila s Piráty jednat. Je možné, že s Piráty nikdo nejednal, protože náš program a ochota otevřít radnici lidem vzbuzuje u oligarchů obavy ze ztráty kontroly. 
 
 “_Byli jsme připraveni učinit kompromisy a převzít společně odpovědnost za Prahu 6 a její směřování. Je nám velmi líto, že TOP09 nezvládla nátlak, vybrala si jednodušší variantu a pasivní roli pod taktovkou ODS a jejich nechvalně známých prominentů. Na nadcházející schůzce se starostou Kolářem si vyslechneme jeho vysvětlení a představíme naše programové priority, které jsou pro nás zásadní. Držíme kurz!_” komentuje situaci lídr Pirátů na Praze 6 **Ondřej Chrást**.
 
