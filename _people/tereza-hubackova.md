@@ -2,6 +2,7 @@
 uid: tereza.hubackova
 name: Tereza Hubáčková
 fullname: 'Tereza Hubáčková, Dis.'
+mail: tereza.hubackova@pirati.cz
 category: clen
 img: people/tereza-hubackova.jpg
 description: Pěstounka na přechodnou dobu.
