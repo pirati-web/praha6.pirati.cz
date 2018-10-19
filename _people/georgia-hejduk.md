@@ -2,7 +2,7 @@
 uid: georgia.hejduk
 name: Georgia Hejduk
 fullname: Georgia Hejduk
-mail: 
+mail: georgia.hejduk@pirati.cz
 category: clen
 img: people/georgia-hejduk.jpg
 description: 'Bloggerka, studentka logistických a finančních služeb'
