@@ -22,7 +22,7 @@ Přihlášky zájemců jsou přijímány zde na tomto vláknu výběrového ří
 
 ☑: V případě kladného přijetí přihlášky bude pozván ke krátkému rozhovoru dne 6.11 (úterý) v 18:00 hod. (místo a přesný čas bude ještě upřesněn). 
 
-☑: Dle povolební strategie je již jmenován tzv. "Nominační tým", který je v tomto případě celý Zastupitelský klub, který nominanty s konečnou platností vybere. 
+☑: Dle povolební strategie je již jmenován tzv. "**Nominační tým**", který je v tomto případě celý Zastupitelský klub, který nominanty s konečnou platností vybere. 
 
 ☑: Zvolení zastupitelé za Piráty pak sami budou také členy jednotlivých výborů a komisí (dle svého usnesení by v každé komisi a výboru měl být jeden zvolený zastupitel). I ti zde uvedou, o které komise mají zájem. 
 
@@ -34,7 +34,8 @@ Přihlášky zájemců jsou přijímány zde na tomto vláknu výběrového ří
 
 Seznam výborů a komisí, jsou uvedeny níže. Informace o jejich náplni a činnosti lze najít také na [www.praha6.cz](www.praha6.cz).
 
-**👁️‍🗨️ Seznam výborů a komisí:**
+**👁️‍🗨️ Seznam výborů a komisí:
+**
 
 * Kontrolní výbor ZMČ
 * Finanční výbor ZMČ
@@ -73,7 +74,7 @@ Seznam výborů a komisí, jsou uvedeny níže. Informace o jejich náplni a či
 
 (1) Zájemce doloží své předpoklady a vysvětlí svou motivaci pro práci v daném výboru / komisi / pracovní skupině. Učiní tak podobným způsobem, jako kdyby se ucházel o pracovní pozici (motivační dopis a stručný životopis).
 
-(2) Zájemce musí být členem nebo registrovaným příznivcem Pirátské strany (nebo se jím stát). Návod pro to, jak se stát příznivcem je zde: https://wiki.pirati.cz/ao/navody/priznivec
+(2) Zájemce musí být členem nebo registrovaným příznivcem Pirátské strany (nebo se jím stát). Návod pro to, jak se stát příznivcem je zde: <https://wiki.pirati.cz/ao/navody/priznivec>
 
 (3) Je-li zájemce nominován (= stane se nominantem), je vázán volebním programem Pirátů pro Prahu 6 a obecnými hodnotami, které Pirátská strana zastává.
 
