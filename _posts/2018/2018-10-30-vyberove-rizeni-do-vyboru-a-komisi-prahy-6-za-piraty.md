@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Výběrové řízení do výborů a komisí Prahy 6 za Piráty
-date: '2018-10-30 10:33am'
+date: '2018-10-29 10:33am'
 author: Ondřej Chrást
 image: /assets/img/commission-2564734_1280.jpg
 tags: |
