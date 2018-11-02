@@ -20,4 +20,4 @@ Lídři Zdeněk Hřib, Jan Čižinský a Jiří Pospíšil se shodli na výzvě 
 
 „_Není žádný důvod dražit v takovém termínu, aby vznikající koalice nemohla zareagovat_“ říká **Zdeněk Hřib**. „_Zrušení dražby a jednání s městem o odkupu je jen věcí ochoty vyjít Praze a Praze 6 vstříc_,“ komentuje situaci** Jan Čižinský**. „_Veleslavínský zámek je významnou památkou s potenciálem sloužit veřejnosti, chceme o tom jako Praha jednat_,“ dodává **Jiří Pospíšil**.
 
-Děkujeme - #DRZIMEKURZ
+Děkujeme a #DRZIMEKURZ
