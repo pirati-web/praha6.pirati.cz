@@ -4,7 +4,7 @@ category: blog
 title: >-
   Koalice v Praze vyzývá vládu ke zrušení prodeje Veleslavínského zámečku a
   dalšímu jednání
-date: '2018-11-02 12:30pm'
+date: '2018-11-01 12:30pm'
 author: Zdeněk Hřib
 image: /assets/img/veleslavin-zamecek.jpg
 tags: |-
