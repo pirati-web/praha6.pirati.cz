@@ -4,7 +4,7 @@ category: blog
 title: >-
   Mankurtí otevřenost bez kontroly aneb proč je pirátská předsedkyně KV důležitá
   pro demokracii!
-date: '2018-11-20 07:24am'
+date: '2018-11-19 07:24am'
 author: Michal Zachar
 image: /assets/img/puppy-32025_1280.png
 tags: |-
