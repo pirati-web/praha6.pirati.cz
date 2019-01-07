@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Opozice konstruktivně nikoliv negativně
+title: Jsme konstruktivní opozicí v zastupitelstvu MČ Praha 6
 date: '2019-01-07 08:31am'
 author: Mgr. Ondřej Chrást
 image: /assets/img/pirati-zastupitele.jpg
