@@ -2,11 +2,11 @@
 uid: martin.bohac
 name: Martin Boháč
 fullname: Bc. Martin Boháč
-category: podporovatel
+category: clen
 img: people/martin-bohac.jpg
 description: Programátor, podnikatel.
-ordpraha: 2
-ordcan: 22
+ordp6: 2
+ordkan: 22
 ---
 Bc. Martin Boháč (* 12. prosince 1980) je příznivcem Pirátů od května 2018.
 

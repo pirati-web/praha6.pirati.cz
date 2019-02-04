@@ -6,7 +6,7 @@ title: >-
   v orgánech městské části
 date: '2018-05-29 09:36am'
 author: Viktor Mahrik
-image: /assets/img/posts/pirati.jpg
+image: pirati.jpg
 tags: |
   praha 6
   tisková zpráva

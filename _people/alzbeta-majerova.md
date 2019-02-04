@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/alzbeta-majerova.jpg
 description: Studentka
-ordpraha: 
-ordcan: 44
+ordp6: 
+ordkan: 44
 ---
 
 

@@ -4,7 +4,7 @@ category: blog
 title: Piráti od Bobří řeky
 date: '2018-08-29 08:08am'
 author: Antonín “Mapiš” Štogr
-image: /assets/img/antonin-mapis-stogr-pirati-od-bobri-reky.jpg
+image: antonin-mapis-stogr-pirati-od-bobri-reky.jpg
 tags: |-
   Antonín Štogr
   Piráti

@@ -4,7 +4,7 @@ category: blog
 title: Proč chceme víc žen v politice
 date: '2018-09-11 04:04am'
 author: Veronika Štěpková
-image: /assets/img/bara1.jpg
+image: bara1.jpg
 tags: |-
   Komunální politika
   Ženy

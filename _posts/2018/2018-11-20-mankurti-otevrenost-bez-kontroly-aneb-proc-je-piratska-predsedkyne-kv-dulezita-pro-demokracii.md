@@ -6,7 +6,7 @@ title: >-
   pro demokracii!
 date: '2018-11-19 07:24am'
 author: Michal Zachar
-image: /assets/img/puppy-32025_1280.png
+image: puppy-32025_1280.png
 tags: |-
   Praha 6
   Zastupitelstvo
@@ -17,7 +17,8 @@ Velká většina z nás, možná všichni, jsme v sobotu oslavovali den boje za 
 
 V přeneseném smyslu je slovo "mankurt" používáno jako odkaz na osobu, která ztratila kontakt se svými lidskými, či národními kořeny, která zapomněl na svou osobní etiku a jedná proti ní. V tomto smyslu se slovo "mankurt" stalo pojmem v běžném jazyce a je často používáno v žurnalistice. A pochází z pozdějších let existence Sovětského svazu, kdy “mankurt” vstoupil do každodenního žurnalistického projevu, kterým se jen popisovalo odcizení, které měli utlačovaní lidé vůči společnosti, která je zotročila a zkreslila jejich celkovou i osobní historii. Je to o to větší paradox, když si uvědomíme, že na území současné MČ Praha 6 se nachází Ruské velvyslanectví. Asi viróza.
 
-Jak tedy umírá demokracie? Jedním z příznaků demokracie na mankurtním kurzu, tj. na sestupu, je právě eroze nepsaných pravidel. Pomocí mankurtní manipulace. Říkáte si, no a co? K čemu nepsaná pravidla? Jenže ta nepsaná,  jsou pro demokracii ta klíčová, ačkoli je nenajdete v ústavě ani v jednacím řádu MČ.
+Jak tedy umírá demokracie? Jedním z příznaků demokracie na mankurtním kurzu, tj. na sestupu, je právě eroze nepsaných pravidel. Pomocí mankurtní manipulace. Říkáte si, no a co? K čemu nepsaná pravidla? Jenže ta nepsaná,  jsou pro demokracii ta klíčová, ačkoli je nenajdete v ústavě ani v jednacím řádu MČ.
+
 
 První pravidlo - **vzájemná tolerance**. Politické soupeře berete jako legitimní protivníky, ne jako nepřátele. Možná je nemusíte mít rádi, ale akceptujete, že působí ve veřejném prostoru a že svou zemi milují a dostali k tomu mandát od voličů..
 

@@ -3,11 +3,14 @@ uid: eva.ticha
 name: Eva Tichá
 fullname: Ing. Eva Tichá
 mail: eva.ticha@pirati.cz
-category: clen
+category: 
+- clen
+- zk
 img: people/eva-ticha.jpg
 description: 'Obchodní manažerka, kandidátka do zastupitelstva MČ Praha 6.'
-ordpraha: 15
-ordcan: 6
+ordp6: 15
+ordkan: 6
+ordzk: 6
 ---
 Vystudovala Vysokou školu ekonomickou v Praze. Během studií získávala praxi v obchodní farmaceutické firmě a hrála nejvyšší soutěž v basketbalu, s nímž procestovala celou Evropu. Od roku 1995 se zabývala převážně obchodem, marketingem, komunikací a PR. Své zkušenosti nabývala v médiích (zpravodajství ČT, ČRo), ve státní správě (Úřad vlády ČR, Ministerstvo kultury), ale i v soukromém sektoru (Delvita, a.s., Carrefour ČR, a.s., Safina, a.s.).
 

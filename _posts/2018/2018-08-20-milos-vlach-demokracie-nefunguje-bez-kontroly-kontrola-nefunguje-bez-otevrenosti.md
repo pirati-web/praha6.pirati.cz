@@ -6,7 +6,7 @@ title: >-
   otevřenosti
 date: '2018-08-19 01:44pm'
 author: Tomáš Šídlo
-image: /assets/img/pirati-otevrenost-radnice-praha-6.jpg
+image: pirati-otevrenost-radnice-praha-6.jpg
 tags: |-
   Miloš Vlach
   Otevřená radnice

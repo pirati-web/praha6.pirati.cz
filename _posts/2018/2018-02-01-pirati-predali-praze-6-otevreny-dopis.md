@@ -6,7 +6,7 @@ title: >-
   starostovi
 date: 2018-02-01T00:00:00.000Z
 author: Viktor Mahrik
-image: /assets/img/posts/praha-6-dopis.jpg
+image: praha-6-dopis.jpg
 tags: praha-6
 ---
 

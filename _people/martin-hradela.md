@@ -6,8 +6,8 @@ mail: martin.hradela@pirati.cz
 category: clen
 img: people/martin-hradela.jpg
 description: Provozní velkoobchodu s korejskými potravinami
-ordpraha: 3
-ordcan: 33
+ordp6: 3
+ordkan: 33
 ---
 Martin Hrádela (* 29. října 1992) je příznivec Pirátské strany, vystudoval Mensa gymnázium a v současné době studuje na Pedagogické fakultě Univerzity Karlovy, dvojobor Základy společenských věd/Angličtina.
 

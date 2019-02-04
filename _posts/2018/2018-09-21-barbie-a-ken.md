@@ -4,7 +4,7 @@ category: blog
 title: Barbie a Ken
 date: '2018-09-20 12:03am'
 author: Michal Zachar
-image: /assets/img/dolls-937519_1280.jpg
+image: dolls-937519_1280.jpg
 tags: |-
   ANO
   ODS

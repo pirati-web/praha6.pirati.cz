@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/blanka-frohlichova.jpg
 description: OSVČ, autorka projektu DARUJ KABÁT
-ordpraha: 
-ordcan: 36
+ordp6: 
+ordkan: 36
 ---
 
 

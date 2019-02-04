@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/alena-ulrichova.jpg
 description: Stavební inženýrka
-ordpraha: 
-ordcan: 35
+ordp6: 
+ordkan: 35
 ---
 
 

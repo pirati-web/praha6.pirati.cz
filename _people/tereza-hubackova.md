@@ -6,8 +6,8 @@ mail: tereza.hubackova@pirati.cz
 category: clen
 img: people/tereza-hubackova.jpg
 description: Pěstounka na přechodnou dobu.
-ordpraha: 6
-ordcan: 19
+ordp6: 6
+ordkan: 19
 ---
 Tereza Hubáčková, DiS. (* 11. 1. 1973) je pěstounka na přechodnou dobu (pečuje o miminka, o která se nemohou nebo nechtějí postarat jejich rodiče, aby nemusela pobývat v kojeneckém ústavu; od r. 2014 se spolu s manželem postarala o sedm miminek). Dříve pracovala jako jazyková redaktorka a korektorka.
 V současnosti studuje sociální práci na UK v Praze, žije v Praze 6 poblíž Bílé Hory, z prvního manželství má tři děti, dvě už dospělé. Ve volném čase (pokud kromě miminek a studia nějaký zbude) se věnuje hudbě a sportu, obojímu čistě rekreačně, a taky biologickému zemědělství v podhůří Brd.

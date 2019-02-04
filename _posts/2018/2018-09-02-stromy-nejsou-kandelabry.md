@@ -4,7 +4,7 @@ category: blog
 title: Stromy nejsou kandelábry
 date: '2018-09-04 07:17pm'
 author: Tomáš Šídlo
-image: /assets/img/environmental-protection-683437_1280.jpg
+image: environmental-protection-683437_1280.jpg
 tags: |-
   Stromy
   Zeleň ve městě

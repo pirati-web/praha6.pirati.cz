@@ -6,7 +6,7 @@ title: >-
   katastrofální
 date: '2018-09-08 08:45pm'
 author: Jakub Kučera (Čti doma)
-image: /assets/img/starosta-ondrej-chrast-pirat-praha6.jpg
+image: starosta-ondrej-chrast-pirat-praha6.jpg
 tags: |-
   Ondřej Chrást
   Kandidát 

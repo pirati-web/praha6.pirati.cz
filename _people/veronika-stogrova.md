@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/veronika-stogrova.jpg
 description: Koordinátorka aktivit komunitního centra 
-ordpraha: 
-ordcan: 31
+ordp6: 
+ordkan: 31
 ---
 
 

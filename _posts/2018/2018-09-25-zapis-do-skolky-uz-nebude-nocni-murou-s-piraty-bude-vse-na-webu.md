@@ -4,7 +4,7 @@ category: blog
 title: Zápis do školky už nebude noční můrou - s Piráty bude vše na webu
 date: '2018-09-24 12:43am'
 author: Tereza Hubáčková
-image: /assets/img/piratipraha6-skolky-zapis.jpg
+image: piratipraha6-skolky-zapis.jpg
 tags: |-
   Piráti Praha 6
   Mateřské školky

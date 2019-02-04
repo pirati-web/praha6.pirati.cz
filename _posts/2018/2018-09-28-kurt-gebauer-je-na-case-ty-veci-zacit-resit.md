@@ -4,7 +4,7 @@ category: blog
 title: 'Kurt Gebauer: Je na čase ty věci začít řešit'
 date: '2018-09-30 05:25am'
 author: Tomáš Šídlo
-image: /assets/img/kurt-gebauer-hlavicky-namesti-jana-palacha-praha2011.jpg
+image: kurt-gebauer-hlavicky-namesti-jana-palacha-praha2011.jpg
 tags: |-
   Piráti Praha 6
   Kurt Geabuer

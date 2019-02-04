@@ -4,7 +4,7 @@ category: blog
 title: Vajgly nesbírám (rozloží se samy)
 date: 2018-04-08T00:00:00.000Z
 author: Barbora Hrůzová
-image: /assets/img/posts/vajgly.jpg
+image: vajgly.jpg
 tags: praha-6
 ---
 

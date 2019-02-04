@@ -4,7 +4,7 @@ category: blog
 title: 'PIRÁTI, TA ZAJÍMAVĚJŠÍ ČÁST SPOLEČNOSTI'
 date: '2018-10-01 12:00am'
 author: Ivan Derer
-image: /assets/img/cover_pha_69.jpg
+image: cover_pha_69.jpg
 tags: |
   Piráti Praha 6
   Volby
@@ -27,7 +27,8 @@ Můžeme s naprostou jistotou říct, že jsou to čisté úmysly. O žádné ji
 
 Jen na okraj je taky dobré si uvědomit, že díky tomu, že Pirátská strana dokázala před posledními volbami zbavit vlivu svoje politické křídlo “konspirační teoretici proti EU”, mohla tak ve strhujícím finiši v Praze připravit SPD o jednoho poslance v parlamentu. Kdyby se to nepodařilo, dívali bychom se dnes velmi pravděpodobně s naprostým úžasem na většinovou 101 vládu ANO a SPD s dodatečnou podporou Václava Klause mladšího.
 
-Z článku Marka Švehly o dredařích a máničkách vyplynulo v podstatě to, že se dobrovolně vystavují do opozice, kde nic nemůžou ovlivnit a tím vlastně popírají tu pravou politiku, coby umění možného, dosaženého vyjednáváním a politickými ústupky. Že jsou jejich nároky na koaliční spolupráci nereálné a úporná snaha trvat na předvolebních slibech kontraproduktivní.
+Z článku Marka Švehly o dredařích a máničkách vyplynulo v podstatě to, že se dobrovolně vystavují do opozice, kde nic nemůžou ovlivnit a tím vlastně popírají tu pravou politiku, coby umění možného, dosaženého vyjednáváním a politickými ústupky. Že jsou jejich nároky na koaliční spolupráci nereálné a úporná snaha trvat na předvolebních slibech kontraproduktivní.
+
 
 I autor tohoto blogu se tady musí přiznat, že ještě v den voleb propagoval na sociálních sítích vládní angažmá Pirátů, přestože věděl, že k ničemu takovému nemůže dojít.
 

@@ -6,7 +6,7 @@ title: >-
   dalšímu jednání
 date: '2018-11-02 12:00am'
 author: Zdeněk Hřib
-image: /assets/img/veleslavin-zamecek.jpg
+image: veleslavin-zamecek.jpg
 tags: |-
   Veleslavínský zámeček
   Piráti Praha 6
