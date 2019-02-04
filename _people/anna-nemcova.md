@@ -6,8 +6,8 @@ mail:
 category: 
 img: 
 description: Lingvistka
-ordpraha: 
-ordcan: 26
+ordp6: 
+ordkan: 26
 ---
 
 

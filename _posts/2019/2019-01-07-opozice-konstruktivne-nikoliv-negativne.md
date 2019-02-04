@@ -4,7 +4,7 @@ category: blog
 title: Jsme konstruktivní opozicí v zastupitelstvu MČ Praha 6
 date: '2019-01-06 06:31am'
 author: Mgr. Ondřej Chrást
-image: /assets/img/pirati-zastupitele.jpg
+image: pirati-zastupitele.jpg
 tags: |-
   Praha 6
   Piráti

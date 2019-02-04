@@ -4,7 +4,7 @@ category: blog
 title: 'Jak nefunguje radnice Prahy 6: jde jim o cihly, ne o lidi'
 date: 2018-04-10T00:00:00.000Z
 author: Jana Kabelová
-image: /assets/img/posts/solinova.jpg
+image: solinova.jpg
 tags: praha-6
 location:
   longitude: 50.1005406

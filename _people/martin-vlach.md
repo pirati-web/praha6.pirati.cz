@@ -6,8 +6,8 @@ mail:
 category: 
 img: 
 description: Kalkulant, stavař
-ordpraha: 
-ordcan: 30
+ordp6: 
+ordkan: 30
 ---
 
 

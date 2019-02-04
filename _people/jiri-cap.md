@@ -6,8 +6,8 @@ mail:
 category: 
 img: 
 description: Fyzioterapeut
-ordpraha: 
-ordcan: 43
+ordp6: 
+ordkan: 43
 ---
 
 

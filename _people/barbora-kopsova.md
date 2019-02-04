@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/barbora-kopsova.jpg
 description: Webdesignerka
-ordpraha: 
-ordcan: 39
+ordp6: 
+ordkan: 39
 ---
 
 

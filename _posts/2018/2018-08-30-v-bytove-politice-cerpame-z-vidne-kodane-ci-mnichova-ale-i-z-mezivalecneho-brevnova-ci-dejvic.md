@@ -6,7 +6,7 @@ title: >-
   Břevnova či Dejvic 
 date: '2018-09-10 07:00am'
 author: Jana Kabelová
-image: /assets/img/praha_6_hradcany_bilkova_vila_1.jpg
+image: praha_6_hradcany_bilkova_vila_1.jpg
 tags: |
   Piráti Praha 6
   Bydlení

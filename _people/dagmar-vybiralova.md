@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/dagmar-vybiralova.jpg
 description: Lektorka jógy
-ordpraha: 
-ordcan: 25
+ordp6: 
+ordkan: 25
 ---
 
 

@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/lucie-tochackova.jpg
 description: Studentka pedagogické fakulty 
-ordpraha: 
-ordcan: 20
+ordp6: 
+ordkan: 20
 ---
 
 

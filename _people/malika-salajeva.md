@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/malika-salajeva.jpg
 description: Účetní
-ordpraha: 
-ordcan: 38
+ordp6: 
+ordkan: 38
 ---
 
 

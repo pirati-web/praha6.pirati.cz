@@ -4,7 +4,7 @@ category: blog
 title: Zabránili jsme převzetí domova důchodců developery
 date: '2018-08-13 06:59am'
 author: Barbora Hrůzová
-image: /assets/img/jana-k-rozhovoru.png
+image: jana-k-rozhovoru.png
 tags: Piráti Praha 6 Šolínova Domov důchodců Sociální služby
 ---
 Mezi našimi čelními kandidáty máme i tři ženy. Každá má za sebou dlouhodobé profesní působení a přinášejí tak do politiky vedle zkušeností a ženských úhlů pohledů i kompetence získané desetiletími pracovních praxí. Jednou z nich je Jana Kabelová, profesním zaměřením stavařka. 

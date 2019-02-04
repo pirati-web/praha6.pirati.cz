@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/jaroslava-krizkova.jpg
 description: Inspektor pro kontrolu zákazu chemických a biologických zbraní SÚJB.
-ordpraha: 
-ordcan: 27
+ordp6: 
+ordkan: 27
 ---
 
 

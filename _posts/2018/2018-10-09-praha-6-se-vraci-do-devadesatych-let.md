@@ -4,7 +4,7 @@ category: blog
 title: Praha 6 se vrací do devadesátých let
 date: '2018-10-08 06:14pm'
 author: Zastupitelský klub Pirátů Praha 6
-image: /assets/img/halloween-1746354_1280.jpg
+image: halloween-1746354_1280.jpg
 tags: |-
   Piráti Praha 6
   Volby

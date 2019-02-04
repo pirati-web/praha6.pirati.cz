@@ -4,7 +4,7 @@ category: blog
 title: 'Místo, kde to všechno začíná'
 date: '2018-07-03 11:51pm'
 author: Ing. Dana Balcarová
-image: /assets/img/posts/strahov-pirati-praha-6-zivot-prostredi.jpg
+image: strahov-pirati-praha-6-zivot-prostredi.jpg
 tags: Balcarova zivotni prostredi domov misto zivot politik
 ---
 Máme vizi: místo, kde se člověk může nadechnout. Město se stromy a kašnami, kde máte v pěším dosahu vše potřebné, ale kde se pohodlně můžete přesouvat i moderně řešenou MHD. Kde všechno papírování vyřídíte z domova či s pomocí vstřícných úředníků – tedy město, odkud se na víkend neutíká. 

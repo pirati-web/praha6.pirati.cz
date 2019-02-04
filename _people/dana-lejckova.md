@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/dana-lejckova.jpg
 description: IT manažerka
-ordpraha: 
-ordcan: 34
+ordp6: 
+ordkan: 34
 ---
 
 

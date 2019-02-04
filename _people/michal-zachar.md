@@ -6,7 +6,7 @@ mail: michal.zachar@pirati.cz
 category: mp
 img: people/michal-zachar.jpg
 description: 'Předseda místního sdružení a mág sociálních sítí.'
-ordpraha: 1
+ordp6: 1
 ---
 Narodil jsem se 17. června 1966 v Hořicích v Podkrkonoší. Od sedmé třídy ZŠ žiju v Praze. Zde jsem na Praze 6 vystudoval Akademické gymnázium Štěpánská. To se v době rekonstrukce přestěhovalo na Prahu 6 (gymnázium Nad Alejí) a tak začal můj vztah. Prahu 6 mám jako druhý domov. Piráti jsou stranou, která je v mém osobním životě silně etablovaná, protože vznikla v den mých narozenin. Takže jsem v roce 2017 spojil do té doby svůj bezpartijní život s Piráty. Jejich ideály jsou v souladu s těmi mými. 
 

@@ -4,7 +4,7 @@ category: blog
 title: Přání Pirátům Prahy 6
 date: '2018-06-26 09:13pm'
 author: Ivan Bartoš
-image: /assets/img/posts/26198049597_99137c26f8_b.jpg
+image: 26198049597_99137c26f8_b.jpg
 tags: 'Piráti Praha6 Bartoš '
 ---
 Piráti v Praze, podobně jako v Mariánských Lázních, Brně či třeba v Písku, tvoří jednu velkou a důležitou kapitolu v 9 letech historie naší Pirátské strany. V předchozích komunálních volbách se nám podařilo na radnice poslat téměř 30 komunálních politiků. Od té doby jsme urazili dlouhou cestu a s podporou více než půl milionu voličů usedlo 22 poslankyň a poslanců do dolní komory Parlamentu České republiky – Poslanecké sněmovny. Na Praze 6 zvítězila  Pirátská strana ziskem 17,27 % hlasů a věřím, že stejný nebo ještě lepší výsledek dosáhne i v nastávajících volbách komunálních.

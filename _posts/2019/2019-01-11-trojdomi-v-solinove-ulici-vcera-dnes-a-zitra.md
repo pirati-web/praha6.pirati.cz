@@ -4,7 +4,7 @@ category: blog
 title: Trojdomí v Šolínově ulici včera dnes a zítra
 date: '2019-01-10 08:11am'
 author: Piráti Praha 6
-image: /assets/img/2253.jpg
+image: 2253.jpg
 tags: |-
   Trojdomí Šolínova
   Piráti Praha 6

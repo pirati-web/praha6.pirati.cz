@@ -6,8 +6,8 @@ mail:
 category: 
 img: 
 description: učitel
-ordpraha: 
-ordcan: 42
+ordp6: 
+ordkan: 42
 ---
 
 

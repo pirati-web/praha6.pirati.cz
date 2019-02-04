@@ -4,7 +4,7 @@ category: blog
 title: 'Za první republiky se Dejvice postavily bez developerů, říká Jana Kabelová'
 date: '2018-09-03 07:08am'
 author: Tomáš Šídlo
-image: /assets/img/praha_dejvice_-_ulice_zikova_nataceni_filmu_g.i.joe.jpg
+image: praha_dejvice_-_ulice_zikova_nataceni_filmu_g.i.joe.jpg
 tags: |-
   Piráti Praha 6
   Bydlení

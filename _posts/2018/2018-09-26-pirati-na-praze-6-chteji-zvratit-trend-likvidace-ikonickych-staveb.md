@@ -4,7 +4,7 @@ category: blog
 title: Piráti na Praze 6 chtějí zvrátit trend likvidace ikonických staveb
 date: '2018-09-25 01:17pm'
 author: Ondřej Chrást
-image: /assets/img/architektura-praha-6-pirati.jpg
+image: architektura-praha-6-pirati.jpg
 tags: |-
   Piráti Praha 6
   Ikonické stavby
@@ -14,7 +14,8 @@ tags: |-
 ---
 Startují projekt „Architektura Prahy 6 – současná, ohrožená a zmizelá“. Piráti z Prahy 6 spustili internetový portál [www.architekturaP6.cz](https://www.architekturap6.cz/), který si dává za cíl zmapovat podrobně architekturu v městské části. Na interaktivní mapě ukazují nejen bohaté kulturní dědictví, kterým Praha 6 oplývá, tedy také současnou architekturu, ale i architekturu, která ze Šestky již definitivně zmizela. Portál je otevřený a interaktivní a lidé do něj sami mohou posílat záznamy o architektuře, kterou považují za zajímavou, případně také ohroženou.
 
-Právě architektura z Prahy 6 zmizelá byla také hlavním impulsem pro spuštění těchto stránek: konkrétně několik často diskutovaných případů z poslední doby, kdy byly krásné domy nenávratně bourány a také necitlivě přestavovány, či doslova "lehly popelem". Projekt chce přispět především k tomu, aby se podobné výstřelky už neopakovaly. Chce upozornit na krásu architektury, která formuje charakter Prahy 6.
+Právě architektura z Prahy 6 zmizelá byla také hlavním impulsem pro spuštění těchto stránek: konkrétně několik často diskutovaných případů z poslední doby, kdy byly krásné domy nenávratně bourány a také necitlivě přestavovány, či doslova "lehly popelem". Projekt chce přispět především k tomu, aby se podobné výstřelky už neopakovaly. Chce upozornit na krásu architektury, která formuje charakter Prahy 6.
+
 
 „_Jednotlivé domy a vily, kolem kterých na Praze 6 každodenně chodíme, se již dávno staly součástí našeho života a často je ani nevnímáme. Kdyby však zmizely, budou nám velmi chybět. S mizejícími výjimečnými stavbami se ztrácí i kousek našich životů a pořádný kus naší historie. Téměř ke každému domu a vile na Praze 6 se váže silný a hluboký příběh. Nedopusťme tedy, aby tyto příběhy zmizely_,“ říká zakladatel projektu Mgr. **Ondřej Chrást**, doktorand Arts Managementu na VŠE, který se dlouhodobě věnuje památkám a jejich potenciálnímu ekonomickému využití.
 
@@ -26,7 +27,8 @@ Stávající památkovou ochranu na Praze 6 tvoří Pražská památková rezerv
 
 Podrobnosti naleznete, kromě webu [www.architekturap6.cz](https://www.architekturap6.cz/), také na [facebookové stránce](https://www.facebook.com/Architektura.Prahy6.soucasna.ohrozena.zmizela/), která bude poskytovat osvětové informace, sdílet dobrou praxi a informovat o stavu mapování ohrožených a zmizelých staveb na Praze 6.
 
-**Kontakty:**
+**Kontakty:
+**
 
 **Ondřej Chrást**, spoluzakladatel projektu Architektura Prahy 6 – současná, ohrožená a zmizelá, doktorand Arts Managementu na VŠE se zaměřením na ochranu a ekonomické využití památek, lídr kandidátky Pirátů do komunálních voleb 2018 na Praze 6, tel.: 606 914 916, email: ondrej.chrast@pirati.cz
 

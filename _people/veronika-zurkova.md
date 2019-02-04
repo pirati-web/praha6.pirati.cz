@@ -6,8 +6,8 @@ mail:
 category: 
 img: 
 description: 
-ordpraha: 
-ordcan: 
+ordp6: 
+ordkan: 
 ---
 
 

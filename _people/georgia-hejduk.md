@@ -6,8 +6,8 @@ mail: georgia.hejduk@pirati.cz
 category: clen
 img: people/georgia-hejduk.jpg
 description: 'Bloggerka, studentka logistických a finančních služeb'
-ordpraha: 1
-ordcan: 29
+ordp6: 1
+ordkan: 29
 ---
 Georgia Hejduk (* 13. března 2000) je studentka finančních služeb a v září 2018 byla přijata místním sdružení Pirátské strany Praha 6. Ve volbách v říjnu roku 2018 bude kandidovat do obecního zastupitelstva Prahy 6.
 

@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/tomas-pizl.jpg
 description: student
-ordpraha: 
-ordcan: 28
+ordp6: 
+ordkan: 28
 ---
 
 

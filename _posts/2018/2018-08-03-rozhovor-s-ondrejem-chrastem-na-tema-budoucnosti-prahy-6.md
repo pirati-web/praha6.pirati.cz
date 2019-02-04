@@ -4,7 +4,7 @@ category: blog
 title: Rozhovor s Ondřejem Chrástem na téma budoucnosti Prahy 6
 date: 2018-08-03 10:51am
 author: Ondřej Chrást
-image: /assets/img/pirati-chrast-a-hrib.jpg
+image: pirati-chrast-a-hrib.jpg
 tags: Ondrej Chrást veřejný prostor Praha 6 Dejvická Bělohorská Evropská památky Radnice
 ---
 

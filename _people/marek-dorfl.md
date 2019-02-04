@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/marek-dorfl.jpg
 description: Ředitel nákupního centra.
-ordpraha: 
-ordcan: 41
+ordp6: 
+ordkan: 41
 ---
 
 

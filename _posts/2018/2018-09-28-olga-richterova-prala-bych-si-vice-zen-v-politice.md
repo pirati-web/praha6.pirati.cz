@@ -4,7 +4,7 @@ category: blog
 title: 'Olga Richterová: Přála bych si více žen v politice'
 date: '2018-09-27 05:12am'
 author: Libuše Věříšová
-image: /assets/img/olga-richterova-pirati.jpg
+image: olga-richterova-pirati.jpg
 tags: |
   Piráti
   Olga Richterová

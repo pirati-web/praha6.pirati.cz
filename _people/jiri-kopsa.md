@@ -6,8 +6,8 @@ mail:
 category: 
 img: people/jiri-kopsa.jpg
 description: Ředitel vývoje
-ordpraha: 
-ordcan: 40
+ordp6: 
+ordkan: 40
 ---
 
 
