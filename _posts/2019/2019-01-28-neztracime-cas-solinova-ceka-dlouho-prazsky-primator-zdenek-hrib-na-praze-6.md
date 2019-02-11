@@ -4,7 +4,7 @@ category: blog
 title: 'Neztrácíme čas, Šolínova čeká dlouho – pražský primátor Zdeněk Hřib na Praze 6'
 date: '2019-01-27 08:38am'
 author: Mgr. Ondřej Chrást
-image: /assets/img/51325148_392240398200917_1052958885276549120_n.jpg
+image: 51325148_392240398200917_1052958885276549120_n.jpg
 tags: |-
   Trojdomí Šolínova
   Praha 6
@@ -16,13 +16,13 @@ Piráti Prahy 6 iniciovali setkání pražského primátora **Zdeňka Hřiba** (
 
 Navzdory dlouhodobé opuštěnosti je stavebně technický stav budov na první pohled dobrý. S přípravami na rekonstrukci se může neprodleně začít. Záměry ohledně budoucího využití se různí, podle názoru Pirátů je však třeba naslouchat všem a z objektu na nepřehlédnutelném místě Prahy 6 udělat živé a aktivní místo. Jsme přesvědčeni, že je důležité ptát se všech zainteresovaných stran a najít kompromis, jak budovy co nejlépe využít ve prospěch všech, jak je to běžné na mnoha jiných místech a v mnoha jiných městech. Na místě bylo dohodnuto ustavení společné pracovní skupiny Šestky a magistrátu, která bude neprodleně hledat nejvhodnější řešení.
 
-![null](/assets/img/50448743_538159863346161_6804337647046098944_n.jpg)
+![null](/assets/img/posts/50448743_538159863346161_6804337647046098944_n.jpg)
 
 Na začátku roku 2018 jsme iniciovali petici proti záměru radnice Prahy 6, která hodlala pronajmout trojdomí koncesí na 30 let. Výběrové řízení podle nás také obsahovalo chyby, které mohly v budoucnu poškodit zájmy městské části; na ně jsme poukázali v podání na ÚOHS. Plánovaným využitím mělo být soukromé „lůžkové zařízení“. Nemyslíme si, že budova v samém centru městské části je vhodným objektem pro tyto účely. Fakt, že jsme se postavili proti záměru tak, jak měl být realizován, neznamená, že se stavíme proti využití budov pro seniory. Naopak prosazujeme, aby v Šolínově vzniklo moderní městské centrum sociálních služeb třetího tisíciletí. Senioři jsou většinou v domovech pro seniory opuštění, osamocenosti bývají vystaveny i jiné cílové skupiny, například opuštěné matky. Přitom trojdomí bylo vystavěno už v roce 1928 právě jako domov pro opuštěné ženy. Navrhujeme proto využít kapacitu objektů pro různé potřebné skupiny, a to tak, aby se optimálně doplňovaly jejich sociální potřeby.
 
 Nedegradujme tedy lidské životy na lůžka a pojďme budovat sociální interakce, které budou inspirovat. Své okolí i celou republiku. Podporujeme využití přirozené konstituce trojdomí. Kulturní a vzdělávací prostor a zázemí sociálních služeb, domov pro opuštěné ženy a domov pro aktivní seniory – chceme mít z trojdomí v Šolínově ulici místo, které vytváří přidanou hodnotu a prostor pro interakci mezi generacemi, ne dům plný anonymních lůžek, ale živých lidí i vztahů.
 
-![null](/assets/img/50276821_1044930719020262_7030500797968285696_n.jpg)
+![null](/assets/img/posts/50276821_1044930719020262_7030500797968285696_n.jpg)
 
 Trojdomí Šolínova má pozoruhodnou historii. Věříme, že pro vytvoření čehokoliv výjimečného je třeba přihlížet ke geniu loci místa, obzvláště v případě, kdy se nabízí příležitost vytvořit takto unikátní synergii, která může fungovat napříč generacemi.
 
