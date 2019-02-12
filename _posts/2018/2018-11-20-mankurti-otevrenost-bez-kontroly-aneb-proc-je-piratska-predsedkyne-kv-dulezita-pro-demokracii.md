@@ -6,7 +6,7 @@ title: >-
   pro demokracii!
 date: '2018-11-19 07:24am'
 author: Michal Zachar
-image: arturek.jpg
+image: atrurek.jpg
 tags: |-
   Praha 6
   Zastupitelstvo
