@@ -7,8 +7,7 @@ category:
 - mp
 - zk
 img: people/ondrej-chrast.jpg
-description: Projektový manažer v oblasti kultury a vzdělávání. Lídr kandidátky a kandidát
-  na starostu v komunálních volbách 2018. Předseda zastupitelského klubu Piráti Praha 6. 2. místopředseda místního sdružení.
+description: Projektový manažer v oblasti kultury a vzdělávání. Předseda zastupitelského klubu Piráti Praha 6. Lídr kandidátky a kandidát na starostu v komunálních volbách 2018. 
   
 ordp6: 3
 ordkan: 1
