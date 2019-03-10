@@ -1,19 +1,27 @@
 ---
 layout: default
-title: Mapa záměrů
+number: 4
+title: Mapa pirátských plánů pro Prahu 6
+description: Prohlédněte si interaktivní mapu pirátských plánů pro Prahu 6.
+keywords: volby, 2018, program, mapa pirátských plánů, mapa
+tags: Mapa-pirátských-plánů
+#img: og/mapa-zameru.jpg
+redirect_from:
+  - /komunalni-volby-2018/mapa-zameru/
 ---
 
 <div class="c-intention-map">
   <header class="c-intention-map__header-wrap">
-    <h1 itemprop="headline" class="c-page-title c-intention-map__header">Mapa záměrů</h1>
+    <h1 itemprop="headline" class="c-page-title c-intention-map__header">Mapa pirátských plánů</h1>
   </header>
 
   <!-- Article -->
   <article itemtype="http://schema.org/BlogPosting" itemscope="">
     <link itemprop="mainEntityOfPage" href="{{ page.url }}">
-    {% if site.env.MAPBOX_ACCESS_TOKEN %}
-    <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="https://gist.githubusercontent.com/xaralis/f9711e5d12f971504d0753ba40c3d33e/raw/4a1701c64de5eb7ed6aa1538cb269022965d82d6/map.geojson" data-ideaform="https://goo.gl/forms/wKSPmWNDzgRiUxLN2"></div>
-    {% endif %}
+
+      <div class="__vue-root" data-app="IntentionMap" data-accesstoken="AIzaSyA2qc1B8lzvewTc1E-GddXrUMidhuBqgfQ" data-dataset="map.geojson" data-ideaform="https://goo.gl/forms/wKSPmWNDzgRiUxLN2" data-colors="auta:wisteria,brownfield:alizarin,cyklo:peterRiver,veřejný prostor:carrot,MHD:midnightBlue,pěší:emerald,rekreace:sunFlower"></div>
+
   </article>
   <!-- /Article -->
 </div>
+
