@@ -14,32 +14,220 @@
         "coordinates": [
           [
             [
-              14.392122030258177,
-              50.100528345237116
+              14.392148852348328,
+              50.100505978952775
             ],
             [
-              14.392063021659851,
-              50.10101695991999
+              14.39207375049591,
+              50.10102040085078
             ],
             [
-              14.391698241233824,
-              50.10099287339748
+              14.391714334487913,
+              50.100996314330004
             ],
             [
               14.391751885414124,
               50.10072103894662
             ],
             [
-              14.39160168170929,
-              50.100714157041786
+              14.391593635082243,
+              50.10071071608898
             ],
             [
-              14.391655325889587,
-              50.10050769943653
+              14.391636550426483,
+              50.100485333142544
             ],
             [
-              14.392122030258177,
-              50.100528345237116
+              14.392148852348328,
+              50.100505978952775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 2,
+        "name": "Zahrádkářská kolonie na Jenerálce",
+        "description": "Soukromá společnost výkupem restitučních nároků získala významný podíl na pozemcích v zahrádkářské kolonii Jenerálka - firma chce zlikvidovat zahrádky, které si od MČ lidé pronajímají - MČ problém neřešila a soudní řízení s Manalisten musí vést přímo nájemci zahrádek. Radnice od toho dává ruce pryč. Piráti chtějí aktivně podpořit majitele zahrádek a jsou proti jakémukoliv zastavování funkčních zahrádkářských kolonií. "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.355772733688353,
+              50.110850131112784
+            ],
+            [
+              14.355429410934448,
+              50.10979741082286
+            ],
+            [
+              14.355804920196533,
+              50.10968732108999
+            ],
+            [
+              14.35613751411438,
+              50.10882035559983
+            ],
+            [
+              14.356566667556763,
+              50.108737786639395
+            ],
+            [
+              14.35683488845825,
+              50.108228608237575
+            ],
+            [
+              14.358186721801758,
+              50.10847631732546
+            ],
+            [
+              14.358229637145996,
+              50.10882035559983
+            ],
+            [
+              14.359356164932251,
+              50.10884787855503
+            ],
+            [
+              14.361255168914795,
+              50.10950842473433
+            ],
+            [
+              14.36314344406128,
+              50.11067123910089
+            ],
+            [
+              14.36189889907837,
+              50.11189594796303
+            ],
+            [
+              14.36463475227356,
+              50.11330638846235
+            ],
+            [
+              14.362574815750122,
+              50.11500574207639
+            ],
+            [
+              14.359699487686157,
+              50.113870553029784
+            ],
+            [
+              14.35839056968689,
+              50.11241884782329
+            ],
+            [
+              14.357736110687256,
+              50.11186842675959
+            ],
+            [
+              14.357532262802124,
+              50.11142808535335
+            ],
+            [
+              14.356126785278322,
+              50.110815728854696
+            ],
+            [
+              14.355772733688353,
+              50.110850131112784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "id": 3,
+        "name": "Geosan plánuje výstavbu na Patočkově",
+        "description": "Prvním projektem je kapacitní bytový komplex v Radimově ulici – na místě tzv. Břevnovského mrakodrapu a druhým pak desetipatrový dům přímo u křižovatky Malovanka. Zhorší to už tak špatnou dopravní a vzduchovou situaci v lokalitě a  navyšuje objemy zástavby  -----------------------------------------------------------  Podporujeme odstoupení od dohod a zapracování územní studie, která vezme v potaz stávající hodnoty území a dopravní zatížení lokality."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.373942017555235,
+              50.08845935747292
+            ],
+            [
+              14.374049305915834,
+              50.08733386492208
+            ],
+            [
+              14.374821782112122,
+              50.087364842134974
+            ],
+            [
+              14.374784231185911,
+              50.08845935747292
+            ],
+            [
+              14.373942017555235,
+              50.08845935747292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Hřiště pod Televizní věží na Strahově",
+        "id": 4,
+        "description": "Pozemky za Strahovským stadionem jsou vedeno v ÚP jako „SP“ – tedy sport. Tyto nedávno získal soukromý vlastník a developer předložil komisi ÚR plán na stavbu developmentu, což bylo schváleno.  ------------------------------------------------------------  Prosazujeme dodržování pravidel, a nepodpoříme cookoliv v rozporu s územním plánem, Včetně kliček jak jsou ubytovny pro sportovce."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.376967549324036,
+              50.081124250469855
+            ],
+            [
+              14.376141428947449,
+              50.08033938606207
+            ],
+            [
+              14.376935362815857,
+              50.07931697762794
+            ],
+            [
+              14.379955530166624,
+              50.07946500444136
+            ],
+            [
+              14.379912614822388,
+              50.08086263042834
+            ],
+            [
+              14.378458857536314,
+              50.0812791564004
+            ],
+            [
+              14.376967549324036,
+              50.081124250469855
             ]
           ]
         ]
