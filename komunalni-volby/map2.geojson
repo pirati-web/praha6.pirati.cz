@@ -7,7 +7,7 @@
         "id": 1,
         "name": "Objekt Šolínova",
         "category": "Záchrana objektů",
-        "description": "Radnice by se neměla bezhlavě zbavovat lukrativních majetků. Když už prodává, má prodávat za tržní ceny, nikoliv pod nimi. Piráti se zasadili o přerušení výběru komerčního nájemce a prosazují, aby domov důchodců, případně další sociální služby v místě, provozovala radnice ve spolupráci s MHMP, případně neziskovým sektorem. Nikoliv komečně. "
+        "description": "Chceme zahránit budovu v Šolínově ulici"
       },
       "geometry": {
         "type": "Polygon",
@@ -146,7 +146,7 @@
       "properties": {
         "id": 3,
         "name": "Geosan plánuje výstavbu na Patočkově",
-        "description": "Prvním projektem je kapacitní bytový komplex v Radimově ulici – na místě tzv. Břevnovského mrakodrapu a druhým pak desetipatrový dům přímo u křižovatky Malovanka. Zhorší to už tak špatnou dopravní a vzduchovou situaci v lokalitě a  navyšuje objemy zástavby. Podporujeme odstoupení od dohod a zapracování územní studie, která vezme v potaz stávající hodnoty území a dopravní zatížení lokality.",
+        "description": "Prvním projektem je kapacitní bytový komplex v Radimově ulici – na místě tzv. Břevnovského mrakodrapu a druhým pak desetipatrový dům přímo u křižovatky Malovanka. Zhorší to už tak špatnou dopravní a vzduchovou situaci v lokalitě a  navyšuje objemy zástavby  -----------------------------------------------------------  Podporujeme odstoupení od dohod a zapracování územní studie, která vezme v potaz stávající hodnoty území a dopravní zatížení lokality.",
         "category": "Developerská výstavba"
       },
       "geometry": {
@@ -182,7 +182,7 @@
       "properties": {
         "name": "Hřiště pod Televizní věží na Strahově",
         "id": 4,
-        "description": "Pozemky za Strahovským stadionem jsou vedeno v ÚP jako „SP“ – tedy sport. Tyto nedávno získal soukromý vlastník a developer předložil komisi ÚR plán na stavbu developmentu, což bylo schváleno. Prosazujeme dodržování pravidel, a nepodpoříme cookoliv v rozporu s územním plánem, Včetně kliček jak jsou ubytovny pro sportovce.",
+        "description": "Pozemky za Strahovským stadionem jsou vedeno v ÚP jako „SP“ – tedy sport. Tyto nedávno získal soukromý vlastník a developer předložil komisi ÚR plán na stavbu developmentu, což bylo schváleno.  ------------------------------------------------------------  Prosazujeme dodržování pravidel, a nepodpoříme cookoliv v rozporu s územním plánem, Včetně kliček jak jsou ubytovny pro sportovce.",
         "category": "Developerská výstavba"
       },
       "geometry": {
@@ -226,7 +226,7 @@
       "properties": {
         "id": 5,
         "name": "Medvěd",
-        "description": "Radnice prodala významnou část Vítězného náměstí (na místě bývalého projektu \"lední mědvěd\") pod posudkové ceny. Radnice by se neměla bezhlavě zbavovat lukrativních majetků. Když už prodává, má prodávat za tržní ceny, nikoliv pod nimi. ",
+        "description": "Radnice prodala významnou část Vítězného náměstí (na místě bývalého projektu \"lední mědvěd\") pod posudkové ceny.   ------------------------------------------------------------  Radnice by se neměla bezhlavě zbavovat lukrativních majetků. Když už prodává, má prodávat za tržní ceny, nikoliv pod nimi. ",
         "category": "Developerská výstavba"
       },
       "geometry": {
@@ -274,7 +274,7 @@
       "properties": {
         "id": 7,
         "name": "Usedlost Šatovka",
-        "description": "Dlouhodobě neřešené využití krásné usedlosti v Šáreckém údolí. Mnoho plánů na přestavbu opět selhalo. Vilu obsadili squatteři. Piráti navrhují smysluplné využití usedlosti v klidné přírodě, která by mohla sloužit jako LDN či jako zařízení se zlváštním režimem. Domov pro aktivní seniory, jak o tom hovoří současná radnice. Dům pro aktivní seniory naopak chceme v živém centru, např. v trojdomí Śolínova.  ",
+        "description": "Dlouhodobě neřešené využití krásné usedlosti v Šáreckém údolí. Mnoho plánů na přestavbu opět selhalo. Vilu obsadili squatteři.  ------------------------------------------------------------  Piráti navrhují smysluplné využití usedlosti v klidné přírodě, která by mohla sloužit jako LDN či jako zařízení se zlváštním režimem. Domov pro aktivní seniory, jak o tom hovoří současná radnice. Dům pro aktivní seniory naopak chceme v živém centru, např. v trojdomí Śolínova.  ",
         "category": "Lepší využítí"
       },
       "geometry": {
@@ -318,7 +318,7 @@
       "properties": {
         "id": 8,
         "name": "LDN Chittussiho",
-        "description": "Pozemek se v novém metropolitním plánu mění z obecního využití na bytovou zástavbu a skupina PENTA zde plánuje rozsáhlou výstavbu luxusních bytů. Místo pro novou a pro občany MČ velmi potřebnou LDN ještě není vybráno. Uznáváme, že současná podoba LDN je nevyhovující a je třeba hledat nové řešení. Nechceme se však zbavovat lukrativních pozemků a celý zisk přenechávat developerům.",
+        "description": "Pozemek se v novém metropolitním plánu mění z obecního využití na bytovou zástavbu a skupina PENTA zde plánuje rozsáhlou výstavbu luxusních bytů. Místo pro novou a pro občany MČ velmi potřebnou LDN ještě není vybráno.  ------------------------------------------------------------  Uznáváme, že současná podoba LDN je nevyhovující a je třeba hledat nové řešení. Nechceme se však zbavovat lukrativních pozemků a celý zisk přenechávat developerům.",
         "category": "Developerská výstavba"
       },
       "geometry": {
@@ -374,7 +374,7 @@
       "properties": {
         "id": 9,
         "name": "Vila Na Marně",
-        "description": "Radnice chce zbourat zachovalou vilu v ulici Na Marně a postavit na jejím místě školku, která má sloužit zejména jako školka pro novou zástavbu plánovou developerem, který se však na budování školky nebude finančně podílet. Budeme trvat na odpovědnosti developera za občanskou vybavenost v okolí nové výstavby. Nedopustíme vynakládání veřejných prostředků na podporu komerčních a vysoce ziskových zájmů developerů.",
+        "description": "Radnice chce zbourat zachovalou vilu v ulici Na Marně a postavit na jejím místě školku, která má sloužit zejména jako školka pro novou zástavbu plánovou developerem, který se však na budování školky nebude finančně podílet.  ------------------------------------------------------------  Budeme trvat na odpovědnosti developera za občanskou vybavenost v okolí nové výstavby. Nedopustíme vynakládání veřejných prostředků na podporu komerčních a vysoce ziskových zájmů developerů.",
         "category": "Záchrana objektů"
       },
       "geometry": {
@@ -410,7 +410,7 @@
       "properties": {
         "id": 10,
         "name": "Dejvická 4",
-        "description": "Dlouhodobě neřešený katastrofální stav budovy na Dejvické 4. Nekoncepční přístup způsobuje další chátrání. Podpoříme otevřný a efektivní přístup k dlouhodobému řešení a rekostrukci budovy. Přístup založený na občanské participaci, efektivnosti a účelnosti.",
+        "description": "Dlouhodobě neřešený katastrofální stav budovy na Dejvické 4. Nekoncepční přístup způsobuje další chátrání.   ------------------------------------------------------------  Podpoříme otevřný a efektivní přístup k dlouhodobému řešení a rekostrukci budovy. Přístup založený na občanské participaci, efektivnosti a účelnosti.",
         "category": "Lepší využítí"
       },
       "geometry": {
@@ -462,7 +462,7 @@
       "properties": {
         "id": 11,
         "name": "OC Bořislavka",
-        "description": "Na lukrativním pozemku u metra Bořislavka má vyrůst nová budova obchodního centra. Výstavba probíhá bez občanské participace a nikdo vlastně neví, co se tam teď staví. Piráti nejsou vždy proti nové výstavbě. Ta musí však probíhat s vědomím a participací místních občanů, kteří v okolí žijí. Rozhodování \"za zavřenými dveřmi\" rozhodně chceme odbourat. ",
+        "description": "Na lukrativním pozemku u metra Bořislavka má vyrůst nová budova obchodního centra. Výstavba probíhá bez občanské participace a nikdo vlastně neví, co se tam teď staví.  ------------------------------------------------------------  Piráti nejsou vždy proti nové výstavbě. Ta musí však probíhat s vědomím a participací místních občanů, kteří v okolí žijí. Rozhodování \"za zavřenými dveřmi\" rozhodně chceme odbourat. ",
         "category": "Zapojení veřejnosti"
       },
       "geometry": {
@@ -506,7 +506,7 @@
       "properties": {
         "id": 12,
         "name": "Nákupní středisko Červený vrch",
-        "description": "V majetku CPI, zvenku i uvnitř centrum neprošlo od doby komunismu jakoukoli změnou. Majitel si přeje výškovou zástavbu necitlivou pro okolí a momentálně oběkt využívá v rozporu s koulaudačním rozhodnutím. Vyžadujeme dodržování účelu využití budovy a budeme hájit zájmy obyvatel okolí v ohledu potenciální výškové zástavy.",
+        "description": "V majetku CPI, zvenku i uvnitř centrum neprošlo od doby komunismu jakoukoli změnou. Majitel si přeje výškovou zástavbu necitlivou pro okolí a momentálně oběkt využívá v rozporu s koulaudačním rozhodnutím.  ------------------------------------------------------------  Vyžadujeme dodržování účelu využití budovy a budeme hájit zájmy obyvatel okolí v ohledu potenciální výškové zástavy.",
         "category": "Developerská výstavba"
       },
       "geometry": {
@@ -542,7 +542,7 @@
       "properties": {
         "id": 13,
         "name": "Potenciální zástavba podél Divoké Šárky",
-        "description": "Metropolitní plán navrhuje zastavitelnost Šáreckého údolí podél Evropské třídy výškovými budovami (lokalita 124). Piráti důsledně kontrolují a připomínkují meetropolitní plán, aby nedocházelo ke zbytečnému zastavování zelených ploch.",
+        "description": "Metropolitní plán navrhuje zastavitelnost Šáreckého údolí podél Evropské třídy výškovými budovami (lokalita 124).  ------------------------------------------------------------  Piráti důsledně kontrolují a připomínkují meetropolitní plán, aby nedocházelo ke zbytečnému zastavování zelených ploch.",
         "category": "Zelená Praha"
       },
       "geometry": {
@@ -578,7 +578,7 @@
       "properties": {
         "id": 14,
         "name": "Rekonstrukce Buštěhradské dráhy",
-        "description": "Blíží se rekonstukce trasy části Buštěhradské dráhy, úsek z Dejvic do Veleslavína a zatím to vypadá, že půjde pod drn. Návrh zahloubení podporujeme, budeme striktně trvat na vytvoření \"zelené  radiály\" - nezastavitelného pochozího parku nad zahloubenou dráhou.",
+        "description": "Blíží se rekonstukce trasy části Buštěhradské dráhy, úsek z Dejvic do Veleslavína a zatím to vypadá, že půjde pod drn.   ------------------------------------------------------------  Návrh zahloubení podporujeme, budeme striktně trvat na vytvoření \"zelené  radiály\" - nezastavitelného pochozího parku nad zahloubenou dráhou.",
         "category": "Zelená Praha"
       },
       "geometry": {
@@ -718,7 +718,7 @@
       "properties": {
         "id": 15,
         "name": "Poliklinika Pod Marjánkou",
-        "description": "Dlouhodobě se neřeší rekonstrukce tradiční polikliniky. Funkcionalistická budova je tak předmětem politických her, které nemají konce a stály naší MČ nemalé peníze (naposledy radince musela vyplatit cca 37 milionů korun jako odstupné předchozímu nájemci). Piráti chtějí diskutovat s architekty, místními lékaři i pacienty o co nejefektivnějším využití polikliniky k původním účelům.",
+        "description": "Dlouhodobě se neřeší rekonstrukce tradiční polikliniky. Funkcionalistická budova je tak předmětem politických her, které nemají konce a stály naší MČ nemalé peníze (naposledy radince musela vyplatit cca 37 milionů korun jako odstupné předchozímu nájemci).  ------------------------------------------------------------  Piráti chtějí diskutovat s architekty, místními lékaři i pacienty o co nejefektivnějším využití polikliniky k původním účelům.",
         "category": "Zapojení veřejnosti"
       },
       "geometry": {
@@ -786,7 +786,7 @@
       "properties": {
         "id": 16,
         "name": "Demoliční stav budov na ul. Milady Horákové ",
-        "description": "Katastrofální a dlouho neřešený stav neudržovaných budov (vil) v držení společností ze skupiny Lordship. Hyzdí jednu z najfrekventovanějších částí naší MČ, sjou nebezpečné pro děti i dospělé. Chceme postup městské části ke znovuzavadení řádné pěče o budovy.",
+        "description": "Katastrofální a dlouho neřešený stav neudržovaných budov (vil) v držení společností ze skupiny Lordship. Hyzdí jednu z najfrekventovanějších částí naší MČ, sjou nebezpečné pro děti i dospělé.  ------------------------------------------------------------  Chceme postup městské části ke znovuzavadení řádné pěče o budovy.",
         "category": "Záchrana objektů"
       },
       "geometry": {
@@ -830,7 +830,7 @@
       "properties": {
         "id": 17,
         "name": "Zastavování Engelova pásu",
-        "description": "Engelův zelený pás je parková plocha probíhající souběžně s Evropskou od Vítězného náměstí po Červený vrch. Parková plocha se postupně zastavuje, u Vítězného náměstí investory zvučných jmen. Mizí veřejně sdílené benefity zelených ploch ve jménu soukromých developerských projektů. Chceme zastvit přeměnu Engelova zeleného pásu na stavební parcely.",
+        "description": "Engelův zelený pás je parková plocha probíhající souběžně s Evropskou od Vítězného náměstí po Červený vrch. Parková plocha se postupně zastavuje, u Vítězného náměstí investory zvučných jmen. Mizí veřejně sdílené benefity zelených ploch ve jménu soukromých developerských projektů.  ------------------------------------------------------------  Chceme zastvit přeměnu Engelova zeleného pásu na stavební parcely.",
         "category": "Zelená Praha"
       },
       "geometry": {
@@ -870,7 +870,7 @@
       "properties": {
         "id": 18,
         "name": "Zbouraná památkově hodnotná vila na Petřinách. ",
-        "description": "Odstranění krásné památkově chráněné stavby poté, co si majitel vymohl zneplanění její památkové ochrany. Piráti se zasadí všemi prostřeky o ochranu kulturního dědictví, které jsme zdědili po našich předcích.",
+        "description": "Odstranění krásné památkově chráněné stavby poté, co si majitel vymohl zneplanění její památkové ochrany.  ------------------------------------------------------------  Piráti se zasadí všemi prostřeky o ochranu kulturního dědictví, které jsme zdědili po našich předcích.",
         "category": "Záchrana objektů"
       },
       "geometry": {
@@ -906,7 +906,7 @@
       "properties": {
         "id": 19,
         "name": "Tesco na Hanspaulce",
-        "description": "Budova Tesco na Hanspaulce je ve vlastnictví CPI. Nedávno zastupitelstvo schválilo prodej okolních pozemů také CPI. Tímto došlo k navýšení možného objemu zástavby. Jsme proti navyšování objemu zástavby ve vilových čtvrtích zejména na Hanspaulském náměstí. Pro případnou rekonstrukci budeme prosazovat konsensus okolních obyvatel.",
+        "description": "Budova Tesco na Hanspaulce je ve vlastnictví CPI. Nedávno zastupitelstvo schválilo prodej okolních pozemů také CPI. Tímto došlo k navýšení možného objemu zástavby.  ------------------------------------------------------------  Jsme proti navyšování objemu zástavby ve vilových čtvrtích zejména na Hanspaulském náměstí. Pro případnou rekonstrukci budeme prosazovat konsensus okolních obyvatel.",
         "category": "Zapojení veřejnosti"
       },
       "geometry": {
