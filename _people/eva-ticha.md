@@ -8,7 +8,7 @@ category:
 - zk
 img: people/eva-ticha.jpg
 description: 'Obchodní manažerka, kandidátka do zastupitelstva MČ Praha 6.'
-ordp6: 15
+ordp6: 21
 ordkan: 6
 ordzk: 6
 ---

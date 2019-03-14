@@ -8,7 +8,7 @@ category:
 - zk
 img: people/viktor-mahrik.jpg
 description: Zastupitel Pirátů a předseda výboru pro dopravu Hlavního města Prahy
-ordp6: 5
+ordp6: 14
 ordkan: 2
 ordzk: 2
 ---

@@ -6,7 +6,7 @@ mail: jan.lejcko@pirati.cz
 category: clen
 img: people/jan-lejcko.jpg
 description: Student práv, basketbalový rozhodčí. Studuje Právnickou fakultu ZČU.
-ordp6: 8
+ordp6: 10
 ordkan: 10
 ---
 Jan Lejčko (* 04. dubna 1992, Praha) je členem pirátské strany od června roku 2017, členem KS Praha a MS Praha 6, kde žije a věnuje se zde komunální politice, angažuje se též v aktivitách souvisejících s prodejem pozemků, věcí movitých a nemovitých výrazně pod tržní hodnotou.

@@ -5,7 +5,7 @@ fullname: Bc. Martin Boháč
 category: clen
 img: people/martin-bohac.jpg
 description: Programátor, podnikatel.
-ordp6: 2
+ordp6: 1
 ordkan: 22
 ---
 Bc. Martin Boháč (* 12. prosince 1980) je příznivcem Pirátů od května 2018.

@@ -6,7 +6,7 @@ mail: ivan.hruza@pirati.cz
 category: clen
 img: people/ivan-hruza.jpg
 description: IT security, všeobecná sestra
-ordp6: 4
+ordp6: 6
 ordkan: 13
 ---
 Ivan Hrůza *1987 v Praze. Členem Pirátů od r. 2014; od r. 2017 místopředseda MS Praha 6. V současnosti působí jako IT security specialista a nezávislý konzultant v oblasti zdravotnictví. 

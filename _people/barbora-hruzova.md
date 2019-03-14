@@ -8,7 +8,7 @@ category:
 - zk
 img: people/barbora-hruzova.jpg
 description: "Pracuje v\_Archeologickém ústavu Akademie Věd jako dokumentátorka. Moje ideály jsou svoboda a soukromí, přátelství a tolerance."
-ordp6: 5
+ordp6: 6
 ordkan: 5
 ordzk: 5
 ---

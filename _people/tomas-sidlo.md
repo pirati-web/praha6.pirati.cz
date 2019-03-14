@@ -7,7 +7,7 @@ category:
 - zk
 img: people/tomas-sidlo.jpg
 description: Sociolog, podnikatel, skautský funkcionář. 
-ordp6: 9
+ordp6: 4
 ordkan: 8
 ordzk: 8
 ---

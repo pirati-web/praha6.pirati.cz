@@ -6,7 +6,7 @@ mail: gabriela.lnenickova@pirati.cz
 category: clen
 img: people/gabriela-lnenickova.jpg
 description: Členka Pirátské strany.
-ordp6: 10
+ordp6: 13
 ---
 	
 Je členkou Pirátské strany. Pochází z Třeboně a v Praze žije od roku 1997. Vystudovala obor mezinárodní obchod na Vysoké škole ekonomické v Praze. Zúčastnila se také zahraničních studijních pobytů na Wirstchaftsuniversität Wien v Rakousku a Stockholm School of Economics ve Švédsku. Poté absolvovala MBA program na Anglo-American University, který zaštiťuje Chapman University v Kalifornii, USA.	

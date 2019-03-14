@@ -6,7 +6,7 @@ mail:
 category: podporovatel
 img: people/michal-dnebosky.jpg
 description: Vedoucí pracovník a příznivec Pirátské strany.
-ordp6: 3
+ordp6: 2
 ordkan: 17
 ---
 Narodil se v roce 1977 a celé své dětství prožil v Praze Braníku, nedaleko legendární

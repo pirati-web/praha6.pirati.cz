@@ -6,7 +6,7 @@ mail: radek.letko@pirati.cz
 category: clen
 img: people/radek-letko.jpg
 description: Systémový architekt
-ordp6: 7
+ordp6: 11
 ordkan: 32
 ---
 

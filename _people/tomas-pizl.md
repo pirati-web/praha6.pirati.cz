@@ -3,7 +3,7 @@ uid: tomas.pizl
 name: Tomáš Pižl
 fullname: Tomáš Pižl
 mail: 
-category: priznivec
+category: podporovatel
 img: people/tomas-pizl.jpg
 description: student
 ordp6: 3

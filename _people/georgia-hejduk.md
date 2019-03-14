@@ -6,7 +6,7 @@ mail: georgia.hejduk@pirati.cz
 category: clen
 img: people/georgia-hejduk.jpg
 description: 'Bloggerka, studentka finančních služeb'
-ordp6: 1
+ordp6: 4
 ordkan: 29
 ---
 „Tough times don't last, tough people do, remember?“ - Gregory Peck
