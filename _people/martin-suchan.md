@@ -3,10 +3,10 @@ uid: martin.suchan
 name: Martin Suchan
 fullname: Mgr. Martin Suchan
 mail: martin.suchan@pirati.cz
-category: clen
+category: mp
 img: people/martin-suchan.jpg
-description: Softwarový inženýr. Primární oblastí zájmu je efektivní a transparentní fungování nejen místní radnice, ale i státu jako takového.
-ordp6: 12
+description: Místopředseda místního sdružení, softwarový inženýr.
+ordp6: 2
 ordkan: 14
 ---
 Martin Suchan se narodil v Lounech 24. ledna 1985. V Praze žije od roku 2004.

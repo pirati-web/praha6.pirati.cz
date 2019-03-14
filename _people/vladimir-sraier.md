@@ -2,11 +2,12 @@
 uid: vladimir.sraier
 name: Vladimír Šraier
 fullname: Ing. Vladimír Šraier MBA
-category: clen
+mail: vladimir.sraier@pirati.cz
+category: 
+- clen
+- zk
 img: people/vladimir-sraier.jpg
-description: >-
-  Zastupitel Prahy 6, finanční expert, podnikatel. Myšlenkový otec a zakladatel
-  veletrhu Holiday World.
+description: Zastupitel Prahy 6, finanční expert, podnikatel. Myšlenkový otec a zakladatel veletrhu Holiday World.
 ordp6: 9
 ordkan: 7
 ordzk: 7

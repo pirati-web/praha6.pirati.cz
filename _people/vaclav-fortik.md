@@ -3,9 +3,9 @@ uid: vaclav.fortik
 name: Václav Fořtík
 fullname: Václav Fořtík
 mail: vaclav.fortik@pirati.cz
-category: mp
+category: clen
 img: people/vaclav-fortik.jpg
-description: 3. místopředseda místního sdružení, tvůrce hádanek, předseda správní rady Centrum nadání, o.p.s
+description: tvůrce hádanek, předseda správní rady Centrum nadání, o.p.s
 ordp6: 4
 ordkan: 12
 ---

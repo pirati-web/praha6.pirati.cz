@@ -7,7 +7,7 @@ category:
 - mp
 - zk
 img: people/milos-vlach.jpg
-description: 1. místopředseda místního sdružení, podnikatel a vývojář uživatelské přívětivosti.
+description: Předseda místního sdružení, podnikatel a vývojář uživatelské přívětivosti.
 ordp6: 2
 ordkan: 4
 ordzk: 4
