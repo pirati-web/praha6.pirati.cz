@@ -5,7 +5,7 @@ fullname: Václav Fořtík
 mail: vaclav.fortik@pirati.cz
 category: clen
 img: people/vaclav-fortik.jpg
-description: tvůrce hádanek, předseda správní rady Centrum nadání, o.p.s
+description: Tvůrce hádanek, předseda správní rady Centrum nadání, o.p.s
 ordp6: 3
 ordkan: 12
 ---

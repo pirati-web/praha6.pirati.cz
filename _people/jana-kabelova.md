@@ -7,7 +7,7 @@ category:
 - clen
 - zk
 img: people/jana-kabelova.jpg
-description: Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6.
+description: Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6
 ordp6: 9
 ordkan: 3
 ordzk: 3

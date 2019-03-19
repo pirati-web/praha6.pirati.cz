@@ -5,7 +5,7 @@ fullname: 'Ing. Gabriela Lněničková, MBA'
 mail: gabriela.lnenickova@pirati.cz
 category: clen
 img: people/gabriela-lnenickova.jpg
-description: Členka Pirátské strany.
+description: Členka Pirátské strany
 ordp6: 13
 ---
 	

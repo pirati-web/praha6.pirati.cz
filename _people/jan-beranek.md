@@ -5,7 +5,7 @@ fullname: Jan Beránek
 mail: 
 category: podporovatel
 img: people/jan-beranek.jpg
-description: 'Příznivec Pirátské strany, žadatel o členství a kandidát do zastupitelstva MČ Praha 6.'
+description: Příznivec Pirátské strany, žadatel o členství a kandidát do zastupitelstva MČ Praha 6
 ordp6: 1
 ordkan: 18
 ---

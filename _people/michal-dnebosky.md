@@ -5,7 +5,7 @@ fullname: Bc. Michal Dneboský
 mail: 
 category: podporovatel
 img: people/michal-dnebosky.jpg
-description: Vedoucí pracovník a příznivec Pirátské strany.
+description: Vedoucí pracovník a příznivec Pirátské strany
 ordp6: 2
 ordkan: 17
 ---

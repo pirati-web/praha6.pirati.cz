@@ -4,7 +4,7 @@ name: Martin Boháč
 fullname: Bc. Martin Boháč
 category: clen
 img: people/martin-bohac.jpg
-description: Programátor, podnikatel.
+description: Programátor, podnikatel
 ordp6: 1
 ordkan: 22
 ---

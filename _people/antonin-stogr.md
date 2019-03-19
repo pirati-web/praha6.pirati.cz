@@ -5,7 +5,7 @@ fullname: Antonín Štogr
 mail: antonin.stogr@pirati.cz
 category: mp
 img: people/antonin-stogr.jpg
-description: 2. místopředseda místního sdružení, IT specialista, organizátor kulturních akcí.
+description: 2. místopředseda místního sdružení, IT specialista, organizátor kulturních akcí
 ordp6: 3
 ordkan: 15
 ---

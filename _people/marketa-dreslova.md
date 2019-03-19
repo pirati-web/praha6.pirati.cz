@@ -5,7 +5,7 @@ fullname: Markéta Drešlová
 mail: marketa.dreslova@pirati.cz
 category: clen
 img: people/marketa-dreslova.jpg
-description: Doktorand, akademický technik.
+description: Doktorand, akademický technik
 ordp6: 2
 ordkan: 
 ---

@@ -5,7 +5,7 @@ fullname: Mgr. Martin Suchan
 mail: martin.suchan@pirati.cz
 category: mp
 img: people/martin-suchan.jpg
-description: 1. místopředseda místního sdružení, softwarový inženýr.
+description: 1. místopředseda místního sdružení, softwarový inženýr
 ordp6: 2
 ordkan: 14
 ---

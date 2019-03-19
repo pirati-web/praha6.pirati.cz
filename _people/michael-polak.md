@@ -5,7 +5,7 @@ fullname: Michael Polák
 mail: michael.polak@pirati.cz
 category: clen
 img: people/michael-polak.jpg
-description: Vývojář svobodného software, poskytovatel internetu.
+description: Vývojář svobodného software, poskytovatel internetu
 ordp6: 16
 ordkan: 
 ---

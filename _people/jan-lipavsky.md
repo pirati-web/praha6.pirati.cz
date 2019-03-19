@@ -5,7 +5,7 @@ fullname: Bc. Jan Lipavský
 mail: jan.lipavsky@pirati.cz
 category: clen
 img: people/jan-lipavsky.jpg
-description: 'Poslanec PSP ČR, člen Republikového výboru Pirátů.'
+description: Poslanec PSP ČR, člen Republikového výboru Pirátů
 ordp6: 12
 ordkan: 11
 ---

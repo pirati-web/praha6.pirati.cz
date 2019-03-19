@@ -7,7 +7,7 @@ category:
 - clen
 - zk
 img: people/ondrej-chrast.jpg
-description: Předseda zastupitelského klubu Piráti Praha 6. Projektový manažer v oblasti kultury a vzdělávání.
+description: Předseda zastupitelského klubu Piráti Praha 6, projektový manažer v oblasti kultury a vzdělávání
   
 ordp6: 8
 ordkan: 1
