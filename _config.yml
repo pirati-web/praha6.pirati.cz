@@ -50,7 +50,7 @@ calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
+  title: Kalendář MS Praha 6
   id: 0f9cta2g20qvtrqnfmo2ntq3o8@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?src=0f9cta2g20qvtrqnfmo2ntq3o8%40group.calendar.google.com&ctz=Europe%2FPrague
 
