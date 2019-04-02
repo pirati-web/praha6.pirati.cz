@@ -21,7 +21,7 @@ jsou obyvatelé přilehlých bytů, kterým hudební produkce - původně každo
 dávno po hodině nočního klidu. Určitou naději přineslo společné setkání sousedů, radnice i potenciálních budoucích provozovatelů. 
 Jestli se však splní sliby tam dané, tedy konzultování programu a provozu s místními, bohužel už vůbec není jisté. 
 Výběrové řízení na provozovatele bylo opět vypsáno za zavřenými dveřmi a slib konzultovat budoucí program s obyvateli radnice nesplnila. 
-Jestli dojde ke slibovanému omezení či ztišení hudební produkce, uvidíme po rozhodnutí o provozovateli (termín je až po uzávěrce). 
+Jestli dojde ke slibovanému omezení či ztišení hudební produkce, uvidíme po rozhodnutí o provozovateli. 
 Prostor Šesťáku se stal za několik let vyhledávaným místem setkávání zdejších obyvatel, je žádoucí ho zachovat. 
 Zároveň je třeba se zamyslet, jestli jeho program musí obsahovat i koncerty, nebo si vystačíme s povídáním u kávy,
 s deskovými hrami a prostě… s klidem.
