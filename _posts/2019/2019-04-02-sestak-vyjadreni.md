@@ -13,7 +13,7 @@ tags: |-
   Participace
   Sousedství
 ---
-**Článek je vyjádřením pro dubnové číslo časopisu "Šestka"**
+**Článek je vyjádřením pro dubnové číslo časopisu Šestka**
 
 Svoboda jednoho začíná tam, kde končí svoboda druhého, praví slavný citát. Šesťák si za dobu své existence získal mnoho přátel i odpůrců.
 Jedni ho považují za výrazný komunitní “stmelovač” naší čtvrti, druzí za zdroj hluku, nepořádku a osobní nepohody. Nejsilnějšími odpůrci 
