@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Jak hodnotíme schválený rozpočet Prahy 6 na rok 2019?
-date: '2019-01-03 12:00am'
+date: '2019-01-03 1:00am'
 author: Mgr. Ondřej Chrást
 image: rozpocet-kalkulacka.jpg
 tags: |-
@@ -10,6 +10,7 @@ tags: |-
   Piráti Praha 6
   Rozpočtová odpovědnost
   ---
+  
 **Článek je naším vyjádřením pro listopadové číslo časopisu Šestka**
 
 Jestli je schválený rozpočet Prahy 6 správný a jak je alokace zdrojů v rozpočtu optimální by se dalo posoudit pouze podle toho, 
