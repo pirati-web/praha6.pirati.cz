@@ -1,14 +1,14 @@
 ---
 layout: post
 category: blog
-title: Jak hodnotíme schválený rozpočet Prahy 6 na rok 2019?
-date: '2019-01-03 1:00am'
+title: Jak hodnotíme rozpočet Prahy 6 pro rok 2019?
+date: '2019-01-03 06:31am'
 author: Mgr. Ondřej Chrást
-image: rozpocet-kalkulacka.jpg
+image: pirati-zastupitele.jpg
 tags: |-
-  Rozpočet
-  Piráti Praha 6
-  Rozpočtová odpovědnost
+  Praha 6
+  Piráti
+  Rozpočet Praha 6
   ---
   
 **Článek je naším vyjádřením pro listopadové číslo časopisu Šestka**
