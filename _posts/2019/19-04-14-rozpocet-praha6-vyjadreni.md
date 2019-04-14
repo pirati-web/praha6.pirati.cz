@@ -1,8 +1,7 @@
 ---
 layout: post
 category: blog
-title: >-
-  Jak hodnotíme schválený rozpočet Prahy 6 na rok 2019?
+title: Jak hodnotíme schválený rozpočet Prahy 6 na rok 2019?
 date: '2019-01-03 12:00am'
 author: Mgr. Ondřej Chrást
 image: rozpocet-kalkulacka.jpg
