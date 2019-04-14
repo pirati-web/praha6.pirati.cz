@@ -10,7 +10,6 @@ tags: |-
   Piráti
   Rozpočet Praha 6
   ---
-  
 **Článek je naším vyjádřením pro listopadové číslo časopisu Šestka**
 
 Jestli je schválený rozpočet Prahy 6 správný a jak je alokace zdrojů v rozpočtu optimální by se dalo posoudit pouze podle toho, 
