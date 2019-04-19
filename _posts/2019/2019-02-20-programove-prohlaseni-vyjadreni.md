@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Jak hodnotíme Programové prohlášení Rady MČ Prahy 6 pro roky 2018-2022?
-date: '2019-02-020 09:32am'
+date: '2019-02-20 09:32am'
 author: Mgr. Ondřej Chrást
 image: programove-prohlaseni.jpg
 tags: |-
