@@ -4,6 +4,7 @@ category: blog
 title: Příprava Pirátů na zastupitelstvo Prahy 6 dne 26.4. 2019 v plném proudu
 author: Mgr. Ondřej Chrást
 image: radnice-praha6.jpg
+date: '2019-04-25 9:21am'
 tags: |-
   Praha 6	
   Zastupitelstvo Praha 6	
