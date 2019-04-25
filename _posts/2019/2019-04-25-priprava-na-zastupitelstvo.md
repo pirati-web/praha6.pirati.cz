@@ -4,6 +4,14 @@ category: blog
 title: Příprava Pirátů na zastupitelstvo Prahy 6 dne 26.4. 2019 v plném proudu
 author: Mgr. Ondřej Chrást
 image: radnice-praha6.jpg
+tags: |-
+  Praha 6	
+  Zastupitelstvo Praha 6	
+  Poliklinika pod Marjánkou	
+  SNEO	
+  Dejvická 4	
+  Otevíráme radnici	
+  Kontrolní výbor
 ---
 Devět pirátských zastupitelů Prahy 6 se chystá na zasedání zastupitelstva, které proběhne v pátek 26. dubna 2019. Jak bývá dobrým 
 zvykem, připravovali se na něj společně na veřejné schůzi Zastupitelského klubu v Pražském pirátském centru na Palackého náměstí. 
