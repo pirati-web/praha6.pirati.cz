@@ -6,13 +6,7 @@ date: '2019-04-25 9:21am'
 author: Mgr. Ondřej Chrást
 image: radnice-praha6.jpg
 tags: |-
-  Praha 6
-  Zastupitelstvo Praha 6
-  Poliklinika pod Marjánkou
-  SNEO
-  Dejvická 4
-  Otevíráme radnici
-  Kontrolní výbor
+
 ---
 
 Devět pirátských zastupitelů Prahy 6 se chystá na zasedání zastupitelstva, které proběhne v pátek 26. dubna 2019. Jak bývá dobrým 
