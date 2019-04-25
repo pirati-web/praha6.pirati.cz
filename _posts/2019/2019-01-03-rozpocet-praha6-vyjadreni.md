@@ -9,7 +9,7 @@ tags: |-
   Praha 6
   Piráti
   Rozpočet Praha 6
-  ---
+---
 
 **Článek je naším vyjádřením pro listopadové číslo časopisu Šestka**
 
