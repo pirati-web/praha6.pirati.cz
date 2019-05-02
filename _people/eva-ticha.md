@@ -12,12 +12,16 @@ ordp6: 21
 ordkan: 6
 ordzk: 6
 ---
-Vystudovala Vysokou školu ekonomickou v Praze. Během studií získávala praxi v obchodní farmaceutické firmě a hrála nejvyšší soutěž v basketbalu, s nímž procestovala celou Evropu. Od roku 1995 se zabývala převážně obchodem, marketingem, komunikací a PR. Své zkušenosti nabývala v médiích (zpravodajství ČT, ČRo), ve státní správě (Úřad vlády ČR, Ministerstvo kultury), ale i v soukromém sektoru (Delvita, a.s., Carrefour ČR, a.s., Safina, a.s.).
+Kandidátka č. 8 do Evropského parlamentu, ekonomka a zastupitelka MČ Praha 6, místopředsedkyně kontrolního výboru, členka komisí (životního prostředí, dislokační), ekologická aktivistka a zakladatelka iniciativy Praha 6 neplastuje.
 
-V současné době pracuje jako obchodní manažerka ve firmě Safex, spol. s r. o., kde se věnuje marketingu, nákupu, prodeji stavebních i automobilových fólií a vedení montážních projektů v ČR i v zahraničí.
+Profesí je ekonomická poradkyně a vedle práce v zastupitelstvu na Šestce spolupracuje s pirátským týmem na magistrátu Prahy a také dobrovolničí v Domově seniorů Elišky Purkyňové; každou druhou neděli ji můžete potkat, když rozdává Pirátský guláš pro potřebné.
 
-Je „týmovou hráčkou“, komunikativní, energická, s orientací v obchodě a ekonomice. Myslí pozitivně, pracuje cílevědomě a proaktivně. Umí využívat své organizační schopnosti a zkušenosti. Rychle se učí a přizpůsobuje novým podmínkám. Ráda soutěží, a i prohru považuje za zkušenost.
+Vystudovala Vysokou školu ekonomickou v Praze, obor ekonomika zemědělství. Během studií získávala praxi v obchodních firmách a hrála nejvyšší soutěž v basketbalu, s nímž procestovala celou Evropu. Od roku 1995 se zabývala převážně obchodem, marketingem, komunikací a PR. Své zkušenosti nabývala v médiích (zpravodajství ČT, ČRo, oblast zemědělství, dTest - potraviny), ve státní správě (Úřad vlády ČR, Ministerstvo kultury), ale i v soukromém sektoru (Delvita, a.s., Carrefour ČR, a.s. distribuce potravin).
 
-Zajímá se o cestování, přírodu, angličtinu a francouzštinu. Baví ji divadlo, literatura, vážná hudba a jazz. Celý život sportuje - běhá, plave a cvičí jógu. Jako příznivkyně Pirátské strany se aktivně zapojuje do práce Pirátů na Praze 6. Zajímá se o hospodaření s majetkem, životní prostředí a odpadové hospodářství. Ráda by přispěla ke koordinaci činností týmu, k jeho rozšíření a utužení. Chce se podílet na získávání hlasů potencionálních voličů Pirátů pro otevřenou radnici, transparentní a participativní rozpočet, dobré hospodaření s majetkem...
+V Evropském parlamentu se chce zabývat zemědělstvím, životním prostředím a vzděláváním. Chce, abychom pěstovali plodiny, ne paliva. Chce zastavit změny klimatu - vrátit zpět schopnost samoregulace krajiny, a to zmenšováním polí a vytvářením mezí, remízků, cest, které dají vzniknout nektarovým a krmným plochám a umožní živočichům migrovat a udržovat život na polích i po sklizni. Chce dosáhnout snížení používání pesticidů, jejichž rezidua v půdě a ve vodě mají negativní vliv na lidské zdraví. Chce zastropovat dotace pro zemědělské giganty, podpořit střední a malé zemědělce, kteří hospodaří na 40 % zemědělské půdy a podílejí se na ¼ zemědělské produkce; dotace chce směřovat na rozvoj regionů a venkova, který se vylidňuje.
 
-Usiluje se přispět k vytvoření morálně lepší společnosti lidí, kde si budou před zákonem všichni rovni, kde budou mít lidé stejné příležitosti a záležet bude jen na nich, jak je využijí. Jejím vzorem je Masaryk a jeho „revoluce rozumu a srdcí“. 
+Je „týmová hráčka“, komunikativní, energická, orientuje se v ekonomice a obchodě. Myslí pozitivně, pracuje cílevědomě a proaktivně. Umí využívat své organizační schopnosti a zkušenosti. Rychle se učí a přizpůsobuje novým podmínkám, mluví anglicky a francouzsky. Ráda soutěží, a i prohru považuje za zkušenost.
+
+Zajímá se o cestování a přírodu. Baví ji divadlo, literatura, vážná hudba a jazz. Celý život sportuje - běhá, plave a cvičí jógu. Jako členka Pirátské strany se aktivně zapojuje do práce Pirátů na Praze 6 i ve velké Praze. Zajímá se o hospodaření s majetkem, životní prostředí a odpadové hospodářství.
+
+Chtěla by přispět k vytvoření morálnější společnosti, v níž si budou před zákonem všichni rovni, budou mít stejné příležitosti a bude záležet jen na nich, jak je využijí. Jejím vzorem je Masarykova „revoluce rozumu a srdcí“.
