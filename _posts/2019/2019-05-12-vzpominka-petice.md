@@ -10,7 +10,7 @@ tags: |-
   Historie	
   Ruský exil	
   Ruská emigrace	 
- ---
+---
  
 Praha, 14. května 2019 - V sobotu 11. května 2019 uspořádali Piráti v pražských Dejvicích pietní akci připomínající osudy ruských obyvatel Prahy 6. Zároveň tu zahájili sběr podpisů pod petici za pojmenování blízkého parku po příslušnících ruského exilu. Dosud bezejmenný park v Praze 6 u náměstí Interbrigády má nést název Park ruského exilu a připomínat tak tragickou událost.
 
