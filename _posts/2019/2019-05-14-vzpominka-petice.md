@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Vzpomínková akce na odvlečení československých občanů, příslušníků ruského exilu, a petice za pojmenování parku na památku této události
+date: '2019-05-12 2:31pm'
 author: Ing. Eva Tichá
 image: veseni-venec-rooseveltova.jpg
 tags: |-
