@@ -11,7 +11,6 @@ tags: |-
   Ruský exil	
   Ruská emigrace	 
  ---
-
  
 V sobotu 11.5. 2019 proběhla v pražských Dejvicích pietní akce připomínající osudy našich sousedů z Prahy 6, zároveň byl zahájen sběr podpisů za pojmenování blízkého parku po příslušnících ruského exilu.
 
