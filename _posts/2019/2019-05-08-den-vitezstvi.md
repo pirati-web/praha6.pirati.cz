@@ -11,7 +11,7 @@ tags: |-
   Nezapomeneme	
   Výročí	 
 ---
-8. května 2019 Piráti Prahy 6 s představiteli Senátu, města a dalších organizací položili květiny u Památníku čs. zahraničním vojákům 
+Na státní svátek Den vítězství 8. května, Piráti Prahy 6. spolu s představiteli Senátu, města a dalších organizací položili květiny u Památníku čs. zahraničním vojákům 
 a účastníkům 2. světové války na Vítězném náměstí, u Památníku padlých válečných parašutistů v Technické ulici a
 u Památníku čs. zahraničních letců RAF na náměstí Svobody.
 
