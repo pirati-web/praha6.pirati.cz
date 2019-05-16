@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Piráti oslavili den Vítězství položením květin
+title: Piráti oslavili Den vítězství položením květin
 date: 2019-05-08 9:31pm
 author: Ondřej Chrást
 image: den-vitezstvi-2019.jpg
