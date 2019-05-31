@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Krize ve SNEO, a.s.
+title: Krize ve SNEO
 date: 2019-05-31
 author: Ondřej Chrást
 image: draha.png
