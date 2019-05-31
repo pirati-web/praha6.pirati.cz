@@ -2,11 +2,7 @@
 layout: post
 category: blog
 title: Krize ve SNEO
-date: 2019-05-31
 author: Ondřej Chrást
-image: draha.png
-tags: |-
-  SNEO 
 ---
 Řešíme katastrofální situaci ve společnosti SNEO., a.s., která spravuje velkou část majetku a investic Prahy 6.Ve čtvrtek rezignovala teprve nedávno nominovaná předsedkyně představenstva Dagmar Halenka. Byla nominována, dle koaliční smlouvy, hnutím STAN. Důvodem, dle jejích vlastních slov, je nemožnost protlačit opatření, která by vedla k nápravě pochybení minulého vedení, které naopak z části ve vedení zůstává. Zastupitelský klub Piráti Praha 6 poslal vedení MČ - Radě MČ, které je zároveň Valnou hromadou společnosti SNEO, dopis, kde na tuto skutečnost upozorňuje a vyzývá Radu k neprodlenému vysvětlení situace. Dopis v rámci transparentnosti zveřejňujeme:
 
