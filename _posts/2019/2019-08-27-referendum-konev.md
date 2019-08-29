@@ -6,7 +6,7 @@ date: 2019-08-27
 author: Ondřej Chrást
 image: konev-obrazek.jpg
 tags: |-
-  Praha_6	
+  Praha6	
   Konev
   Referendum	 
 ---
