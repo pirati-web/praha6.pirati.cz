@@ -8,7 +8,8 @@ image: konev-obrazek.jpg
 tags: |-
   Praha6	
   Konev
-  Referendum	 
+  Referendum
+  
 ---
 Socha sovětského generála Koněva v parku na Praze 6 již dekády vzbuzuje mezi obyvateli Prahy silné a protichůdné reakce. Piráti z Prahy 6 chtějí, aby o jejím dalším osudu rozhodlo referendum mezi obyvateli na Praze 6. Pomník je součástí veřejného prostoru, Piráti proto věří, že je fér, aby o jeho setrvání rozhodli sami obyvatelé.
 
