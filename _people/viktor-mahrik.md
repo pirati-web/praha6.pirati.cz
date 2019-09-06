@@ -3,14 +3,11 @@ uid: viktor.mahrik
 name: Viktor Mahrik
 fullname: Viktor Mahrik
 mail: viktor.mahrik@pirati.cz
-category: 
-- clen
-- zk
+category: clen
 img: people/viktor-mahrik.jpg
-description: Zastupitel Pirátů a předseda výboru pro dopravu Hlavního města Prahy
+description: Zastupitel Pirátů a předseda výboru pro dopravu na magistrátu Hlavního města Prahy
 ordp6: 14
 ordkan: 2
-ordzk: 2
 ---
 
 Viktor Mahrik (* 21. dubna 1982) je členem předsednictva krajského sdružení Praha a předseda místního sdružení Praha 6. 

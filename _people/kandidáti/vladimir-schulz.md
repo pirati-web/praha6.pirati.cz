@@ -2,11 +2,10 @@
 uid: vladimir.schulz
 name: Vladimír Schulz
 fullname: Ing. Vladimír Schulz
-mail: vladimir.schulz@pirati.cz
-category: clen
+mail: 
+category: 
 img: people/vladimir-schulz.jpg
 description: Lektor jógy, podnikatel
-ordp6: 17
 ordkan: 16
 ---
 Vladimír Schulz (* 19.2.1953) v Pirátské straně jsem členem. Narodil jsem se v Praze, vystudoval ČVUT Fakulta strojní, obor jaderná energetika. Plynně hovořím španělsky a německy, domluvím se anglicky.
