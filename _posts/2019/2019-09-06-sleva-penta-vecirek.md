@@ -4,7 +4,7 @@ category: blog
 title: Praha 6 vyměnila desetimilionové slevy pro developera za večírek. Už podruhé
 date: 2019-09-06
 author: Piráti Praha 6
-image: kulatak-medved.jpg
+image: penta-vecirek.jpg
 tags: |-
   Praha_6	
   Penta
