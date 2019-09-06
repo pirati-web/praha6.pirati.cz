@@ -6,9 +6,10 @@ mail:
 category: 
 img: people/vladimir-schulz.jpg
 description: Lektor jógy, podnikatel
+ordp6: 4
 ordkan: 16
 ---
-Vladimír Schulz (* 19.2.1953) v Pirátské straně jsem členem. Narodil jsem se v Praze, vystudoval ČVUT Fakulta strojní, obor jaderná energetika. Plynně hovořím španělsky a německy, domluvím se anglicky.
+Vladimír Schulz (* 19.2.1953) - registrovaný příznivec Pirátské strany. Narodil jsem se v Praze, vystudoval ČVUT Fakulta strojní, obor jaderná energetika. Plynně hovořím španělsky a německy, domluvím se anglicky.
 
 V roce 1983 jsem emigroval do Německa, žil a pracoval ve Španělsku a Mexiku, vybudoval vlastní firmu (dodavatel technických řešení karoserií automobilů).
 
