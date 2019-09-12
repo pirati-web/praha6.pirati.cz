@@ -12,7 +12,7 @@ tags: |-
 ---
 Zastupitelstvo městské části Praha 6 dnes schválilo odstranění sochy maršála Koněva. Na jeho místě bude stát památník osvoboditelům Prahy, který vzejde z otevřené výtvarné soutěže. Piráti podporovali referendum, které ale zastupitelstvo neschválilo, stejně jako veřejné hlasování zastupitelů.
 
-Osudy občanů Prahy na konci války Piráti dlouhodobě připomínají. Navrhli přejmenování parku, ve kterém socha stála, na Park ruského exilu, aby připomínal Čechoslováky ruského, běloruského a ukrajinského původu, kteří byli ve dnech po válce bez soudu a proti právu odvlečeni na [sibiř](https://www.piratskelisty.cz/clanek-2382-nezapominejme-na-zlocinne-odvleceni-nasich-obcanu-do-gulagu-pirati-prahy-6-chteji-park-ruskeho-exilu),
+Osudy občanů Prahy na konci války Piráti dlouhodobě připomínají. Navrhli přejmenování parku, ve kterém socha stála, na Park ruského exilu, aby připomínal Čechoslováky ruského, běloruského a ukrajinského původu, kteří byli ve dnech po válce bez soudu a proti právu odvlečeni na [sibiř](https://www.piratskelisty.cz/clanek-2382-nezapominejme-na-zlocinne-odvleceni-nasich-obcanu-do-gulagu-pirati-prahy-6-chteji-park-ruskeho-exilu).
 
 “Na uvolněném místě bychom rádi viděli pomník československého hrdiny, generála a legionáře Sergeje Nikolajeviče Vojcechovského. Symbolicky nedaleko generálního štábu, kde během své služby Československu působil,” navrhuje pirátský zastupitel Prahy 6 Jiří Hoskovec
 
