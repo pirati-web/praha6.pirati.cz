@@ -6,7 +6,7 @@ mail: marketa.dreslova@pirati.cz
 category: clen
 img: people/marketa-dreslova.jpg
 description: Doktorand, akademický technik
-ordp6: 2
+ordp6: 
 ordkan: 
 ---
 Jmenuji se Markéta Drešlová a od dětství mám silný vztah k zemědělství a životnímu prostředí, což vyústilo v to, že jsem tento obor vystudovala. 

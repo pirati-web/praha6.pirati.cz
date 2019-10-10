@@ -11,7 +11,7 @@ ordkan: 29
 ---
 **_„Tough times don't last, tough people do, remember?“_ - Gregory Peck**
 
-Georgia Hejduk (* 13. března 2000) je studentka finančních služeb a členka Pirátské strany a místního sdružení Praha 6. Ve volbách v říjnu roku 2018 kandidovala na 29. místě do obecního zastupitelstva Prahy 6. V Pirátské straně je aktivní především na sociálních sítích a v kontaktní kampaňi.
+Georgia Hejduková (* 13. března 2000) je studentka finančních služeb a členka Pirátské strany a místního sdružení Praha 6. Ve volbách v říjnu roku 2018 kandidovala na 29. místě do obecního zastupitelstva Prahy 6. V Pirátské straně je aktivní především na sociálních sítích a v kontaktní kampaňi.
 
 Studuje finanční služby na Střední odborné škole logistických služeb na Praze 9.
 
