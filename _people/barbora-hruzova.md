@@ -8,7 +8,7 @@ category:
 - zk
 img: people/barbora-hruzova.jpg
 description: Dokumentátorka v Archeologickém ústavu Akademie Věd
-ordp6: 6
+ordp6: 7
 ordkan: 5
 ordzk: 4
 ---

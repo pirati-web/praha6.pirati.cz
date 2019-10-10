@@ -3,9 +3,9 @@ uid: michal.dnebosky
 name: Michal Dneboský
 fullname: Bc. Michal Dneboský
 mail: 
-category: podporovatel
+category: clen
 img: people/michal-dnebosky.jpg
-description: Vedoucí pracovník a příznivec Pirátské strany
+description: Vedoucí pracovník a člen Pirátské strany
 ordp6: 2
 ordkan: 17
 ---
@@ -24,7 +24,7 @@ sudoku a přečte si dobrou knihu.
 Pirátskou politiku sleduje od roku 2004, kdy zaznamenal jejich úspěch při
 komunálních volbách a protože se mu velmi líbil přístup a práce jejich pěti zastupitelů
 na pražském magistrátu, rozhodl se je aktivně podpořit před parlamentními volbami
-v loňském roce a od té doby je aktivním příznivcem a snaží se pro tuto činnost získat
-i své okolí.
+v roce 2018 a od té doby je aktivním a snaží se pro tuto činnost získat
+i své okolí. Od roku 2019 je i členem místního sdružení.
 
 

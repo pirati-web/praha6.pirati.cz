@@ -9,7 +9,7 @@ description: IT security, všeobecná sestra
 ordp6: 6
 ordkan: 13
 ---
-Ivan Hrůza *1987 v Praze. Členem Pirátů od r. 2014; od r. 2017 místopředseda MS Praha 6. V současnosti působí jako IT security specialista a nezávislý konzultant v oblasti zdravotnictví. 
+Ivan Hrůza narozen 1987 v Praze. Členem Pirátů od r. 2014; od r. 2017 místopředseda MS Praha 6. V současnosti působí jako IT security specialista a nezávislý konzultant v oblasti zdravotnictví. 
 
 Vystudoval Střední zdravotnickou školu v Praze, obor Všeobecná sestra. Během pokračování studia na 3. LF UK a FBMI ČVUT v Praze se zajímal především o oblast veřejného zdravotnictví, zdravotně-sociální služby a biomedicínské technologie. Současně se studiem sbíral praktické zkušenosti na Oddělení akutní kardiologie v pražském Institutu klinické a experimentální medicíny.
 

@@ -8,7 +8,7 @@ category:
 - zk
 img: people/eva-ticha.jpg
 description: Obchodní manažerka, kandidátka do Europarlamentu
-ordp6: 21
+ordp6: 22
 ordkan: 6
 ordzk: 6
 ---
