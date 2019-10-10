@@ -1,15 +1,15 @@
 ---
-uid: georgia.hejduk
-name: Georgia Hejduk
-fullname: Georgia Hejduk
+uid: georgia.hejdukova
+name: Georgia Hejduková
+fullname: Georgia Hejduková
 mail: georgia.hejduk@pirati.cz
 category: clen
-img: people/georgia-hejduk.jpg
+img: people/georgia-hejdukova.jpg
 description: Bloggerka, studentka finančních služeb
 ordp6: 4
 ordkan: 29
 ---
-„Tough times don't last, tough people do, remember?“ - Gregory Peck
+**_„Tough times don't last, tough people do, remember?“_ - Gregory Peck**
 
 Georgia Hejduk (* 13. března 2000) je studentka finančních služeb a členka Pirátské strany a místního sdružení Praha 6. Ve volbách v říjnu roku 2018 kandidovala na 29. místě do obecního zastupitelstva Prahy 6. V Pirátské straně je aktivní především na sociálních sítích a v kontaktní kampaňi.
 
