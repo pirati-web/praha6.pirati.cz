@@ -8,7 +8,7 @@ image: stadion-strahov.jpg
 tags: |-
   Praha_6
   Vase_6
-  stadion-strahov
+  stadion_strahov
 ---
 Článek je naším vyjádřením pro časopis Vaše 6
 
