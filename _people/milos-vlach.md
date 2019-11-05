@@ -6,6 +6,7 @@ mail: milos.vlach@pirati.cz
 category: 
 - mp
 - zk
+- kontaktni_osoba
 img: people/milos-vlach.jpg
 description: Předseda místního sdružení, podnikatel a vývojář uživatelské přívětivosti
 ordp6: 1
