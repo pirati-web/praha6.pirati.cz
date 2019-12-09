@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Causa: Veřejný záchod
+title: Causa Veřejný záchod
 date: 2019-11-01
 author: Eva Tichá
 image: zachodky.png

@@ -8,8 +8,8 @@ image: kolaudace-blanka.jpg
 tags: |-
   Praha_6
   Sestka
-  zastupitelska_demokracie
-  privatizace
+  tunel_blanka
+  kolaudace
 ---
 Článek je vyjádřením pro prosincové číslo časopisu Šestka
 
