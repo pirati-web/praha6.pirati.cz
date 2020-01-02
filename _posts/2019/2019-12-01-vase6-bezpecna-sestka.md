@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Causa Bezpečná šestka
+title: Causa Bezpečná šestka - Na Praze 6 řádí gorila
 date: 2019-12-01
 author: Jiří Hoskovec
 image: bezpecna-gorila.png

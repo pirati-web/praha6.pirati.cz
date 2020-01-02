@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Pirátský rok v Zastupitelstvu na Praze 6 a jak dál v roce 2020?
-date: 2019-12-31
+date: 2020-01-02
 author: Piráti Praha 6
 image: zastupitelsky-klub-2019.jpg
 tags: |-
