@@ -1,7 +1,7 @@
 ---
 uid: tereza.hubackova
 name: Tereza Hubáčková
-fullname: 'Tereza Hubáčková, Dis.'
+fullname: 'Bc. Tereza Hubáčková'
 mail: tereza.hubackova@pirati.cz
 category: mp
 img: people/tereza-hubackova.jpg
@@ -9,7 +9,12 @@ description: 3. místopředsedkyně místního sdružení, členka pražského s
 ordp6: 4
 ordkan: 19
 ---
-Tereza Hubáčková, DiS. (* 11. 1. 1973) je pěstounka na přechodnou dobu (pečuje o miminka, o která se nemohou nebo nechtějí postarat jejich rodiče, aby nemusela pobývat v kojeneckém ústavu; od r. 2014 se spolu s manželem postarala o osm miminek). Dříve pracovala jako jazyková redaktorka a korektorka.
-V současnosti studuje sociální práci na UK v Praze, žije v Praze 6 poblíž Bílé Hory, z prvního manželství má tři děti, dvě už dospělé. Ve volném čase (pokud kromě miminek a studia nějaký zbude) se věnuje hudbě a sportu, obojímu čistě rekreačně, a taky biologickému zemědělství v podhůří Brd.
-Kromě roku 1989 se nikdy aktivně do politiky nezapojila, protože se domnívala, že to by měli dělat lidé, kteří tomu lépe rozumějí. Když se pak v rámci osvěty v otázkách náhradní rodinné péče zúčastňovala schůzí sociálního výboru PSP a hovořila s jednotlivými poslanci, viděla, že namnoze tomu tak není. Piráti ji nadchli už svým působením na magistrátu a po volbách r. 2017 se přesvědčila, že je možné dělat politiku poctivě. Proto se rozhodla aktivně se zapojit.
+Bc. Tereza Hubáčková (* 11. 1. 1973) příznivkyní Pirátů je od jara 2016, od léta 2019 je místopředsedkyní MS v Praze 6, má na starost členskou základnu. Je členkou pražského i republikové rezortního týmu pro sociální věci a bydlení, za Piráty Praha 6 pracuje v komisi pro sociálně bytové otázky.
 
+Narozená v pražských Holešovicích, studovala zdravotní školu, bohemistiku, později VOŠ Jabok a nedávno (prozatím) Bc. stupeň VŠ na katedře Sociální práce FF UK.
+
+Léta se živila jako jazyková redaktorka a korektorka, od r. 2014 byla pěstounkou na přechodnou dobu (postupně se s manželem postarali o osm miminek). 
+Chvíli pracovala jako asistentka pirátské předsedkyně Výboru pro sociální politiku MHMP Mgr. Evy Horákové, v její kompetenci byla především problematika ohrožených dětí a náhradní rodinné péče.
+Nyní pracuje v nadaci podporující ohrožené děti a rodiny.
+
+Ve volném čase se věnuje hudbě a sportu, obojímu čistě rekreačně, a taky biologickému zemědělství v podhůří Brd. Má tři dcery, dvě už dospělé.

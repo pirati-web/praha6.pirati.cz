@@ -6,7 +6,7 @@ mail:
 category: clen
 img: people/bara-soukupova.jpg
 description: Geoinformatička, e-government specialistka
-ordp6: 18
+ordp6: 17
 ordkan: 
 ---
 Bára Soukupová (*1988) je geoinformatička. Dětství prožila v České Třebové v Pardubickém kraji. Studovala na Přírodovědecké fakultě UK geografii a kartografii, aplikovanou geoinformatiku a učitelství geografie.

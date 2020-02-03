@@ -8,7 +8,7 @@ category:
 - zk
 img: people/vladimir-sraier.jpg
 description: Zastupitel Prahy 6, finanční expert, podnikatel, myšlenkový otec a zakladatel veletrhu Holiday World
-ordp6: 20
+ordp6: 19
 ordkan: 7
 ordzk: 7
 ---

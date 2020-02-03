@@ -6,7 +6,7 @@ mail: michael.polak@pirati.cz
 category: clen
 img: people/michael-polak.jpg
 description: Vývojář svobodného software, poskytovatel internetu
-ordp6: 17
+ordp6: 16
 ordkan: 
 ---
 Zakládající člen České pirátské strany. Narozen 1973, maturoval v roce 1992 na gymnáziu v Praze 6 Arabská. Poté studoval informatiku postupně na FEL ČVUT, VŠE, MFF UK a dálkově na Slezské Univerzitě v Opavě, ale na žádné z těchto škol studium nezakončil. Ovládá angličtinu a programovací jazyk C.
