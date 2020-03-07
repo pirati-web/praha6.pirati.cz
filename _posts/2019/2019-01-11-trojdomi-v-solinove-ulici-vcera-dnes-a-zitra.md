@@ -6,11 +6,11 @@ date: '2019-01-10 08:11am'
 author: Piráti Praha 6
 image: 2253.jpg
 tags: |-
-  Trojdomí Šolínova
-  Piráti Praha 6
+  Trojdomí_Šolínova
+  Piráti_Praha_6
   Senioři
-  Matky s dětmi
-  Péče o potřebné
+  Matky_s_dětmi
+  Péče_o_potřebné
 ---
 V posledních dnech se trojdomí v Šolínově ulici vrátilo do povědomí, zejména díky článku starosty Koláře uveřejněného v pražském Deníku ([https://goo.gl/Ti1YGW](https://prazsky.denik.cz/zpravy_region/starosta-prahy-6-komunalni-politika-je-pavlac-kde-na-vas-porad-nekdo-rve-20190107.html?fbclid=IwAR23QG1jx3UkBAcX9bYGEqDP41hRzk5I_B11YqkVLfpbPkc8-CflP1wHRIM)). Bohužel jej nelze hodnotit jako objektivní a Pirátům Prahy 6 jsou v něm vkládána slova do úst, které nikdy neřekli.  Výrok "_obvinili nás bez jediného důkazu z toho, že chystáme tunel a chceme ten objekt prodat developerům, kteří tam udělají byty_", není nic než románová fikce. 
 

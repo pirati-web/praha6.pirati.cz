@@ -8,12 +8,12 @@ date: '2018-09-08 08:45pm'
 author: Jakub Kučera (Čti doma)
 image: starosta-ondrej-chrast-pirat-praha6.jpg
 tags: |-
-  Ondřej Chrást
+  Ondřej_Chrást
   Kandidát 
-  Pirátská strana
-  Praha 6
+  Pirátská_strana
+  Praha_6
   Vize
-  Praha 6 je náš poklad
+  Praha_6_je_náš_poklad
 ---
 Vítězné náměstí začíná připomínat veřejnou výstavu úsměvů z politických plakátů. Boj o Prahu 6 je pro všechny politické strany zásadní, protože se jedná o jednu z nejbohatších adres v hlavním městě. Jedním z kandidátů na starostu je i pirát Ondřej Chrást, kterému se zatím jeho plakát na rušném náměstí staví. Proč vstupuje do politiky a jaké jsou nejpalčivější problémy Prahy 6?
 

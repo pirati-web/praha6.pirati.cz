@@ -5,3 +5,9 @@ _site
 .bundle
 Gemfile.lock
 vendor
+assets/img/posts/.DS_Store
+assets/img/.DS_Store
+assets/.DS_Store
+_sass/.DS_Store
+_includes/.DS_Store
+.DS_Store

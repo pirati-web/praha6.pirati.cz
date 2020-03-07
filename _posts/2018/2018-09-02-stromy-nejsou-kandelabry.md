@@ -7,11 +7,11 @@ author: Tomáš Šídlo
 image: environmental-protection-683437_1280.jpg
 tags: |-
   Stromy
-  Zeleň ve městě
-  Péče o životní prostředí
-  Veřejný prostor
+  Zeleň_ve_městě
+  Péče_o_životní_prostředí
+  Veřejný_prostor
   Piráti
-  Praha 6
+  Praha_6
 ---
 Když někdo zabije bez důvodu 20 chovných zvířat, spáchá tím trestný čin s trestní sazbou do pěti let vězení. Když někdo pokácí bez povolení dvacet staletých lip, je vlastně všechno v pořádku a spraví to nějaký dopředu plánovaný peníz státu. Viz. stavba budovy Telehouse, kde nádherné vzrostlé lípy bez povolení vykáceli, aby mohli začít stavět.
 
