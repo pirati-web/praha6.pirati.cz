@@ -6,11 +6,9 @@ date: '2018-08-29 08:08am'
 author: Antonín “Mapiš” Štogr
 image: antonin-mapis-stogr-pirati-od-bobri-reky.jpg
 tags: |-
-  Antonín Štogr
-  Piráti
-  Bobří řeka
+  Antonín_Štogr
+  Bobří_řeka
   Skauting
-  Praha 6
   Slib
 ---
 Říká se, že Piráti jsou ajťáci, co pořád jen sedí u počítače. Je pravda, že Pirátské strany z celého světa spojuje kromě touhy po transparentnosti úřadů a politiků i boj za svobodný internet a další témata vyplývající z rozšíření počítačů skoro do každé domácnosti a kapsy. Nicméně vedle internetových a technických věcí u Pirátů sdílíme i společnou touhu dýchat svěží vzduch, žít v zeleném a čistém městě, a také vědomí, že je dobré pomáhat potřebným a starat se o své bližní. 
