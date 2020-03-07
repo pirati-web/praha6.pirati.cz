@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Miloš Vlach: Demokracie nefunguje bez kontroly, kontrola nefunguje bez otevřenosti
+title: Miloš Vlach - Demokracie nefunguje bez kontroly, kontrola nefunguje bez otevřenosti
 date: 2018-08-19
 author: Tomáš Šídlo
 image: pirati-otevrenost-radnice-praha-6.jpg

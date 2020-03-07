@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Zdeněk Lukeš: „Piráti přinášejí svěží pohled na politiku. Nesmí ale být naivní.“
+title: Zdeněk Lukeš - „Piráti přinášejí svěží pohled na politiku. Nesmí ale být naivní.“
 date: 2018-07-30
 author: Tomáš Šídlo
 image: prague-3540876_1920.jpg

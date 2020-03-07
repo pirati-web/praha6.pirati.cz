@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Jak nefunguje radnice Prahy 6: jde jim o cihly, ne o lidi
+title: Jak nefunguje radnice Prahy 6 - jde jim o cihly, ne o lidi
 date: 2018-04-10
 author: Jana Kabelová
 image: solinova.jpg

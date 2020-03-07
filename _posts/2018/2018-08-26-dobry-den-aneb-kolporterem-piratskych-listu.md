@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: "Dobrý den" aneb kolportérem Pirátských listů
+title: Dobrý den aneb kolportérem Pirátských listů
 date: 2018-08-25
 author: Michal Zachar
 image: pirati-praha-6-kolporteri.jpg
