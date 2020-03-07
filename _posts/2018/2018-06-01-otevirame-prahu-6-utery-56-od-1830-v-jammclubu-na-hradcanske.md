@@ -5,7 +5,11 @@ title: 'Otevíráme Prahu 6 - úterý 5. 6. 2018 od 18:30 v Jammclubu na Hradča
 date: '2018-06-01 11:08am'
 author: Ondřej Chrást
 image: header-debata.jpg
-tags: 'Piráti Praha 6, Otevíráme Prahu 6, Otevíráme radnici, naprahuzmeny'
+tags: |-
+Piráti_Praha_6
+Otevíráme_Prahu_6
+Otevíráme_radnici
+naprahuzmeny
 ---
 Místní sdružení České Pirátské strany Praha 6 srdečně zve občany na veřejnou debatu: Otvíráme radnici aneb občanská participace...
 

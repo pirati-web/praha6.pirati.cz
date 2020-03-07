@@ -6,9 +6,9 @@ date: '2018-10-08 06:14pm'
 author: Zastupitelský klub Pirátů Praha 6
 image: halloween-1746354_1280.jpg
 tags: |-
-  Piráti Praha 6
+  Piráti_Praha_6
   Volby
-  Povolební vyjednávání
+  Povolební_vyjednávání
 ---
 Po výrazném volebním výsledku na Praze 6 byli Piráti v souladu s povolební situací připraveni účastnit se vyjednávání napříč stranami, které se dostaly do Zastupitelstva MČ Prahy 6. Dnes přišla zpráva o podepsání dohody o budoucí koalici mezi TOP09, KDU-ČSL, STAN a ODS. Nerozumíme, proč se TOP09 nechala takovým tempem vtáhnout do koalice s ODS, aniž by se byť jen pokusila s Piráty jednat. Je možné, že s Piráty nikdo nejednal, protože náš program a ochota otevřít radnici lidem vzbuzuje u oligarchů obavy ze ztráty kontroly. 
 
