@@ -1,0 +1,27 @@
+.c-hero{
+  height: 50vh;
+  padding: 4rem;
+  overflow: hidden;
+  background-image: url("/assets/img/header/sestka.svg");
+  background-position:center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+  h1{
+    font-family: 'Bebas Neue', Helvetica, Arial, sans-serif;
+    color: #0a0a0a;
+    float: left;
+    font-size: 9rem;
+    line-height: .8;
+    text-align: center;
+    span{
+      padding: 1rem;
+      background-color: #0a0a0a;
+      font-size: 3rem;
+      font-family:  'Fira Sans', "Roboto Condensed", Helvetica, Arial;
+      color: white;
+      display: block;
+    }
+  }
+}
