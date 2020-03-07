@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Kurt Gebauer: Je na čase ty věci začít řešit
+title: Kurt Gebauer - Je na čase ty věci začít řešit
 date: 2018-09-30
 author: Tomáš Šídlo
 image: kurt-gebauer-hlavicky-namesti-jana-palacha-praha2011.jpg
