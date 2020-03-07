@@ -1,15 +1,14 @@
 ---
 layout: post
 category: blog
-title: 'PIRÁTI, TA ZAJÍMAVĚJŠÍ ČÁST SPOLEČNOSTI'
-date: '2018-10-01 12:00am'
+title: Piráti, ta zajímavější část společnosti
+date: 2018-10-01
 author: Ivan Derer
 image: cover_pha_69.jpg
-tags: |
-  Piráti Praha 6
-  Volby
-  Politika
-  Motivace
+tags: |-
+  volby
+  politika
+  motivace
 ---
 Marek Švehla píše ve svém článku v Respektu 37/2018 o poklidné vyjížďce s Piráty, o kterých v podtitulku říká, že si jako politická strana vystačí s tím, že jsou.
 

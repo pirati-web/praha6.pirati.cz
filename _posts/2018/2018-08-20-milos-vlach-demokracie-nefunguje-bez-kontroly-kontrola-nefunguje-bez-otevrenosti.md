@@ -1,16 +1,14 @@
 ---
 layout: post
 category: blog
-title: >-
-  Miloš Vlach: Demokracie nefunguje bez kontroly, kontrola nefunguje bez
-  otevřenosti
-date: '2018-08-19 01:44pm'
+title: Miloš Vlach: Demokracie nefunguje bez kontroly, kontrola nefunguje bez otevřenosti
+date: 2018-08-19
 author: Tomáš Šídlo
 image: pirati-otevrenost-radnice-praha-6.jpg
 tags: |-
-  Miloš Vlach
-  Otevřená radnice
-  Demokracie
+  Miloš_Vlach
+  otevřená_radnice
+  demokracie
 ---
 „_Upřímně si myslím, že demokracie je nejlepší forma zřízení. Jediné, co jí tady chybí, je zpětná kontrola občanů. Ti ke kontrole potřebují data, čili otevřenost radnice_.“ Těmito slovy uvedl pirátský kandidát do zastupitelstva Prahy 6 Miloš Vlach svůj příspěvek na oficiálním startu kampaně strany. Zaměřil se v něm na své plány v tématu Otevřené radnice.  
 

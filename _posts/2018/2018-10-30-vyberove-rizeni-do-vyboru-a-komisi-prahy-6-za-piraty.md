@@ -2,13 +2,13 @@
 layout: post
 category: blog
 title: Výběrové řízení do výborů a komisí Prahy 6 za Piráty
-date: '2018-10-29 10:33am'
+date: 2018-10-29
 author: Ondřej Chrást
 image: commission-2564734_1280.jpg
-tags: |
-  Piráti Praha 6
-  Komise a výbory
-  Zastupitelstvo
+tags: |-
+  komise
+  výbory
+  zastupitelstvo
 ---
 Na základě volebního výsledku Praha 6 (17,3% a 9 zastupitelů) a povolebního vyjednávání budou Piráti obsazovat ve výborech, komisích a pracovních skupinách Prahy 6 celkem 46 míst (číslo se může ještě měnit).
 

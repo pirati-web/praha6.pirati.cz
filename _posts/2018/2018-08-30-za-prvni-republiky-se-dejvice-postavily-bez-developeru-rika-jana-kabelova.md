@@ -1,20 +1,19 @@
 ---
 layout: post
 category: blog
-title: 'Za první republiky se Dejvice postavily bez developerů, říká Jana Kabelová'
-date: '2018-09-03 07:08am'
+title: Za první republiky se Dejvice postavily bez developerů, říká Jana Kabelová
+date: 2018-09-03
 author: Tomáš Šídlo
 image: praha_dejvice_-_ulice_zikova_nataceni_filmu_g.i.joe.jpg
 tags: |-
-  Piráti Praha 6
-  Bydlení
-  Developer
-  Sociální byty
-  Bytová výstavba
+  bydlení
+  developer
+  sociální_byty
+  bytová_výstavba
 ---
 V málokterém z novinových článků na téma současné realitní bubliny byste nenašli zoufalé výzvy podnikatelů v bytové výstavbě – obvykle volají po tom, aby se okamžitě uvolnila pravidla a developeři mohli začít masivně stavět. Na mimořádně rychle rostoucí ceny bytů však skutečně a doslova doplácejí nejvíc samozřejmě obyvatelé. Mladé rodiny, které by se rády usadily, ale také senioři, jimž už jejich důchod často nepokryje ani nájemné. Řešením ale nemusí být nutně pouhé zlepšení podmínek pro developerskou výstavbu. Piráti by rádi nemovitostní trh udělali pestřejší, než je dnes.
 
- „_Když se podíváte do historie, třeba velká část území dnešních Dejvic nebo Bubenče se nestavěla stylem, jaký je dnes běžný_,“ upozorňuje Jana Kabelová, stavařka a kandidátka do zastupitelstva MČ Prahy 6. Kritizuje situaci, kdy město vezme velké území a jeho zástavbu pak realizuje jeden developer. „_Ve dvacátých letech to fungovalo tak, že město naplánovalo urbanismus území. Určilo, kde mají být ulice, parky, náměstí, školky a samozřejmě bytové domy. Pozemky pro stavbu pak rozdělilo na malé celky a stavitelé budovali třeba jeden bytový dům_.“ Takovy postup podle Kabelové umožňuje, aby bylo více typů investorů. „_Kdybychom nezastavěná území, třeba brownfieldy, rozdělili a některé pozemky určili pro developerskou výstavbu, ale další poskytli třeba pro družstva a část také nechali pro výstavbu městských bytů, vznikla by pestřejší zástavba. Živé město, které bude lépe zvládat výkyvy na realitním trhu_,“ doplňuje svou vizi Jana Kabelová. 
+ _"Když se podíváte do historie, třeba velká část území dnešních Dejvic nebo Bubenče se nestavěla stylem, jaký je dnes běžný,"_ upozorňuje Jana Kabelová, stavařka a kandidátka do zastupitelstva MČ Prahy 6. Kritizuje situaci, kdy město vezme velké území a jeho zástavbu pak realizuje jeden developer. _"Ve dvacátých letech to fungovalo tak, že město naplánovalo urbanismus území. Určilo, kde mají být ulice, parky, náměstí, školky a samozřejmě bytové domy. Pozemky pro stavbu pak rozdělilo na malé celky a stavitelé budovali třeba jeden bytový dům."_ Takovy postup podle Kabelové umožňuje, aby bylo více typů investorů. „_Kdybychom nezastavěná území, třeba brownfieldy, rozdělili a některé pozemky určili pro developerskou výstavbu, ale další poskytli třeba pro družstva a část také nechali pro výstavbu městských bytů, vznikla by pestřejší zástavba. Živé město, které bude lépe zvládat výkyvy na realitním trhu_,“ doplňuje svou vizi Jana Kabelová. 
 
 Piráti také zdůrazňují nutnost, aby se města a městské části nezříkaly vlastní výstavby. Bytových domů s městskými byty byla na území Prahy 6 v minulosti celá řada, většina z nich je však dnes již privatizována. 
 

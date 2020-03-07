@@ -1,18 +1,16 @@
 ---
 layout: post
 category: blog
-title: >-
-  Veleslavínský zámeček - komu bude sloužit?
-date: '2018-12-02 12:00am'
-author: Mgr. Ondřej Chrást
+title: Veleslavínský zámeček - komu bude sloužit?
+date: 2018-12-02
+author: Ondřej Chrást
 image: veleslavin-zamecek.jpg
 tags: |-
-  Veleslavínský zámeček
-  Piráti Praha 6
-  Koalice Praha
-  Architektura
-  Památka
+  Veleslavínský_zámeček
+  koalice_Praha
+  architektura
   Šestka
+  památka
 ---
 **Článek je naším vyjádřením pro listopadové číslo časopisu Šestka**
 

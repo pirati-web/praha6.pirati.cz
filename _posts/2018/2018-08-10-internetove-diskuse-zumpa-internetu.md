@@ -2,10 +2,13 @@
 layout: post
 category: blog
 title: Internetové diskuse – žumpa internetu?
-date: '2018-08-09 06:39am'
+date: 2018-08-09
 author: Martin Boháč
 image: social-media-1989152_1280.jpg
-tags: Internet sociální média fake news Piráti
+tags:
+  internet
+  sociální_média
+  fake_news
 ---
 Možná jste si v posledních letech všimli vyšší míry nepochopení, agresivity, či přímo nenávisti, která provází jakoukoli diskusi na českém internetu. Debaty pod články na všech internetových portálech a denících jsou plné sprostých slov a nadávek psaných gramaticky velmi špatnou češtinou, ale o to většími písmeny (někteří diskutéři asi ten capslock ani neumějí vypnout).
 

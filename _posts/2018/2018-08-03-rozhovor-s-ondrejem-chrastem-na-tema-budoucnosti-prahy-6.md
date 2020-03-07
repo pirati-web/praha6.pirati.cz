@@ -2,10 +2,16 @@
 layout: post
 category: blog
 title: Rozhovor s Ondřejem Chrástem na téma budoucnosti Prahy 6
-date: 2018-08-03 10:51am
+date: 2018-08-03
 author: Ondřej Chrást
 image: pirati-chrast-a-hrib.jpg
-tags: Ondrej Chrást veřejný prostor Praha 6 Dejvická Bělohorská Evropská památky Radnice
+tags:
+  Ondrej_Chrást
+  veřejný_prostor
+  Dejvická
+  Bělohorská
+  Evropská
+  památky
 ---
 
 **Otevíráme pro vás rozhovor s naším lídrem do komunálních voleb 2018 a kandidátem na starostu Prahy 6 Mgr. Ondřejem Chrástem. Rozhovor vznikl na konci května do první Pirátských listů Prahy 6, kterých se rozdalo obyvatelům Prahy 6 již bezmála 30 000. Rozhovor je oproti papírové verzi rozsáhlejší a více detailnější – je o veřejném prostoru, kulturním dědictví nebo nakládání s majetkem na Praze 6.**

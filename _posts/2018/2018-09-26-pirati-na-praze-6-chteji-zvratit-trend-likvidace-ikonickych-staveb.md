@@ -2,15 +2,14 @@
 layout: post
 category: blog
 title: Piráti na Praze 6 chtějí zvrátit trend likvidace ikonických staveb
-date: '2018-09-25 01:17pm'
+date: 2018-09-25
 author: Ondřej Chrást
 image: architektura-praha-6-pirati.jpg
 tags: |-
-  Piráti Praha 6
-  Ikonické stavby
-  Architektura
-  Staré vily
-  Veřejný prostor
+  ikonické_stavby
+  architektura
+  staré_vily
+  veřejný_prostor
 ---
 Startují projekt „Architektura Prahy 6 – současná, ohrožená a zmizelá“. Piráti z Prahy 6 spustili internetový portál [www.architekturaP6.cz](https://www.architekturap6.cz/), který si dává za cíl zmapovat podrobně architekturu v městské části. Na interaktivní mapě ukazují nejen bohaté kulturní dědictví, kterým Praha 6 oplývá, tedy také současnou architekturu, ale i architekturu, která ze Šestky již definitivně zmizela. Portál je otevřený a interaktivní a lidé do něj sami mohou posílat záznamy o architektuře, kterou považují za zajímavou, případně také ohroženou.
 

@@ -1,18 +1,15 @@
 ---
 layout: post
 category: blog
-title: >-
-  V bytové politice čerpáme z Vídně, Kodaně či Mnichova, ale i z meziválečného
-  Břevnova či Dejvic 
-date: '2018-09-10 07:00am'
+title: V bytové politice čerpáme z Vídně, Kodaně či Mnichova, ale i z meziválečného Břevnova či Dejvic 
+date: 2018-09-10
 author: Jana Kabelová
 image: praha_6_hradcany_bilkova_vila_1.jpg
-tags: |
-  Piráti Praha 6
-  Bydlení
-  Výstavba
-  Nájemní byty
-  Družstva
+tags: |-
+  bydlení
+  výstavba
+  nájemní_byty
+  družstva
 ---
 Z knihy **Slavné stavby Prahy 6**, vydané ve spolupráci s Městskou částí Praha 6 v roce 2009, vybíráme bytové domy či komplexy, které oprávněně zaujímají své místo v kvalitní architektuře, a představujeme vám základní kameny rozsáhlé bytové výstavby v naší městské části. Nutno podotknout, že stejným způsobem jako  vybrané objekty vznikla celá meziválečná  zástavba Dejvic. Obytné domy stavělo dílem město, dílem zaměstnanecká družstva, a v neposlední řadě se na výstavbě podíleli drobní podnikatelé – majitelé jednotlivých domů, kteří přitom využívali podpůrné finanční mechanismy poskytované státem či městem.
 

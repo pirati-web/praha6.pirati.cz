@@ -2,16 +2,15 @@
 layout: post
 category: blog
 title: Barbie a Ken
-date: '2018-09-20 12:03am'
+date: 2018-09-20
 author: Michal Zachar
 image: dolls-937519_1280.jpg
 tags: |-
   ANO
   ODS
-  BARBIE
-  KEN
-  PIRÁTI PRAHA 6
-  POLITICKÁ REKLAMA
+  Barbie
+  Ken
+  politická_reklama
 ---
 Hnutí ANO je známé tím, že do předvolebních strategií v loňských podzimních volbách vtáhlo praktiky z reklamního světa. A stejně tak, jako se prodává toaletní papír, zubní pasta nebo nový salám, se na lidi valily upravené fotografie, předpřipravené a nakašírované záběry videí a tuny zpráv. Jejich cíl byl stejný jako v obchodě: Prodat. Prodávaly se sliby, jejichž uskutečnění nás přijde dráže než jejich vytvoření. Za poslední 4 roky nevytvořilo hnutí ANO koncepčně v čele Prahy nic. Snad jen přání všech, aby už bylo co nejdříve pryč. 
 

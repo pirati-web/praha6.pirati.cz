@@ -1,13 +1,15 @@
 ---
 layout: post
 category: blog
-title: >-
-  Zdeněk Lukeš: „Piráti přinášejí svěží pohled na politiku. Nesmí ale být
-  naivní.“
-date: '2018-07-30 11:50pm'
+title: Zdeněk Lukeš: „Piráti přinášejí svěží pohled na politiku. Nesmí ale být naivní.“
+date: 2018-07-30
 author: Tomáš Šídlo
 image: prague-3540876_1920.jpg
-tags: Zdeněk Lukeš architektura památky veřejná prostranství
+tags: |-
+  Zdeněk_Lukeš
+  architektura
+  památky
+  veřejný_prostor
 ---
 Zdeněk Lukeš toho pro popularizaci historické architektury udělal určitě víc, než kdokoli jiný. V novinách a časopisech publikoval stovky článků, jeho knižní edice Praha moderní o zajímavých stavbách 20. století patří mezi bestsellery a velmi oblíbené jsou taky jeho „psí vycházky“ po pražských čtvrtích. Po sametové revoluci se spolupodílel na otevírání a obnově Pražského hradu, v té době byl blízkým spolupracovníkem prezidenta Václava Havla. Zdeněk Lukeš bydlí v Bubenči – přesněji v té její části, která patří pod Prahu 7. K šestce má ale blízký vztah: nejenom, že studoval na zdejší Fakultě architektury a jeho manželka – malířka – má u Vítězného náměstí ateliér; historik architektury Lukeš se také významně zasazoval o zachování funkcionalistické vily na Petřinách, jejíž majitel prosadil zrušení památkové ochrany vily, a její demolici. Nejen o tom byl náš rozhovor…
 
