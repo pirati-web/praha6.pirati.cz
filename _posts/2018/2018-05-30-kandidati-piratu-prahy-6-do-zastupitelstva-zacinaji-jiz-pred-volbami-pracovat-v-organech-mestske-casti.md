@@ -7,13 +7,13 @@ title: >-
 date: '2018-05-29 09:36am'
 author: Viktor Mahrik
 image: pirati.jpg
-tags: |
-  praha 6
-  tisková zpráva
-  Ondřej Chrást
-  Miloš Vlach
-  Tomáš Šídlo
-  Vladimír Šraier
+tags: |-
+  praha_6
+  tisková_zpráva
+  Ondřej_Chrást
+  Miloš_Vlach
+  Tomáš_Šídlo
+  Vladimír_Šraier
 ---
 **Ing. Miloš Vlach, člen Pirátů Prahy 6 a kandidát Pirátů do zastupitelstva této městské části, se včera poprvé zúčastnil schůze Komise pro otevřenou radnici. Komise vymýšlí, jak radnici více otevřít občanům. Také Mgr.Tomáš Šídlo, který ve finančním výboru městské části působí jako odborník za spolky a občanská sdružení, a Ing.Vladimír Šraier, MBA, který ve stejném výboru pracuje jako nominant strany Zelených, na včerejším jednání výboru uvedli, že se chystají v dalších volbách kandidovat za Piráty.**
 
