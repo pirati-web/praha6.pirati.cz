@@ -1,9 +1,7 @@
 ---
 layout: post
 category: blog
-title: >-
-  Kandidáti Pirátů Prahy 6 do zastupitelstva začínají již před volbami pracovat
-  v orgánech městské části
+title: Kandidáti Pirátů Prahy 6 do zastupitelstva začínají již před volbami pracovat v orgánech městské části
 date: '2018-05-29 09:36am'
 author: Viktor Mahrik
 image: pirati.jpg

@@ -1,8 +1,8 @@
 ---
 layout: post
 category: blog
-title: 'Otevíráme Prahu 6 - úterý 5. 6. 2018 od 18:30 v Jammclubu na Hradčanské'
-date: '2018-06-01 11:08am'
+title: Otevíráme Prahu 6 - úterý 5. 6. 2018 od 18:30 v Jammclubu na Hradčanské
+date: 2018-06-01
 author: Ondřej Chrást
 image: header-debata.jpg
 tags: |-
