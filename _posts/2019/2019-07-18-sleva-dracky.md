@@ -6,9 +6,7 @@ date: 2019-07-17
 author: Piráti Praha 6
 image: sleva-dracky.jpg
 tags: |-
-  Praha_6	
-  Na_Drackach
-  Areal_Dracky
+  Dračky
   SNEO
 ---
 Zastupitelé Pirátů MČ Praha 6 Jiří Hoskovec, Jana Kabelová, Ondřej Chrást a poslanec Jan Lipavský podali trestní oznámení kvůli prodeji lukrativních pozemků Prahy 6, tzv. Areálu Dračky, a to do vlastnictví dceřiné společnosti kyperské entity skupiny Penta. Dle pirátské právní analýzy byla městskou společností SNEO, a.s. na tento prodej neoprávněně, v rozporu s rozhodnutím ústavního soudu a uzavřenou smlouvou, poskytnuta sleva 34 milionů korun z peněz, které mělo město utržit za prodej areálu. Ten zahrnuje kromě pozemků i projekt a platné stavební povolení na 152 bytů v předpokládané prodejní hodnotě dvě a čtvrt miliardy korun.  

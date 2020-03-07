@@ -1,18 +1,15 @@
 ---
 layout: post
 category: blog
-title: >-
-  Koalice v Praze vyzývá vládu ke zrušení prodeje Veleslavínského zámečku a
-  dalšímu jednání
-date: '2018-11-02 12:00am'
+title: Koalice v Praze vyzývá vládu ke zrušení prodeje Veleslavínského zámečku a dalšímu jednání
+date: 2018-11-02
 author: Zdeněk Hřib
 image: veleslavin-zamecek.jpg
 tags: |-
-  Veleslavínský zámeček
-  Piráti Praha 6
-  Koalice Praha
-  Architektura
-  Památka
+  Veleslavínský_zámeček
+  koalice_Praha
+  architektura
+  památka
 ---
 Vznikající pražská koalice Pirátů, PRAHY SOBĚ a Spojených sil pro Prahu vyzývá premiéra Andreje Babiše, ministryni financí Alenu Schillerovou a ředitelku Ústavu pro zastupování státu ve věcech majetkových Kateřinu Arajmu, aby **ZRUŠILI **plánovanou dražbu Veleslavínského zámku a jednali s městem Prahou o přímém odkupu této nemovitosti.
 

@@ -1,14 +1,11 @@
 ---
 layout: post
 category: blog
-title: >-
-  Mankurtí otevřenost bez kontroly aneb proč je pirátská předsedkyně KV důležitá
-  pro demokracii!
-date: '2018-11-19 07:24am'
+title: Mankurtí otevřenost bez kontroly aneb proč je pirátská předsedkyně KV důležitá pro demokracii!
+date: 2018-11-19
 author: Michal Zachar
 image: atrurek.jpg
 tags: |-
-  Praha 6
   Zastupitelstvo
 ---
 Význam nepsaných pravidel a první demokratický test nového Zastupitelstva městské části Praha 6 proběhl dne 19.11.2018 na jeho ustavujícím zastupitelstvu. Výsledek testu? Zastupitelé současné koalice zklamali nejen sebe, ale v prvé řadě voliče. Všechny voliče.

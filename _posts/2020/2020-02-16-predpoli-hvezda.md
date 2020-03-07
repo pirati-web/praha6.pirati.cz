@@ -7,10 +7,10 @@ author: Jana Kabelová
 image: predpoli.jpg
 tags: |-
   Praha_6
-  Obora_Hvezda
-  vystavba
-  zmena_uzemniho_planu
-  komise_uzemniho_rozvoje
+  Obora_Hvězda
+  výstavba
+  územní_plán
+  komise_územního_rozvoje
 ---
 Hvězdu a přilehlé pozemky považujeme za celopražsky významnou odpočinkovou, rekreační zónu a jakékoliv změny využití by byly naprosto nežádoucí a v rozporu s veřejným zájmem.
 

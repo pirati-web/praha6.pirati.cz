@@ -2,10 +2,12 @@
 layout: post
 category: blog
 title: Povolební strategie Pirátů Prahy 6
-date: '2018-10-01 05:45pm'
+date: 2018-10-01
 author: Fórum MS Praha 6
 image: chess-2730034_1920.jpg
-tags: strategie vyjednavani
+tags: |-
+  strategie
+  vyjednávání
 ---
 Naším cílem je vyjednávat o koalici z takové pozice, aby nás kmotři ani developeři nemohli obejít. Chceme se podílet na správě města s kompetentními lidmi a se stranami bez škraloupů. Známe řešení problémů Prahy 6, a věříme, že nám na podzim dají voliči důvěru pro jejich realizaci. Odmítáme kumulaci funkcí a trafikanty v městských firmách. Naopak vítáme transparentně vybrané odborníky, kteří pomohou město a jeho firmy profesionálně řídit.
 

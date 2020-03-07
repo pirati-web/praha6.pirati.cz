@@ -7,9 +7,9 @@ author: Piráti Praha 6
 image: zastupitelsky-klub-2019.jpg
 tags: |-
   Praha_6
-  bilancovani_2019
-  plany_2020
-  zastupitelsky_klub
+  bilancování_2019
+  plány_2020
+  zastupitelský_klub
 ---
 **Dopis občanům Prahy 6 o dění v uplynulém roce a o plánech do toho nadcházejícího**
 

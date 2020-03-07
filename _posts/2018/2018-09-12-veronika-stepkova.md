@@ -2,13 +2,12 @@
 layout: post
 category: blog
 title: Proč chceme víc žen v politice
-date: '2018-09-11 04:04am'
+date: 2018-09-11
 author: Veronika Štěpková
 image: bara1.jpg
 tags: |-
-  Komunální politika
-  Ženy
-  Piráti Praha 6
+  komunální_politika
+  ženy_v_politice
 ---
 Brzy budeme slavit výročí – ne úplně tak na naší půdě, ale stejně blízko nás a pro nás zásadní. Sto let volebního práva žen v Německu, Polsku a ve Velké Británii. U nás budeme slavit až příští rok. Už můžeme volit, můžeme být dokonce voleny… jako by nám nic nebránilo. Přesto máme pouze 22 % žen v parlamentu (údaj z roku 2017) a asi 27 % (údaje z 2014) žen v zastupitelstvu měst a obcí. 
 

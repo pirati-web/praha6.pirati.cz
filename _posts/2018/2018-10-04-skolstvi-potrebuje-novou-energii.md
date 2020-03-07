@@ -2,15 +2,14 @@
 layout: post
 category: blog
 title: Školství potřebuje novou energii
-date: '2018-10-03 10:22pm'
+date: 2018-10-03
 author: Tomáš Šídlo
 image: copy-of-3-skolstvi.jpg
 tags: |-
-  Piráti Praha 6
-  Školství
-  Vzdělávání
-  Školy
-  Školky
+  školství
+  vzdělávání
+  školy
+  školky
 ---
 Přinášíme Pirátský pohled na některé výzvy ve školách a školkách, které zřizuje naše městská část.
 

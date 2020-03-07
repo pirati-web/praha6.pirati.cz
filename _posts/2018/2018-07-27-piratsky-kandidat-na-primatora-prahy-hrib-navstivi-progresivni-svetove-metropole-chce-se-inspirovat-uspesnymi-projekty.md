@@ -1,13 +1,16 @@
 ---
 layout: post
 category: blog
-title: >-
-  Pirátský kandidát na primátora Prahy MUDr. Zdeněk Hřib navštíví progresivní
-  světové metropole. Chce se inspirovat úspěšnými projekty
-date: '2018-07-27 07:40pm'
+title: Pirátský kandidát na primátora Prahy MUDr. Zdeněk Hřib navštíví progresivní světové metropole. Chce se inspirovat úspěšnými projekty
+date: 2018-07-27
 author: Štěpán Štrébl
 image: banner_2048.jpg
-tags: NAPRAHUZMENY DRZIMEKURZ HRIBPRAZSKY inspirace volby2018
+tags:
+  NAPRAHUZMENY
+  DRZIMEKURZ
+  HRIBPRAZSKY
+  inspirace
+  volby2018
 ---
 Piráti chtějí být o krok napřed, rozhodli se proto začít sbírat zkušenosti s vedením města a projektů v zahraničí. Svého kandidáta na primátora Prahy tak posílají na cestu po zahraničních metropolích. Inspiraci má lídr Pirátů Zdeněk Hřib hledat v **Kodani**, **Barceloně**, **Reykjavíku **a **Los Angeles**, kde se setká především s lidmi z radnic. Zahraniční zkušenosti mají Pirátům pomoci, pokud letos uspějí a dostanou se do vedení města. Po svém návratu navštíví Hřib také česká města, kde již veřejná správa velmi dobře funguje.
 

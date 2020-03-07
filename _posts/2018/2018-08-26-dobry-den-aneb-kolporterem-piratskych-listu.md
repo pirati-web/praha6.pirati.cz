@@ -1,16 +1,14 @@
 ---
 layout: post
 category: blog
-title: '"Dobrý den" aneb kolportérem Pirátských listů'
-date: '2018-08-25 09:22pm'
+title: "Dobrý den" aneb kolportérem Pirátských listů
+date: 2018-08-25
 author: Michal Zachar
 image: pirati-praha-6-kolporteri.jpg
 tags: |-
-  Piráti
-  Praha 6
-  Dobrý den
-  Komunikace
-  Pirátské listy
+  Dobrý_den
+  komunikace
+  Pirátské_listy
 ---
 “Dobrý den.” V češtině i v mnoha dalších jazycích jeden z nejběžnějších pozdravů. Vyjadřuje přání dobrého dne, které vzniklo zkrácením věty “Dej Pánbůh dobrý den”. V osobním a telefonickém styku má tento pozdrav charakter spíše formální: zdravíme či oslovujeme jím dospělé, které příliš neznáme nebo jsme s nimi ve formálním vztahu. Lze jím pozdravit jak jednotlivce, tak skupinu lidí.
 
