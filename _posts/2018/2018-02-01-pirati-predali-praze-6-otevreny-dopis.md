@@ -1,13 +1,12 @@
 ---
 layout: post
 category: blog
-title: >-
-  Chceme transparentnost na radnici Prahy 6. Piráti předali otevřený dopis
-  starostovi
-date: 2018-02-01T00:00:00.000Z
+title: Chceme transparentnost na radnici Prahy 6. Piráti předali otevřený dopis starostovi
+date: 2018-02-01
 author: Viktor Mahrik
 image: praha-6-dopis.jpg
-tags: praha-6
+tags:
+  transparentnost
 ---
 
 Praha, 1. února 2017 – Jednání komisí a výborů městské části přístupné pro veřejnost, správní řízení na webu Prahy 6 nebo seznamy připravovaných nákupů, prodejů a pronájmů městské části na internetu – to navrhují Piráti městské části Praha 6. Komplexní seznam všech návrhů, jak zlepšit otevřenost radnice dnes předali otevřeným dopisem starostovi městské části Ondřeji Kolářovi. 

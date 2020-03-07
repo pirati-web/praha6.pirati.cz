@@ -1,14 +1,12 @@
 ---
 layout: post
 category: blog
-title: >-
-  Piráti Prahy 6 zastavili nevýhodný 30letý pronájem domova důchodců soukromé
-  firmě
-date: 2018-05-12T00:00:00.000Z
+title: Piráti Prahy 6 zastavili nevýhodný 30letý pronájem domova důchodců soukromé firmě
+date: 2018-05-12
 author: Viktor Mahrik
 image: solinova.jpg
-tags: |
-  praha 6
+tags: |-
+  Šolínova
 ---
 **Piráti již měsíce poukazují na špatně vypsané výběrové řízení k rekonstrukci a provozování komerčního domova pro seniory v Šolínově ulici v Praze 6. To vypsala Městská část Prahy 6 ovládaná koalicí TOP 09, ANO, STAN a KDU-ČSL. Účastníci výběrového řízení zřejmě dali Pirátům za pravdu - do 30.dubna, kdy chtěla radnice výběrové řízení uzavřít, žádný zájemce  závaznou nabídku nepodal. Piráti dlouhodobě prosazují, aby domov pro seniory namísto komerční firmy začala provozovat Městská část jako sociální službu za cenu přijatelnou pro všechny občany Prahy 6.**
 

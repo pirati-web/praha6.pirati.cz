@@ -6,7 +6,6 @@ date: 2018-05-29
 author: Viktor Mahrik
 image: pirati.jpg
 tags: |-
-  praha_6
   tisková_zpráva
   Ondřej_Chrást
   Miloš_Vlach

@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Stromy nejsou kandelábry
-date: '2018-09-04 07:17pm'
+date: 2018-09-04
 author: Tomáš Šídlo
 image: environmental-protection-683437_1280.jpg
 tags: |-
@@ -10,8 +10,6 @@ tags: |-
   Zeleň_ve_městě
   Péče_o_životní_prostředí
   Veřejný_prostor
-  Piráti
-  Praha_6
 ---
 Když někdo zabije bez důvodu 20 chovných zvířat, spáchá tím trestný čin s trestní sazbou do pěti let vězení. Když někdo pokácí bez povolení dvacet staletých lip, je vlastně všechno v pořádku a spraví to nějaký dopředu plánovaný peníz státu. Viz. stavba budovy Telehouse, kde nádherné vzrostlé lípy bez povolení vykáceli, aby mohli začít stavět.
 

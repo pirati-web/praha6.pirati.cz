@@ -1,15 +1,15 @@
 ---
 layout: post
 category: blog
-title: 'Kurt Gebauer: Je na čase ty věci začít řešit'
-date: '2018-09-30 05:25am'
+title: Kurt Gebauer: Je na čase ty věci začít řešit
+date: 2018-09-30
 author: Tomáš Šídlo
 image: kurt-gebauer-hlavicky-namesti-jana-palacha-praha2011.jpg
 tags: |-
   Kurt_Geabuer
-  Umění
-  Veřejný_prostor
-  Architektura
+  umění
+  veřejný_prostor
+  architektura
 ---
 _Kurt Gebauer, jeden z nejoriginálnějších českých sochařů a emeritní profesor UMPRUM, se často vyjadřuje k místní politice. Péče o veřejný prostor je pro něj součástí jeho umělecké práce. Říká, že právě z péče o veřejný prostor vznikla výtvarná kultura, a tak se v jeho pojetí výtvarná kultura nedá oddělit od způsobu, jakým se rozhoduje o podobě ulic a náměstí. S Kurtem Gebauerem si povídáme jednoho horkého letního dne na zahradě plné soch u domu v Dělostřelecké ulici ve Střešovicích, kde Kurt Gebauer bydlí._
 

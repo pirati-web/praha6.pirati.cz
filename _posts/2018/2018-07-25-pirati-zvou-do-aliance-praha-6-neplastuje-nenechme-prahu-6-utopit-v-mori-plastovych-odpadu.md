@@ -2,10 +2,14 @@
 layout: post
 category: blog
 title: Piráti zvou do aliance “PRAHA 6 NEPLASTUJE”. Nenechme Prahu 6 utopit v moři plastových odpadů!
-date: '2018-07-25 07:37am'
+date: 2018-07-25
 author: Eva Tichá & Vladimír Šraier
 image: cover_p6_plasty5.jpg
-tags: zivotniprostredi Praha6neplastuje PiratiPraha6 drzimekurz naprahuzmeny
+tags:
+  životní_prostředí
+  Praha6neplastuje
+  drzimekurz
+  naprahuzmeny
 ---
 Jednorázové plasty mají jepičí užitečný život, potom však mohou zatěžovat životní prostředí po staletí. Třídění odpadu k řešení problému nestačí. Plasty sice do žlutých kontejnerů nosíme poměrně poctivě, poptávka po druhotném zpracování plastů je ale omezená, má technologické limity a ne všechny plasty se k recyklaci hodí. Je proto především potřeba vzniku plastového odpadu předcházet a případně též upřednostňovat opětovné použití plastových obalů. 
 

@@ -1,14 +1,12 @@
 ---
 layout: post
 category: blog
-title: >-
-  Potřebujeme takový volební výsledek, aby nás už kmotři nemohli obejít – říká
-  lídr Pirátů pro pražské komunální volby
-date: '2018-07-13 12:20am'
+title: Potřebujeme takový volební výsledek, aby nás už kmotři nemohli obejít – říká lídr Pirátů pro pražské komunální volby
+date: 2018-07-13
 author: Ivan Břešták
 image: pirati-praha6-magistrat-kandidat-hrib-bartos.jpg
 tags: |-
-  Hřib
+  Zdeněk_Hřib
   životní_prostředí
   doprava
   bydlení

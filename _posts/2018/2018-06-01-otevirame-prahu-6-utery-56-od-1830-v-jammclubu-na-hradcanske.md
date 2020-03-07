@@ -6,9 +6,8 @@ date: 2018-06-01
 author: Ondřej Chrást
 image: header-debata.jpg
 tags: |-
-  Piráti_Praha_6
-  Otevíráme_Prahu_6
-  Otevíráme_radnici
+  otevíráme_Prahu_6
+  otevíráme_radnici
   naprahuzmeny
 ---
 Místní sdružení České Pirátské strany Praha 6 srdečně zve občany na veřejnou debatu: Otvíráme radnici aneb občanská participace...

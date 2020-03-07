@@ -2,10 +2,11 @@
 layout: post
 category: blog
 title: Vajgly nesbírám (rozloží se samy)
-date: 2018-04-08T00:00:00.000Z
+date: 2018-04-08
 author: Barbora Hrůzová
 image: vajgly.jpg
-tags: praha-6
+tags: |-
+  Ukliďme_Česko
 ---
 
 Při uklízení Česka lze zažít plno kuriózních situací. A bývá u toho i veselo, jak si můžete přečíst v reportáži o úklidové akci na Praze 6.

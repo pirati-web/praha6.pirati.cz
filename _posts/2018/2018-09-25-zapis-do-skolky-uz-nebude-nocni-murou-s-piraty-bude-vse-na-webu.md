@@ -2,13 +2,13 @@
 layout: post
 category: blog
 title: Zápis do školky už nebude noční můrou - s Piráty bude vše na webu
-date: '2018-09-24 12:43am'
+date: 2018-09-24
 author: Tereza Hubáčková
 image: piratipraha6-skolky-zapis.jpg
 tags: |-
-  Mateřské_školky
-  Děti
-  Výchova
+  školka
+  děti
+  výchova
 ---
 Začal nový školní rok a někteří rodiče se teprve před pár dny dozvěděli, že jejich dítko bylo – hurá! – přijato do mateřské školy. (Škoda, že v té době už dávno měli vymyšlenou jinou variantu. Který zaměstnavatel bude tak dlouho čekat?) Kolik dětí nakonec do žádné školky nebylo přijato, se vůbec nedozvíme. Radnice Prahy 6 totiž neumí nebo nechce relevantní data shromáždit a poskytnout občanům - poslední dostupná data pocházejí z roku 2015/2016. 
 

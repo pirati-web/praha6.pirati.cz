@@ -1,11 +1,13 @@
 ---
 layout: post
 category: blog
-title: 'Jak nefunguje radnice Prahy 6: jde jim o cihly, ne o lidi'
-date: 2018-04-10T00:00:00.000Z
+title: Jak nefunguje radnice Prahy 6: jde jim o cihly, ne o lidi
+date: 2018-04-10
 author: Jana Kabelová
 image: solinova.jpg
-tags: praha-6
+tags: |-
+  Šolínova
+  Poliklinika_Pod_Marjánkou
 location:
   longitude: 50.1005406
   latitude: 14.3907274
