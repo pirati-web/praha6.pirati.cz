@@ -7,9 +7,9 @@ author: Ondřej Chrást
 image: pomnik-marie-terezie.jpg
 tags: |-
   Praha_6
-  Vase_6
+  Vaše_6
   Marie_Terezie
-  Konev
+  Koněv
 ---
 Článek je naším vyjádřením pro časopis Vaše 6
 

@@ -6,10 +6,9 @@ date: 2020-01-15
 author: Eva Tichá
 image: praha6neplastuje.jpg
 tags: |-
-  Praha_6
-  neplastuje
-  Farmarske_trhy
-  jednorazove_kelimky
+  Praha_6_neplastuje
+  Farmářské_trhy
+  jednorázové_plasty
 ---
 Loni v létě schválilo zastupitelstvo MČ Praha 6 Vyhlášení stavu klimatického ohrožení, které zakazuje používání jednorázových plastů na všech veřejných akcích pořádaných radnicí. Zahrnuje také smlouvy uzavřené na více let (to se týká třeba Kulturního centra Kaštan, Písecké brány, Farmářských trhů či Pelléovy vily). MČ sice plánuje vyzvat smluvní strany k jednání o dodatku, realizace je však stále v nedohlednu.
 
