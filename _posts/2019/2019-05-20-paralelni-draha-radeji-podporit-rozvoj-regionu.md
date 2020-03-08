@@ -6,9 +6,9 @@ date: 2019-05-20
 author: Ing. Eva Tichá
 image: draha.png
 tags: |-
-  Praha_6	
   LVH
-  letiste	 
+  letiště
+  paralelní_dráha
 ---
  
 Letiště je branou do světa a k Praze neodmyslitelně patří. Otázkou zůstává, jestli se má nadále rozrůstat, nebo je na hranici svých kapacit, které není nutné dále zvyšovat.Častý argument, že pokrok a turismus nezastavíš, naráží na názory odborníků, politiků i obyvatel centrálních a turisticky exponovaných částí Prahy. 

@@ -6,8 +6,7 @@ date: 2019-09-12
 author: Jiří Hoskovec, Jan Lipavský
 image: sergej_vojcechovsky.png
 tags: |-
-  Praha_6	
-  Konev
+  Koněv
   referendum
 ---
 Zastupitelstvo městské části Praha 6 dnes schválilo odstranění sochy maršála Koněva. Na jeho místě bude stát památník osvoboditelům Prahy, který vzejde z otevřené výtvarné soutěže. Piráti podporovali referendum, které ale zastupitelstvo neschválilo.

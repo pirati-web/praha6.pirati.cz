@@ -2,14 +2,12 @@
 layout: post
 category: blog
 title: Mizející hodnotné vily v Praze 6
-date: '2019-01-18 06:31am'
-author: Mgr. Ondřej Chrást
+date: 2019-01-18
+author: Ondřej Chrást
 image: vila-hradcanska.jpg
 tags: |-
-  Praha 6
-  Piráti
-  Architektura Prahy 6
-  Ohrožené památky
+  architektura_Prahy_6
+  ohrožené_památky
   
 ---
 **Článek je naším vyjádřením pro časopis Vaše 6**

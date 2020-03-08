@@ -6,10 +6,9 @@ date: 2019-06-01
 author: Ondřej Chrást
 image: tunel-varianty.jpg
 tags: |-
-  Praha_6
-  Vase_6
-  Orechovka
-  Bustehradska_draha
+  Vaše_6
+  Ořechovka
+  Bustěhradská_draha
 ---
 Článek je naším vyjádřením pro časopis Vaše 6
 

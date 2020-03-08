@@ -1,16 +1,14 @@
 ---
 layout: post
 category: blog
-title: 'Neztrácíme čas, Šolínova čeká dlouho – pražský primátor Zdeněk Hřib na Praze 6'
-date: '2019-01-27 08:38am'
-author: Mgr. Ondřej Chrást
+title: Neztrácíme čas, Šolínova čeká dlouho – pražský primátor Zdeněk Hřib na Praze 6
+date: 2019-01-27 08:38am
+author: Ondřej Chrást
 image: 51325148_392240398200917_1052958885276549120_n.jpg
 tags: |-
-  Trojdomí Šolínova
-  Praha 6
-  Seniorské centrum
-  Sociální služby
-  Piráti
+  Šolínova
+  seniorské_centrum
+  sociální_služby
 ---
 Piráti Prahy 6 iniciovali setkání pražského primátora **Zdeňka Hřiba** (Piráti) a starosty Prahy 6, pana **Ondřeje Koláře** (KLID) ke společné prohlídce trojdomí v Šolínově ulici. Na setkání byla i paní **Milena Johnová** (Praha sobě), radní hl. m. Prahy pro oblast sociální politiky a zdravotnictví, a radní Prahy 6, pan **Marián Hošek** (KDU-ČSL) pro oblast sociálních věcí a oblast zdravotnictví. Celou prohlídkou nás provázela skvělá paní ředitelka Domova pro seniory Elišky Purkyňové, paní **Eva Kalhousová**. Věříme, že vše nabralo správný směr.  
 

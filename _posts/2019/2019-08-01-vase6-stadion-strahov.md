@@ -6,9 +6,8 @@ date: 2019-08-01
 author: Jana Kabelová
 image: stadion-strahov.jpg
 tags: |-
-  Praha_6
-  Vase_6
-  stadion_strahov
+  Vaše_6
+  stadion_Strahov
 ---
 Článek je naším vyjádřením pro časopis Vaše 6
 

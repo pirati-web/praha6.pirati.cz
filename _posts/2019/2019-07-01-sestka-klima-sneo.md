@@ -6,9 +6,8 @@ date: 2019-07-01
 author: Ondřej Chrást
 image: klima-sneo.jpg
 tags: |-
-  Praha_6
-  Sestka
-  klimaticka_nouze
+  Šestka
+  klimatická_nouze
   SNEO
 ---
 Článek je vyjádřením pro červencové číslo časopisu Šestka

@@ -6,8 +6,8 @@ date: 2019-06-03
 author: Ondřej Chrást
 image: sneo.jpg
 tags: |-
-  Praha_6	
-  SNEO	 
+  SNEO
+  Kolář
 ---
 SNEO, a.s., zcela ovládnuto starostou Kolářem. 
 

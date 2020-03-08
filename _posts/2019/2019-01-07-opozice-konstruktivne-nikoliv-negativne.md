@@ -2,15 +2,13 @@
 layout: post
 category: blog
 title: Jsme konstruktivní opozicí v zastupitelstvu MČ Praha 6
-date: '2019-01-06 06:31am'
-author: Mgr. Ondřej Chrást
+date: 2019-01-06
+author: Ondřej Chrást
 image: pirati-zastupitele.jpg
 tags: |-
-  Praha 6
-  Piráti
   Suchdol
-  Trojdomí Šolínova
-  městský okruh
+  Šolínova
+  městský_okruh
 ---
 Zastupitelé Pirátů na Praze 6 vykročili do nového roku 2019 s cílem prosadit co nejvíce ze svého programu, se kterým v říjnových volbách získali důvěru 17,3 % občanů Prahy 6. Opoziční roli nechápou jako pouze kontrolní, hlídací či komentující, ale také jako iniciativní: v případech, kdy koalice Prahy 6 nabídne smysluplná řešení dlouhodobě opomíjených problémů, nabízejí i svou pomocnou ruku. 
 

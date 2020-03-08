@@ -6,9 +6,8 @@ date: 2019-07-01
 author: Eva Tichá
 image: klimanouze-obrazek.jpg
 tags: |-
-  Praha_6
-  Vase_6
-  klimaticka_nouze
+  Vaše_6
+  klimatická_nouze
 ---
 Článek je naším vyjádřením pro časopis Vaše 6
 

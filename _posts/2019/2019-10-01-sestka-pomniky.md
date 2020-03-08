@@ -6,10 +6,9 @@ date: 2019-10-01
 author: Ondřej Chrást
 image: pomnik.jpg
 tags: |-
-  Praha_6
-  Sestka
-  pomnik
-  pamatnik
+  Šestka
+  pomník
+  památník
 ---
 Článek je vyjádřením pro říjnové číslo časopisu Šestka
 

@@ -6,9 +6,8 @@ date: 2019-09-06
 author: Piráti Praha 6
 image: penta-vecirek.jpg
 tags: |-
-  Praha_6	
   Penta
-  Kolar
+  Kolář
   SNEO
 ---
 Praha 6 pod vedením starosty Ondřeje Koláře (TOP 09) vyměnila slevu pro developerskou společnost Penta ve výši 34 milionů korun za sponzorství večírku. V posledních dvou letech se to stalo už podruhé.

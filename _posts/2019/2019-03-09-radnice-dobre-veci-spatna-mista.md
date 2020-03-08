@@ -2,12 +2,12 @@
 layout: post
 category: blog
 title: Radnice Prahy 6 chce dělat dobré věci na špatných místech
-date: '2019-03-09 12:00am'
+date: 2019-03-09
 author: Barbora Hrůzová
 image: ranice-prahy6-chce-delat-dobre-veci-na-spatnych-mistech.jpg
 tags: |-
-  Senioři
-  Sociální bydlení
+  senioři
+  sociální_bydlení
   Šatovka
 ---
 Starosta Prahy 6 Ondřej Kolář (TOP09) před časem natočil emotivní video jako pozvánku na besedu s občany, ve které chtěl představit projekt na obnovení léta chátrající usedlosti Šatovka. Na besedu dne 27. února 2019 přišlo poměrně hodně lidí a restauraci Břetislavka zaplnili do posledního místa.

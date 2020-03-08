@@ -6,8 +6,7 @@ date: 2019-09-01
 author: Tomáš Šídlo
 image: spolky-iniciativy-os.jpg
 tags: |-
-  Praha_6
-  Sestka
+  Šestka
   spolky
 ---
 Článek je vyjádřením pro zářiové číslo časopisu Šestka

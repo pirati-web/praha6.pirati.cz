@@ -2,14 +2,13 @@
 layout: post
 category: blog
 title: Piráti v Praze 6 vzpomínali na odvlečení příslušníků ruského exilu. V petici iniciují, aby tragickou událost připomínal nový název parku
-date: 2019-05-12 2:31pm
-author: Ing. Eva Tichá
+date: 2019-05-12
+author: Eva Tichá
 image: veseni-venec-rooseveltova.jpg
 tags: |-
-  Praha 6	
-  Historie	
-  Ruský exil	
-  Ruská emigrace	 
+  historie	
+  Ruský_exil	
+  Ruská_emigrace	 
 ---
  
 Praha, 14. května 2019 - V sobotu 11. května 2019 uspořádali Piráti v pražských Dejvicích pietní akci připomínající osudy ruských obyvatel Prahy 6. Zároveň tu zahájili sběr podpisů pod petici za pojmenování blízkého parku po příslušnících ruského exilu. Dosud bezejmenný park v Praze 6 u náměstí Interbrigády má nést název Park ruského exilu a připomínat tak tragickou událost.

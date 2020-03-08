@@ -6,10 +6,9 @@ date: 2019-11-01
 author: Eva Tichá
 image: zachodky.png
 tags: |-
-  Praha_6
-  Vase_6
-  Brevnov
-  verejny_zachod
+  Vaše_6
+  Břevnov
+  veřejný_záchod
 ---
 Článek je naším vyjádřením pro časopis Vaše 6
 
