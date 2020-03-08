@@ -6,9 +6,8 @@ date: 2019-04-01
 author: Miloš Vlach
 image: satovka-obrazek.jpg
 tags: |-
-  Praha_6
   Vase_6
-  Satovka
+  Šatovka
 ---
 Článek je naším vyjádřením pro časopis Vaše 6
 

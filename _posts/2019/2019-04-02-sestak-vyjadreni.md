@@ -2,16 +2,14 @@
 layout: post
 category: blog
 title: Jak dále s oblíbeným Šesťákem? 
-date: '2019-04-02 2:31pm'
-author: Mgr. Ondřej Chrást
+date: 2019-04-02 2:31pm
+author: Ondřej Chrást
 image: sestak-obrazek.jpg
 tags: |-
-  Praha 6
-  Piráti
   Šesťák
-  Kultura
-  Participace
-  Sousedství
+  kultura
+  participace
+  sousedství
 ---
 **Článek je vyjádřením pro dubnové číslo časopisu Šestka**
 

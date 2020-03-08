@@ -6,8 +6,7 @@ date: 2019-05-01
 author: Jiří Hoskovec
 image: doprava-obrazek.jpg
 tags: |-
-  Praha_6
-  Vase_6
+  Vaše_6
   Na_Krutci
 ---
 Článek je naším vyjádřením pro časopis Vaše 6

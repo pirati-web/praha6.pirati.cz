@@ -6,8 +6,7 @@ date: 2019-06-01
 author: Jana Kabelová
 image: sneo.jpg
 tags: |-
-  Praha_6
-  Sestka
+  Šestka
   SNEO
 ---
 Článek je vyjádřením pro červnové číslo časopisu Šestka

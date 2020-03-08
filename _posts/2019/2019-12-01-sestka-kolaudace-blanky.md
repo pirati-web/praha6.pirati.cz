@@ -6,9 +6,8 @@ date: 2019-12-01
 author: Jana Kabelová
 image: kolaudace-blanka.jpg
 tags: |-
-  Praha_6
-  Sestka
-  tunel_blanka
+  Šestka
+  tunel_Blanka
   kolaudace
 ---
 Článek je vyjádřením pro prosincové číslo časopisu Šestka

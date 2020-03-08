@@ -1,13 +1,12 @@
 ---
 layout: post
 category: blog
-title: 'Co jsme probrali na únorovém zasedání zastupitelstva?'
-date: '2019-02-14 08:38am'
+title: Co jsme probrali na únorovém zasedání zastupitelstva?
+date: 2019-02-14
 author: 
 image: zmc.jpg
 tags: |-
   Zastupitelstvo
-  Piráti
 ---
 
 Třetí zasedání Zastupitelstvo MČ Praha 6: Pirátky a Piráti místního sdružení Prahy 6 otevřeli diskuzi na tato důležitá témata, která požadujeme skutečně řešit a ne jen odsouvat: 

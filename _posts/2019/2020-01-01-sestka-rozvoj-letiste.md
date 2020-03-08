@@ -6,10 +6,10 @@ date: 2020-01-01
 author: Ondřej Chrást
 image: kour-letadlo.jpg
 tags: |-
-  Praha_6
-  Sestka
-  Letiste_Vaclava_Havla
-  rozsireni_letiste
+  Šestka
+  LVH
+  paralelní_dráha
+  letiště
 ---
 Článek je vyjádřením pro lednové číslo časopisu Šestka
 

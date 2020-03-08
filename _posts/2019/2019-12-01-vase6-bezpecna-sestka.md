@@ -6,9 +6,8 @@ date: 2019-12-01
 author: Jiří Hoskovec
 image: bezpecna-gorila.png
 tags: |-
-  Praha_6
-  Vase_6
-  bezpecna_Sestka
+  Vaše_6
+  bezpečná_Šestka
 ---
 Článek je naším vyjádřením pro časopis Vaše 6
 

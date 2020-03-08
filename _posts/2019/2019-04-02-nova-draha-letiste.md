@@ -2,14 +2,14 @@
 layout: post
 category: blog
 title: Nová dráha Letiště Václava Havla a Praha 6 - pro a proti
-date: '2019-04-02 1:00pm'
-author: Mgr. Ondřej Chrást
+date: 2019-04-02
+author: Ondřej Chrást
 image: letadlo.jpg
 tags: |-
-  Praha 6
-  Piráti
-  Letiště
-  Rozšíření
+  letiště
+  paralelní_dráha
+  LVH
+  Vaše_6
 ---
 **Článek je vyjádřením do březnového čísla časopisu Vaše 6**
 

@@ -2,12 +2,11 @@
 layout: post
 category: blog
 title: Jak se Piráti připravují na práci v zastupitelstvu Prahy 6
-author: Mgr. Ondřej Chrást
+author: Ondřej Chrást
 image: radnice-praha6.jpg
 tags: |-
-  Praha_6	
-  Zastupitelstvo_Praha_6	
-  Poliklinika_pod_Marjánkou	
+  zastupitelstvo
+  Poliklinika_Pod_Marjánkou	
   SNEO	
   Dejvická_4	
   Otevřená_radnice	

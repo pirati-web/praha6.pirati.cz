@@ -6,11 +6,10 @@ date: 2019-10-01
 author: Barbora Hrůzová
 image: delegace-turecko.jpg
 tags: |-
-  Praha_6
-  Vase_6
+  Vaše_6
   Turecko
-  Kurdove
-  Syrie
+  Kurdové
+  Sýrie
   Antalya
 ---
 Článek je naším vyjádřením pro časopis Vaše 6

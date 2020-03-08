@@ -6,9 +6,8 @@ date: 2019-11-01
 author: Ondřej Chrást
 image: privatizace.jpg
 tags: |-
-  Praha_6
-  Sestka
-  zastupitelska_demokracie
+  Šestka
+  zastupitelská_demokracie
   privatizace
 ---
 Článek je vyjádřením pro listopadové číslo časopisu Šestka
