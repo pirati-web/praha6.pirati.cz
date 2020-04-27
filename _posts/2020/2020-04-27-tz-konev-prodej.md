@@ -20,6 +20,8 @@ Předseda místního sdružení Pirátů na Praze 6 Miloš Vlach k tomu dodává
 
 Zastupitelka za Piráty Barbora Hrůzová, k tomu dodává: _“Ondřej Kolář by se měl chovat jako starosta všech občanů Prahy 6 a nikoliv jen svých voličů a sympatizantů. Jestliže část obyvatel a ruská strana považují sochu maršála Koněva za pietní objekt, je krajně nevhodné odstraňovat ji s posměšky a znevažujícími komentáři. Je třeba teď slušně a s respektem jednat, aby se napětí dále nestupňovalo a situace se zklidnila.”_
 
+[Celý návrh zastupitelského klubu Piráti Praha 6](https://praha6.pirati.cz/assets/200514_navrh_na_prodej_Konev_Zastupitelstvo_P6.pdf) na odprodej sochy, jak je předložen na zastupitelsvo Prahy 6 dne 14. 5. 202.
+
 **Kontakt pro média:**
 **Mgr. Ondřej Chrást**, předseda zastupitelského klubu Pirátů v Praze 6, tel: +420 606 914 916; mail: ondrej.chrast@pirati.cz
 
