@@ -4,7 +4,7 @@ category: blog
 title: Piráti Prahy 6: Navrhujeme prodej sochy Koněva do Ruska 
 date: 2020-04-27
 author: Piráti Praha 6
-image: konev_obrazek.jpg
+image: konev-obrazek.jpg
 tags: |-
   Praha_6
   Koněv
