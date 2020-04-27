@@ -25,4 +25,4 @@ Zastupitelka za Piráty Barbora Hrůzová, k tomu dodává: _“Ondřej Kolář 
 
 **Georgia Hejduková**, mluvčí Pirátů Prahy 6, tel: +420 775 864 103; mail: georgia.hejduk@pirati.cz
 
-**Michal Polák**, PR Manager KS Praha, tel:k. +420 608 517 127; mail: michal.polak@pirati.cz
+**Michal Polák**, PR Manager KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
