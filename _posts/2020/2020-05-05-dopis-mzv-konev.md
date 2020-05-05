@@ -11,7 +11,7 @@ tags: |-
   Ministerstvo_zahraničí
   Tomáš_Petříček
 ---
-Dnes jsme zaslali jsme dopis ministru zahraničí ohledně našeho návrhu na prodej pomníku maršála Koněva. Celý dopis zde:
+Dnes jsme zaslali dopis ministru zahraničí ohledně našeho návrhu na prodej pomníku maršála Koněva. Celý dopis zde:
 
 V Praze dne 4. 5. 2020
 
