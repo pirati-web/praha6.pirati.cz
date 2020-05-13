@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Program zastupitelstva MČ Praha 6 a naše návrhy 
+title: Praha 6 bude opět řešit Koněva, právní plagiáty starostových spolužáků a výškové budovy na Hradčanské. Požadujeme odvolání starosty Koláře
 date: 2020-05-13
 author: Piráti Praha 6
 image: hradcanska-dejvice.jpg
