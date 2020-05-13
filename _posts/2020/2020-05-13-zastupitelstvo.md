@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Program zastupitelstva MČ Praha 6 a naše návrhy 
-date: 2020-04-27
+date: 2020-05-13
 author: Piráti Praha 6
 image: hradcanska-dejvice.jpg
 tags: |-
