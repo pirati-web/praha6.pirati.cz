@@ -5,16 +5,14 @@ fullname: Georgia Hejduková
 mail: georgia.hejduk@pirati.cz
 category: clen
 img: people/georgia-hejdukova.jpg
-description: Bloggerka, studentka finančních služeb
+description: studentka, CEO, analytička
 ordp6: 4
 ordkan: 29
 ---
-**_„Tough times don't last, tough people do, remember?“_ - Gregory Peck**
+Georgia Hejduková (* 13. března 2000) je studentka ekonomie se zájmem o lidská práva. Ve volném čase pracuje jako analytička a věnuje se problematice šikany a lidským právům.
 
-Georgia Hejduková (* 13. března 2000) je studentka finančních služeb a členka Pirátské strany a místního sdružení Praha 6. Ve volbách v říjnu roku 2018 kandidovala na 29. místě do obecního zastupitelstva Prahy 6. V Pirátské straně je aktivní především na sociálních sítích a v kontaktní kampaňi.
+V roce 2018 založila na základě vlastní zkušenosti se šikanou projekt Zastavme šikanu, který se zabývá problematikou a prevencí šikany na školách a ve společnosti. Dále se věnuje novinařině a psaní. Rovněž se podílí na organizaci různých studentských iniciativ, například Středoškolského sněmu Hlavního města Prahy a v minulosti třeba České středoškolské unie. Má za sebou zkušenosti z neziskové organizace Amnesty International, kde se podílí na vzdělávání proti diskriminaci. Dále zde vede mládežnický poradní orgán a pomáhá s organizací akcí. Za tyto činnosti dostala ocenění TOP 25 Středoškolák roku.
 
-Studuje finanční služby na Střední odborné škole logistických služeb na Praze 9.
+V Pirátské straně se angažuje zejména v komunální politice na Praze 6, kde se zabývá spolkovou činností, analytikou, a je také mediální spojkou a stará se o PR místního sdružení. Dále je jednou ze zakládajících členek obnovených Mladých Pirátů a je také členkou resortního podtýmu pro lidská práva. V roce 2018 byla nejmladší kandidátkou do zastupitelstva Prahy 6.
 
-Kromě Pirátské strany se věnuje především neziskovému sektoru a osvětě v oblasti šikany na školách a LGBT komunity, mimo jiné pomáhá neziskové organizaci Amnesty International s organizací akcí a také pomáhá v oblasti sociálních médií, mimo to píše svůj osvětový blog Jak se stávám ženou, který byl nominován na cenu Gratias Tibi, dále vede projekt pro prevenci a osvětě ohledně šikany na školách Zastavme šikanu.
-
-Má ráda Angličtinu, hudbu a lidská práva.
+Její odborností je: šikana, lidská práva, LGBT tématika a spolky.
