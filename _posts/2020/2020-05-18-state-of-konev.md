@@ -1,14 +1,14 @@
 ---
 layout: post
 category: blog
-title: Životní prostředí je sprosté slovo?
+title: Kdo je užitečný idiot?
 date: 2020-05-17
-author: Barbora Hrůzová
-image: zivotni_prostredi.jpg
+author: Miloš Vlach
+image: MarioKonev.png
 tags: |-
   Praha_6
-  klimatické ohrožení
-  životní prostředí
+  Konev
+  Komentar
 ---
 To, že nás začnou koaliční strany Prahy 6 označovat za prokremelské vazaly a užitečné idioty, se dalo čekat a nijak nás to netrápí; realita je ovšem zcela opačná. Ti, co toto nejhlasitější provolávají, jsou sami idioty a podporují tím ruské zájmy – doufám jen, že v naivitě a nikoliv vědomě. 
 
