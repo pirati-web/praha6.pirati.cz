@@ -1,4 +1,15 @@
-
+---
+layout: post
+category: blog
+title: Komentář: Kdo je užitečný idiot?
+date: 2020-05-18
+author: Miloš Vlach
+image: MarioKonev.png
+tags: |-
+  Komentář
+  Praha_6
+  Koněv
+---
 To, že nás začnou koaliční strany Prahy 6 označovat za prokremelské vazaly a užitečné idioty, se dalo čekat a nijak nás to netrápí; realita je ovšem zcela opačná. Ti, co toto nejhlasitější provolávají, jsou sami idioty a podporují tím ruské zájmy – doufám jen, že v naivitě a nikoliv vědomě. 
 
 Zaráží mne, jak málo lidí si uvědomuje, že situace zašla tak daleko, kdy se přesunutím sochy nic nevyřeší. Horká brambora jen poputuje jinam, a dokud bude socha na území našeho státu, bude  ji Rusko využívat k prosazování svého vlivu. Jediný způsob, jak se z této situace vymanit, je se jí zbavit. Potvrzuje to mimoděk i postoj ministra Lavrova: dokud byl postoj radnice arogantní a vydání či prodej nebyly reálné, Lavrov se sochy dožadoval, jakmile se ovšem objevila v části zastupitelstva vůle se jí zbavit, okamžitě otočil. Jaké jsou tedy pravděpodobné scénáře?
