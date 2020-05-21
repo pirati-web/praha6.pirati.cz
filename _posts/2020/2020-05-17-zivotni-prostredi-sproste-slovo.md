@@ -9,6 +9,7 @@ tags: |-
   Praha_6
   klimatické ohrožení
   životní prostředí
+  komentar
 ---
 Je zajímavé, jak postupem času některé pojmy zcela změnily svůj původní pozitivní nebo neutrální význam a proměnily se v něco úplně jiného. Většinou směšného, ošklivého nebo dokonce sprostého. Například „perník“, „soudruh“, „zdravý rozum“ nebo „podnikatel“. Stejný osud potkal i termín „ochrana životního prostředí“. Dříve by okamžitě každý řekl „Greenpeace“. Dnes spíše lidi napadne “blokování stavby kvůli žabičkám“, „řepka“ nebo „šílená Gréta“. Takové ty jednoduché mediální zkratky. V tomto případě je to ale hodně smutné a životní prostředí si to rozhodně nezaslouží. Je to totiž něco, co se bezprostředně dotýká nás všech bez rozdílu. A nejen nás lidí, ale i hmyzu, zvířat, rostlin, a vlastně i celého života na naší zemi. 
 
