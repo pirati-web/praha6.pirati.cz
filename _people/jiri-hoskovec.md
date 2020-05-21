@@ -7,7 +7,7 @@ category:
 - clen
 - zk
 img: people/jiri-hoskovec.jpg 
-description: Vystudovaný jaderný inženýr, povoláním forenzní specialista na finanční zločiny. Zastupitel, člen kontrolního a mandátového výboru a bezpečnostní komise Prahy 6. Hospodář mediálního odboru Pirátů
+description: Manažer, forenzní specialista na finanční zločin. Vedoucí poradců primátora, zastupitel na Praze 6, hospodář mediálního odboru strany
 ordp6: 5
 ordkan: 9
 ordzk: 9
