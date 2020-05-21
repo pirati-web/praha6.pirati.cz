@@ -6,11 +6,12 @@ date: 2020-05-20
 author: Eva Tichá
 image: farmarsketrhy.jpg
 tags: |-
-  Praha_6 
-  covid-19 
-  farmářské_trhy
+  Praha_6
+  farmarske_trhy
+  covid-19
+  
 ---
-Zastupitelstvo Prahy 6 si na svém 11. zasedání definitivně odhlasovalo, že je v souladu s rozhodnutím Rady, která bez mrknutí oka v „nouzovém stavu“ prodloužila smlouvu provozovateli Farmářských trhů o dalších pět let, a to bez výběrového řízení. 
+Zastupitelstvo Prahy 6 si na svém 11. zasedání definitivně odhlasovalo, že je v souladu s rozhodnutím Rady, která bez mrknutí oka v „nouzovém stavu“ prodloužila smlouvu provozovateli Farmářských trhů o dalších pět let, a to bez výběrového řízení.
 
 Proč Rada Prahy 6 rozhodovala o prodloužení smlouvy právě v nouzovém stavu? Proč si nepřeje vybrat budoucího provozovatele trhů transparentním způsobem s péčí řádného hospodáře? Proč není vůle nastavit takové smluvní podmínky, které budou obsahovat i transparentní pravidla přihlašování farmářů, jejich skladbu a počty? 
 
