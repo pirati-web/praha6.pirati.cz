@@ -5,7 +5,7 @@ fullname: Georgia Hejduková
 mail: georgia.hejduk@pirati.cz
 category: clen
 img: people/georgia-hejdukova.jpg
-description: studentka, CEO, analytička
+description: Studentka ekonomie se zájem o právo, mediální spojka Prahy 6, členka resortního týmu pro lidská práva, vedoucí neziskové organizace
 ordp6: 4
 ordkan: 29
 ---
