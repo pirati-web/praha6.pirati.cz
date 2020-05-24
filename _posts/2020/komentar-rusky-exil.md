@@ -1,3 +1,4 @@
+---
 layout: post
 category: blog
 title: Pomsta si je našla v Bubenči – úvaha současného obyvatele domu, kam se jeho tehdejší obyvatelé už nevrátili
