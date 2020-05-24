@@ -4,7 +4,7 @@ category: blog
 title: Pomsta si je našla v Bubenči – úvaha současného obyvatele domu, kam se jeho tehdejší obyvatelé už nevrátili
 date: 2020-05-11
 author: Ondřej Chrást
-image: konev-obrazek.jpg
+image: foto-společná-768x576.jpg
 tags: |-
   Praha_6
   Rusky_Exil
