@@ -10,8 +10,9 @@ tags: |-
   marie_terezie
   
 ---
-P
-V roce 2013 radnice Prahy 6 vyhlásila veřejnou výtvarnou soutěž na pomník Žofie Chotkové a pomník Marie Terezie.  Cituji z pěkného delšího článku paní Prof. PhDr. Mileny Bartlové, CSc., z roku 2014 veřejně dostupného na webu.  Paní profesorka žije na Praze 6, a proto se jí tato kauza osobně dotýká. Tento úryvek je míněn ironicky, ale velmi trefně:
+V roce 2013 radnice Prahy 6 vyhlásila veřejnou výtvarnou soutěž na pomník Žofie Chotkové a pomník Marie Terezie. 
+
+Cituji z pěkného delšího článku paní Prof. PhDr. Mileny Bartlové, CSc., z roku 2014 veřejně dostupného na webu.  Paní profesorka žije na Praze 6, a proto se jí tato kauza osobně dotýká. Tento úryvek je míněn ironicky, ale velmi trefně:
  „Proč má Praha 6 stavět pomník zrovna Marii Terezii, nemluvě o Žofii Chotkové s vodním prvkem? Dala se snad městská část pod vedením starostky Marie Kousalíkové (ODS) na radikální feminismus? Nebo na Praze 6 konečně uspěla Placákova monarchistická strana a začíná politická demontáž republikánského ideálu tatíčka Masaryka? Z vypsání obou veřejných soutěží je zřejmé, že nebude důvod ani k jedné z obav. Důvodem pro stavbu pomníku je v obou případech esteticky uspokojivé doplnění nově vznikajícího parčíku.“ 
  
 Ale bez legrace - neodpovídá na základní otázku. Proč zrovna tyto dvě ženy? Nemáme snad dost jiných – ryze českých osobností, které by si zasloužily takové ocenění? Připadá mi to spíše jako jakási módní úlitba šlechtě, genderu a našemu zařazení do celoevropského kontextu.
