@@ -5,10 +5,9 @@ title: Pomník Marie Terezie a spousta otázek
 date: 2020-05-25
 author: Barbora Hrůzová
 image: pomnik-marie-terezie.jpg
-tags: |-
-  Praha_6
-  marie_terezie
-  
+tags:
+  - Praha_6
+  - Marie Terezie
 ---
 V roce 2013 radnice Prahy 6 vyhlásila veřejnou výtvarnou soutěž na pomník Žofie Chotkové a pomník Marie Terezie. 
 
