@@ -2,7 +2,7 @@
 uid: georgia.hejdukova
 name: Georgia Hejduková
 fullname: Georgia Hejduková
-mail: georgia.hejduk@pirati.cz
+mail: georgia.hejdukova@pirati.cz
 category: clen
 img: people/georgia-hejdukova.jpg
 description: Studentka ekonomie se zájem o právo, mediální spojka Prahy 6, členka resortního týmu pro lidská práva, vedoucí neziskové organizace
