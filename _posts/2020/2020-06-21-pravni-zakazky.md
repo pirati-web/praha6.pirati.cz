@@ -27,6 +27,6 @@ Ze dvanácti stanovisek, která Praze 6 dodal advokát Kubíček, byly jen čty�
 Advokátka Lukešová nemá v [Registru](https://smlouvy.gov.cz/vyhledavani?q=73735663) vůbec žádné publikace smluv. Zarážející je, že Praha 6 obvykle publikuje v [Registru](https://smlouvy.gov.cz/vyhledavani?subject_idnum=00063703) četné smlouvy i pod 50 tisíc Kč, a to i smlouvy s advokáty. Výjimkou jsou smlouvy s advokáty Kubíčkem a Lukešovou. Hodnota většiny smluv obou advokátů byla těsně pod hranicí 50 000 Kč. Je to náhoda? Navíc některá stanoviska si byla zaměřením tak podobná, že je otázkou, zda nebyla jen cíleně rozúčtována na vícero zakázek, aby nebylo dosaženo zákonné hranice pro povinnou publikaci v Registru.
 Vedoucí právního odboru pan Malásek nyní odstoupil. Plnou politickou i právní odpovědnost za tyto pochybné statisícové zakázky však nese starosta Kolář. V rámci svých gescí mj. plně odpovídá za právní odbor, navíc také část zakázek osobně domluvil. Ve svých vyjádřeních ke kauze prokazatelně opakovaně lhal. Vyvodí také vlastní zodpovědnost? 
 
-Kontakt pro média: Mgr. Ondřej Chrást, předseda zastupitelského klubu Pirátů v Praze 6, tel: +420 606 914 916; mail: ondrej.chrast@pirati.cz
+**Kontakt pro média: Mgr. Ondřej Chrást, předseda zastupitelského klubu Pirátů v Praze 6**, tel: +420 606 914 916; mail: ondrej.chrast@pirati.cz
 
-Michal Polák, PR Manager KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
+**Michal Polák, PR Manager KS Praha,** tel: +420 608 517 127; mail: michal.polak@pirati.cz
