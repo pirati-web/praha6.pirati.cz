@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Komentář Pirátů k rezignaci vedoucího právního odboru MČ Praha 6
+title: Komentář k rezignaci vedoucího právního odboru MČ Praha 6
 date: 2020-06-21
 author: Ondřej Chrást
 image: spravedlnost.jpg
