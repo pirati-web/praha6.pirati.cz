@@ -26,7 +26,9 @@ Zastupitelstvo bude řešit i další závažné otázky, zejména starostou st�
 Jako velmi absurdní se jeví situace kolem neotevření oblíbeného bazénu Petynka. V tuto dobu měl být, podobně jako většina bazénů v Praze, již otevřen a lidé si v něm měli užívat letních radovánek. Jeho dveře však zůstaly zavřené z důvodu nemožnosti kolaudace nové vany samotného bazénu. Důvody, proč se tak děje jsou zahaleny v mlze a sahají hluboko do minulosti. Jisté je, že lidé se nemají na Praze 6 kde vykoupat. Budeme tlačit na co nejrychlejší nápravu tohoto nežádoucího stavu. 
 
 Kontakt pro média: 
-Mgr. Ondřej Chrást, předseda zastupitelského klubu Pirátů v Praze 6, tel: +420 606 914 916; mail: ondrej.chrast@pirati.cz
-Michal Polák, Media manažer KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
+
+**Mgr. Ondřej Chrást, předseda zastupitelského klubu Pirátů v Praze 6**, tel: +420 606 914 916; mail: ondrej.chrast@pirati.cz
+
+**Michal Polák, Media manažer KS Praha**, tel: +420 608 517 127; mail: michal.polak@pirati.cz
 
 
