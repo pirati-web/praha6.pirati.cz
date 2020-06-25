@@ -9,10 +9,9 @@ tags: |-
   Praha_6
   Pravni_zakazky
   Zastupitelstvo
-  Letiste
-  
+  Letiste  
 ---
-23. června 2020 - Ve čtvrtek proběhne další zastupitelstvo Prahy 6. Jeho velkým tématem bude problematika rozšiřování Letiště Václava Havla, které budí mnoho emocí a štěpí zastupitelstva napříč různými městskými částmi i magistrátem. Piráti navrhnou usnesení s deklarací, že paralelní dráhu si Praha 6 nepřeje. Tématem bude také rezignace šéfa právního oddělení kvůli objednaným právním plagiátům a velmi absurdní situace s neotevřením bazénu Petynka na letní sezónu. 
+23.června 2020 - Ve čtvrtek proběhne další zastupitelstvo Prahy 6. Jeho velkým tématem bude problematika rozšiřování Letiště Václava Havla, které budí mnoho emocí a štěpí zastupitelstva napříč různými městskými částmi i magistrátem. Piráti navrhnou usnesení s deklarací, že paralelní dráhu si Praha 6 nepřeje. Tématem bude také rezignace šéfa právního oddělení kvůli objednaným právním plagiátům a velmi absurdní situace s neotevřením bazénu Petynka na letní sezónu. 
 
 Dle společností Letiště Praha a.s. prezentovaných záměrů by se Letiště Václava Havla mělo stát první volbou pro cestující ze spádových oblastí České republiky, jihu Polska a příhraničí Saska a odbavit do roku 2035 více jak 28 milionů cestujících. Praha 6, na základě předchozích usnesení přijímaných v minulých letech a desetiletích, je oficiálně pro rozšiřování letiště i pro stavbu tzv. paralelní dráhy. Navzdory předchozím deklaracím některých svých členů současná rada (TOP09, ODS, STAN, KDU) nepředložila k projednávanému bodu rozšiřování letiště žádné nové usnesení. Předpokládáme tak, že souhlas se stavbou paralelní dráhy bude ze strany Prahy 6 nadále v platnosti. Městská část tak svými kladnými stanovisky umožní pokračovat v přípravách. 
 
