@@ -5,7 +5,7 @@ fullname: Helena Machovcová
 mail: helena.machovcova@pirati.cz
 category: clen
 img: people/helena-machovcova.jpg
-description: 4. místopředsedkyně místního sdružení, překladatelka
+description: překladatelka
 ordp6: 5
 ordkan: 24
 ---
