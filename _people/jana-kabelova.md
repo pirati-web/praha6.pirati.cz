@@ -4,7 +4,7 @@ name: Jana Kabelová
 fullname: Jana Kabelová 
 mail: jana.kabelova@pirati.cz
 category: 
-- clen
+- mp
 - zk
 img: people/jana-kabelova.jpg
 description: Projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6
