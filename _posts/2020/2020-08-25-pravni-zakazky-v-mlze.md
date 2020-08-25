@@ -84,3 +84,47 @@ Nejsme to my - Piráti, kdo vás veřejně takto obviňuje z užívání drog, b
 Toto jsou fakta, žádné lži, žádné manipulace.
  
 Přeji Vám úspěšný závěr léta a dobré zdraví.
+
+##Některé relevantní zdroje 
+
+###Interpelace
+
+Znění interpelace:
+https://www.praha6.cz/export/1822/interpelace/Z_12_008_2020.docx
+Odpověď starosty Koláře:
+https://www.praha6.cz/export/1822/interpelace/Z12_008_2020_Redig.pdf
+
+###Další zdroje
+
+zápisy ze zasedání Zastupitelstva MČ Praha 6 (zejména ze 30.04.2020 a 14.05.2020)
+https://www.praha6.cz/zast_zapisy
+
+zápisy ze zasedání Kontrolního výbor ZMČ Praha 6 (zejména 04.11.2019 a 04.05.2020)
+https://www.praha6.cz/komise_zapisy?Cislo=262&vo=1822&Komise=Kontrolní+výbor+ZMČ&vynechat=0&crc=0f8fa2f601531f9c9ef8d1c826085c1c
+
+Zákon č. 85/1996 Sb. (Zákon o advokacii), v platném znění
+
+Zákon č. 340/2015 Sb. Zákon o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), v platném znění
+Metodický návod k aplikaci zákona o registru smluv, vydaný MVČR (v pdf): 
+http://www.mvcr.cz/soubor/metodicky-navod-k-aplikaci-zakona-o-registru-smluv-jez-slouzi-k-zakladni-orientaci-v-problematice-a-prinasi-zakladni-odpovedi-na-casto-kladene-dotazy.aspx
+
+Přehled smluv (vč. objednávek) uveřejněných Prahou 6 v registru smluv:
+https://smlouvy.gov.cz/vyhledavani?subject_idnum=00063703
+
+https://imgur.com/a/pEEYflF (screenshoty k tématu spolupracujících AK a pana Maláska)
+Některé články k tématu (obsahují citované výroky)
+
+https://zpravy.aktualne.cz/domaci/dva-pravni-posudky-za-340-tisic-psal-je-starostuv-spoluzak-r/r~8762f8485a3911eab408ac1f6b220ee8/
+
+https://zpravy.aktualne.cz/domaci/kolar-plagiaty-zpetvzeti/r~d516be8a5e0d11eaa6f6ac1f6b220ee8/
+
+https://archiv.ihned.cz/c7-66764120-ode2r-75c526e0207f142
+
+https://www.denik.cz/regiony/odstupte-pirati-praha-6-starosta-kolar-pravni-posudky-rezignace.html
+
+https://nasregion.cz/vsechny-regiony/starosta-prahy-6-kolar-prihrava-ksefty-spoluzakum-z-plzenskych-prav/
+
+https://nasregion.cz/praha/pravnici-analyzy-kolarovych-spoluzaku-jsou-predrazene/
+
+https://www.ceska-justice.cz/2020/08/cak-podala-karnou-zalobu-exministra-advokata-vladimira-kremlika
+https://www.cak.cz/scripts/detail.php?id=22069
