@@ -24,13 +24,13 @@ Ve své odpovědi se budu zásadně držet faktů a právní interpretace (v té
 
 Kdo se za Prahu 6 zavazoval ve věci externích právních služeb?
 ---------------
+
 Ve Vaší odpovědi jste na mou důležitou obecnou otázku, tj. jak Praha 6 za Vašeho působení vybírala právní externisty, v podstatě neodpověděl.
 Píšete _„zadávání právních posudků probíhalo tak, že člen rady, či vedoucí odboru poptal u právního odboru stanovisko, právní odbor následně vybral advokáta a ten se, zcela přirozeně, přišel dotázat na věci s danou problematikou související“_.
 
-
 Problém je, že to zjevně není tak docela pravda. Např. dále píšete *„Opět nevidím nic špatného na tom, že jsem „šel na jistotu“ – díky znalosti prostředí doporučil takové advokáty, u kterých se dá předpokládat…“*.
 
-Především je to ale celkově v rozporu s realitou. To dokládají i slova ex-vedoucího PO Maláska, který řekl Kontrolnímu výboru dne 4.11.2019 v souvislosti mj. se zakázkou pro advokáta Kubíčka, u níž objednávka PO přišla až po Vaší schůzce s advokátem Kubíčkem a dokonce až po zpracování zadání předmětné objednané právní zakázky advokátem Kubíčkem (přesněji - subdodavatelem), že *„nemá možnost, jak donutit radní, aby nekonzultovali s externími právními kancelářemi možnost spolupráce*.    
+Především je to ale celkově v rozporu s realitou. To dokládají i slova ex-vedoucího PO Maláska, který řekl Kontrolnímu výboru dne 4.11.2019 v souvislosti mj. se zakázkou pro advokáta Kubíčka, u níž objednávka PO přišla až po Vaší schůzce s advokátem Kubíčkem a dokonce až po zpracování zadání předmětné objednané právní zakázky advokátem Kubíčkem (přesněji - subdodavatelem), že *„nemá možnost, jak donutit radní, aby nekonzultovali s externími právními kancelářemi možnost spolupráce*.
 
 Píšete: *„nikdo z volených zástupců Prahy 6 nemůže nic objednávat“*.  Já jsem neříkal, že jste něco objednal (říkal jsem domlouval, což je fakt), to byla Vaše slova, když jste na Zastupitelstvu 14.5.2020 řekl: *„Znovu říkám, nevím, jakou metodikou byly vybírány ty advokátní kanceláře. Já znám opravdu jenom pana Kubíčka, u kterého jsem si objednal jedno jediné stanovisko.“* O den později jste nicméně otočil a Hospodářským novinám řekl: *„Právní oddělení vybralo pana Kubíčka, prošlo to kolečkem a já to jen podepsal.“* Ještě předtím – 3. 3. 2020 –  jste pro aktuálně.cz uvedl: *„Doktor Kubíček už v podobných věcech radil jiným samosprávám, proto jsme vybrali jeho.“*
 
