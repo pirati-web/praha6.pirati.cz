@@ -4,7 +4,7 @@ category: blog
 title: Pochybné právní zakázky Prahy 6 za stovky tisíc stále v mlze. Starosta Kolář nic nevysvětlil
 date: 2020-08-25
 author: Ondřej Chrást
-image: f0c469-119127e16da48198125d1d07df1075fa4454dd4bb70717de826428c4969eec71.jpg
+image: spravedlnost.jpg
 tags: |-
   Praha_6
   Kolar
