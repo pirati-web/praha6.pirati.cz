@@ -10,6 +10,8 @@ tags: |-
   Kolar
   Pravni_zakazky
 ---
+Ondřej Chrást na zastupitelstvu 25.9.20 interpeloval starostu Koláře, serií otázek na tělo:
+
 Pane starosto, můžete prosím vyvrátit, že mezi externími poskytovateli právních služeb pro Prahu za Vašeho působení v úřadu starosty byl i Váš někdejší zaměstnavatel?
 
 Pane starosto, můžete prosím deklarovat, že šeptanda, která koluje úřadem, tj. že jste byl kdysi finančně zavázán jednomu z externích poskytovatelů právních služeb Praze 6, se nezakládá na pravdě? A tudíž můžete proto prohlásit na svou čest, že od žádného z externích poskytovatelů právních služeb (myšleno v době Vašeho působení ve funkci starosty) jste Vy ani nikdo z Vašich blízkých nepřijal v minulosti žádnou významnější materiální výhodu (např. půjčku, dar apod.)? Tento dotaz pokládám, abych Vám přátelsky podal pomocnou ruku, jelikož podobé klepy Vám nepřináší nic dobrého a je optimální se k nim promptně vyjádřit. 
