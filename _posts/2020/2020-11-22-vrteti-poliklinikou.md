@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: Vrtěti Poliklinikou
 date: 2020-11-22
-author: Ond5ej Chrást
+author: Ondřej Chrást
 image: poliklinika_pod_marjankou.png
 tags: |-
   Praha_6
