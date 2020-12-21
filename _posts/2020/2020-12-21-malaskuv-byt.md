@@ -4,7 +4,7 @@ category: blog
 title: Piráti Prahy 6 zachraňují peníze vyhozené lidmi starosty Koláře za tzv. právní plagiáty a donutili starostova kamaráda odstranit advokátní kancelář pryč z obecního bytu
 date: 2020-12-21
 author: Ondřej Chrást
-image: spravedlnost.jpg
+image: injustice.jpg
 tags: |-
   Praha_6
   Pravni_zakazky
