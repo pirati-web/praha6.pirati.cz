@@ -17,6 +17,7 @@ Na vědomí:
 * Mgr. Tomáš Portlík, předseda pražské krajské organizace ODS, 
 * Jan Dočekal, člen zastupitelského klubu ODS Praha 6
 
+-----------
 
 __Vážená paní předsedkyně,__
 
