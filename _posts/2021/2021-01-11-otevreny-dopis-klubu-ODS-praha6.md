@@ -32,9 +32,3 @@ Vážená paní předsedkyně, vyzýváme Vás k vyvození jasné politické odp
 
 Zastupitelský klub Piráti Praha 6
 
---
-
-_Mgr. Ondřej Chrást,
-předseda Zastupitelského klubu Piráti Praha 6, 
-tel: 606 914 916_
-
