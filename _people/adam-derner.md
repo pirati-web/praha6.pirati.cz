@@ -5,7 +5,7 @@ fullname: MUDr. Adam Derner
 category: clen
 img: people/adam-derner.jpg
 description: lékař
-ordp6: 2
+ordp6: 1
 ordkan: 
 ---
 MUDr. Adam Derner (*1993) je lékař, pracující jako psychiatr ve Všeobecné fakultní nemocnici v Praze. Členem České pirátské strany je od února roku 2020. V témže roce se stal členem kontrolního výboru zastupitelstva Prahy 6. V editorském týmu se aktivně účastnil tvorby programu voleb do Poslanecké sněmovny 2021.
