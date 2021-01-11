@@ -20,8 +20,7 @@ Mgr. Tomáš Portlík, předseda pražské krajské organizace ODS,
 Jan Dočekal, člen zastupitelského klubu ODS Praha 6
 
 
-Vážená paní předsedkyně,
-----
+__Vážená paní předsedkyně,__
 
 s hlubokým rozčarováním a nevolí sledujeme nedělní počínání zastupitele Jana Dočekala, zvoleného na vaší kandidátce ODS a člena zastupitelského klubu ODS v Praze 6, kterému předsedáte. Zmíněný zastupitel v neděli 10.1. na Staroměstském náměstí [moderoval](https://www.facebook.com/jan.docekal.165/posts/3582318905149230]) demonstraci směřovanou proti vakcinaci, nošení roušek a dodržování protiepidemiologických opatření. Navíc po boku extremistického hnutí [Slušní lidé](https://www.facebook.com/SlusniLideSeVracejiBrno/posts/1728156147347006).  
 
