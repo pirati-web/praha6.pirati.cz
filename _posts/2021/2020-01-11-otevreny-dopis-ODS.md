@@ -4,7 +4,7 @@ category: blog
 title: Otevřený dopis zastupitelskému klubu ODS v Praze 6
 date: 2020-01-11
 author: Ondřej Chrást
-image: otereny_dopis.jpg
+image: dopis.png
 tags: |-
   Praha_6
   ODS
