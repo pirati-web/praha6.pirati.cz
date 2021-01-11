@@ -8,9 +8,7 @@ image: dopis.png
 tags: |-
   ODS
 ---
-K rukám: 
-* Mgr. Kateřina Bartošová, předsedkyně zastupitelského klubu ODS Praha 6
-(v kopii zastupitelé MČ Praha 6)
+K rukám: Mgr. Kateřina Bartošová, předsedkyně zastupitelského klubu ODS Praha 6
 
 Na vědomí:
 * Mgr. Ondřej Kolář, starosta Prahy 6, 
