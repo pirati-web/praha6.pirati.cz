@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Otevřený dopis zastupitelskému klubu ODS v Praze 6
-date: 2020-01-11
+date: 2020-01-10
 author: Ondřej Chrást
 image: dopis.png
 tags: |-
@@ -38,7 +38,6 @@ Vážená paní předsedkyně, vyzýváme Vás k vyvození jasné politické odp
 
 Zastupitelský klub Piráti Praha 6
 
---
 Mgr. Ondřej Chrást
 předseda Zastupitelského klubu Piráti Praha 6
 tel: 606 914 916
