@@ -9,19 +9,14 @@ tags: |-
   ODS
 ---
 K rukám: 
-
 Mgr. Kateřina Bartošová, předsedkyně zastupitelského klubu ODS Praha 6
 (v kopii zastupitelé MČ Praha 6)
 
-
 Na vědomí:
-
-Mgr. Ondřej Kolář, starosta Prahy 6
-Mgr. Jakub Stárek, člen zastupitelského klubu ODS Praha 6, 1. místostarosta Prahy 6
-Mgr. Jan Lacina, místostarosta Prahy 6
-
-Mgr. Tomáš Portlík, předseda pražské krajské organizace ODS
-
+Mgr. Ondřej Kolář, starosta Prahy 6, 
+Mgr. Jakub Stárek, člen zastupitelského klubu ODS Praha 6, 1. místostarosta Prahy 6, 
+Mgr. Jan Lacina, místostarosta Prahy 6, 
+Mgr. Tomáš Portlík, předseda pražské krajské organizace ODS, 
 Jan Dočekal, člen zastupitelského klubu ODS Praha 6
 
 
@@ -37,6 +32,7 @@ Vážená paní předsedkyně, vyzýváme Vás k vyvození jasné politické odp
 
 Zastupitelský klub Piráti Praha 6
 
+--
 Mgr. Ondřej Chrást
 předseda Zastupitelského klubu Piráti Praha 6
 tel: 606 914 916
