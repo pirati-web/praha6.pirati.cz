@@ -7,8 +7,6 @@ author: Ondřej Chrást
 image: dopis.png
 tags: |-
   Praha_6
-  ODS
-  zastupitelský_klub
 ---
 
 K rukám: 
