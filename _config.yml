@@ -43,8 +43,8 @@ contactSummaryItems:
   - type: piratiRootWebsite
   - type: custom
     iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+    label: Kalendář akcí
+    body: <a href="https://calendar.google.com/calendar/embed?src=0f9cta2g20qvtrqnfmo2ntq3o8%40group.calendar.google.com&ctz=Europe%2FPrague">zde</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
