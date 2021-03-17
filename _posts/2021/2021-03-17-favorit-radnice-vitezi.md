@@ -4,7 +4,7 @@ category: blog
 title: Favorit radnice Prahy 6 opět vítězí, již počtvrté v řadě
 date: 2021-03-17
 author: Eva Tichá
-image: zelenykviz.png
+image: zelenykviz.PNG
 tags: |-
   Zelen
 ---
