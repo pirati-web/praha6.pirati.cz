@@ -19,3 +19,5 @@ Zvítězilo tedy sdružení CDV, s.r.o. a Pražské služby, a.s., ale ve skute�
 Pirátský návrh, který ale vedení MČ Praha 6 odmítlo, spočívá v rozdělení zakázky na několik územních celků (nejméně tří). Každá oblast by se podle zákona o zadávání zakázek soutěžila samostatně. Firmy by si mohly více konkurovat, plnění zakázky i finanční toky by byly transparentní. Více jsme o tom psali [zde](https://www.piratskelisty.cz/clanek-3720-jana-kabelova-zeleny-mejdan-starosty-prahy-6-kolare-aneb-jak-vypisovat-stamilionove-bianco-seky). Tento postup v minulých letech zvolila velmi úspěšně například Praha 10 a Praha 12. Proč chybí vůle podpořit zdravou hospodářskou konkurenci, která se v jiné městské části osvědčila?    
 
 Chceme, aby péče o zeleň a úklid v Praze 6 byla profesionální a transparentní. Aby Praha 6 stále patřila k nejzelenějším a nejzdravějším městským částem, abychom zde mohli komfortně a bezpečně žít.
+
+https://www.piratskelisty.cz/clanek-3934-praha-6-jiz-poctvrte-pridelila-pulmiliardovou-zakazku-na-zelen-spratelene-firme
