@@ -10,7 +10,7 @@ img: people/jana-kabelova.jpg
 description: 4. místopředsedkyně místního sdružení, projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6
 ordp6: 9
 ordkan: 3
-ordzk: 2
+ordzk: 3
 ---
 Jana Kabelová  je členkou Pirátské strany od března 2018.
 
