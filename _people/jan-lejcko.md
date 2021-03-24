@@ -10,7 +10,7 @@ img: people/jan-lejcko.jpg
 description: Student Právnické fakulty ZČU, basketbalový rozhodčí
 ordp6: 10
 ordkan: 10
-ordzk: 5
+ordzk: 9
 ---
 Jan Lejčko (* 04. dubna 1992, Praha) je členem pirátské strany od června roku 2017, členem KS Praha a MS Praha 6, kde žije a věnuje se zde komunální politice, angažuje se též v aktivitách souvisejících s prodejem pozemků, věcí movitých a nemovitých výrazně pod tržní hodnotou.
 
