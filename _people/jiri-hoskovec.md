@@ -10,7 +10,7 @@ img: people/jiri-hoskovec.jpg
 description: Manažer, forenzní specialista na finanční zločin. Vedoucí poradců primátora, zastupitel na Praze 6, hospodář mediálního odboru strany
 ordp6: 5
 ordkan: 9
-ordzk: 9
+ordzk: 8
 ---
 **Jiří Hoskovec** (*1992) je zastupitel MČ Praha 6 a zástupcem pro management a hospodář mediálního odboru Pirátů. Během volební kampaně do Poslanecké sněmovny v roce 2017 pracoval jako hospodář kampaně a zástupce volebního manažera. Je členem MS Praha 6. 
 
