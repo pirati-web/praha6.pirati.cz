@@ -8,6 +8,7 @@ image: trhy_web.png
 tags: |-
   Trhy_na_Kulataku
   Najmy
+  Rada
 ---
 Rada MČ Praha 6 už v lednu 2021 schválila spolku Farmářské trhy slevu z nájemného stánků za listopad a prosinec 2020, kdy z důvodů vládních nařízení dodržovat větší rozestupy mezi stánky mohl využít jen polovinu obvyklého počtu. 
 
