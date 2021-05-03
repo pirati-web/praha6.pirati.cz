@@ -4,7 +4,7 @@ category: blog
 title: Firma smlouvu neplnila, přesto znovu vítězí
 date: 2021-05-03
 author: Eva Tichá
-image: grasffiti.png
+image: graffiti.png
 tags: |-
   antigraffity
   verejny_prostor
