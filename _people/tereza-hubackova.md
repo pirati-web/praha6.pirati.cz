@@ -5,8 +5,8 @@ fullname: 'Bc. Tereza Hubáčková'
 mail: tereza.hubackova@pirati.cz
 category: mp
 img: people/tereza-hubackova.jpg
-description: 3. místopředsedkyně místního sdružení, členka pražského sociálního týmu
-ordp6: 4
+description: 1. místopředsedkyně místního sdružení, členka pražského sociálního týmu
+ordp6: 2
 ordkan: 19
 ---
 Bc. Tereza Hubáčková (* 11. 1. 1973) příznivkyní Pirátů je od jara 2016, od léta 2019 je místopředsedkyní MS v Praze 6, má na starost členskou základnu. Je členkou pražského i republikové rezortního týmu pro sociální věci a bydlení, za Piráty Praha 6 pracuje v komisi pro sociálně bytové otázky.
