@@ -6,7 +6,7 @@ mail: eva.ticha@pirati.cz
 category: 
 - clen
 - zk
-- pms
+- mp
 img: people/eva-ticha.jpg
 description: Členka zastupitelského klubu Piráti Praha 6, ekonomka, manažerka v oblasti komunikace a PR
 ordp6: 22
