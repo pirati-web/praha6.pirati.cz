@@ -7,7 +7,7 @@ category:
 - mp
 - zk
 img: people/jana-kabelova.jpg
-description: 4. místopředsedkyně místního sdružení, projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6
+description: 3. místopředsedkyně místního sdružení, projektantka a rozpočtářka, aktivistka v oblasti hospodaření s veřejnými financemi a majetkem Prahy 6
 ordp6: 9
 ordkan: 3
 ordzk: 3

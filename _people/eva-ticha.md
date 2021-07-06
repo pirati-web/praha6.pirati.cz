@@ -4,11 +4,10 @@ name: Eva Tichá
 fullname: Ing. Eva Tichá
 mail: eva.ticha@pirati.cz
 category: 
-- clen
 - zk
 - mp
 img: people/eva-ticha.jpg
-description: Členka zastupitelského klubu Piráti Praha 6, ekonomka, manažerka v oblasti komunikace a PR
+description: 4. místopředsedkyně místního sdružení, členka zastupitelského klubu Piráti Praha 6, ekonomka, manažerka v oblasti komunikace a PR
 ordp6: 22
 ordkan: 6
 ordzk: 6
