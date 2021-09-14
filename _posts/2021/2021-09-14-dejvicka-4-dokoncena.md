@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: Šestka konečně investuje do vlastního majetku! 📈
 author: Eva Tichá
-image: matuska.png
+image: matuska_web.png
 tags: |-
   dejvicka
   investice
