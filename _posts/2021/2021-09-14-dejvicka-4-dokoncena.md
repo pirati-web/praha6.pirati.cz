@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Šestka konečně investuje do vlastního majetku! 📈🏢
+title: Šestka konečně investuje do vlastního majetku! 📈
 author: Eva Tichá
 image: matuska.png
 tags: |-
@@ -9,9 +9,9 @@ tags: |-
   investice
   praha_6
 ---
-Šestka konečně investuje do vlastního majetku! 📈🏢
+Dejvická 4 je první investicí po deseti letech, která přinese peníze do rozpočtu městské části. 
 
-Dejvická 4 je první investicí po deseti letech, která přinese peníze do rozpočtu městské části. Odhadem by mohlo jít o 6-7 milionů korun ročně z celé nemovitosti, do které radnice Prahy 6 nakonec investovala zhruba 130 milionů korun. Letos v létě byla tato dlouho očekávaná rekonstrukce konečně završena i díky místostarostovi Janu Lacinovi (STAN). A právě takové investice by naše městská část potřebovala jako sůl. 🧂
+Odhadem by mohlo jít o 6-7 milionů korun ročně z celé nemovitosti, do které radnice Prahy 6 nakonec investovala zhruba 130 milionů korun. Letos v létě byla tato dlouho očekávaná rekonstrukce konečně završena i díky místostarostovi Janu Lacinovi (STAN). A právě takové investice by naše městská část potřebovala jako sůl. 🧂
 
 Rada městské části Praha 6 na svém zářijovém zasedání schválila nejlepší nabídku na pronájem zkolaudovaného prostoru v suterénu, přízemí a části 1. patra, který je určen pro gastronomické služby: ve veřejné soutěži zvítězila společnost Kulinářské stroje, s.r.o. s Pivovarem Matuška, která bude platit měsíční nájemné 180 000 korun (bez DPH). 🍺 Celková kolaudace Dejvické 4 ještě neproběhla. Na pronájmy bytů, které již odsouhlasila Komise bytové politiky, a zbývajících prostor k podnikání proběhnou výběrová řízení.
 
