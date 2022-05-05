@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: Nevýhodná smlouva pod hrozbou stamilionové žaloby. Praha 6 platí za neprofesionalitu místostarosty Laciny
-date: 2022-04_29
+date: 2022-04-29
 author: Piráti Praha 6
 image: pbis.jpg
 tags: |-
